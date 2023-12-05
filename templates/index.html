@@ -1,0 +1,69 @@
+{% extends "base.html" %}
+{% block title %} Página Inicial - Censo Pop de Rua {% endblock %}
+{% block content %}
+    <style>
+        /* Estilizando o contêiner como um flex container */
+        .button-container {
+            display: flex;
+        }
+
+        /* Estilo básico para os botões */
+        .button-container button {
+            <!-- margin-right: 150px; /* Adicionando um espaçamento entre os botões */ -->
+            <!-- border: 1px solid lightgray; -->
+            <!-- background-color: lightblue; -->
+            <!-- color: blue; -->
+            border-radius: 50px; /* Valor em pixels, ajuste conforme necessário */
+            padding: 10px 20px; /* Adicionando algum preenchimento para tornar o botão visualmente agradável */
+            background-color: #4CAF50; /* Cor de fundo do botão */
+            color: white; /* Cor do texto do botão */
+            border: none; /* Removendo a borda padrão */
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 22px;
+            margin: 14px 35px; /* vertical   horizontal */
+            cursor: pointer;
+
+        }
+    </style>
+
+    <h1>BD I - Projeto Final</h1>
+
+    <section>
+        <h2 id="introducao">População em Situação de Rua</h2>
+        <p>O tema escolhido foi o censo da população de rua em 2020 na cidade do Rio de Janeiro. Estudar o censo da população de rua no Rio de Janeiro em 2020 é de extrema relevância diante da precariedade socioeconômica que caracteriza a cidade. A realização desse censo proporciona uma compreensão aprofundada da extensão dos desafios enfrentados por essa parcela da sociedade, considerando fatores como a falta de moradia adequada, acesso limitado a serviços básicos e a persistência de desigualdades estruturais. </p>
+        <p>Em um contexto marcado pela pandemia de COVID-19 em 2020, a análise desses dados torna-se ainda mais crucial, pois a população em situação de rua está particularmente mais vulnerável a impactos negativos devido à dificuldade de acesso a medidas sanitárias e de saúde Além disso, compreender a dinâmica da população de rua contribui para direcionar políticas públicas mais eficazes e inclusivas, visando melhorar as condições de vida e promover a equidade social na cidade do Rio de Janeiro.</p>
+        <p>Para prosseguir com essa análise, foi selecionado o banco de dados da Prefeitura do Rio de Janeiro chamado “Censo de População em Situação de Rua do Rio de Janeiro 2020”, disponível no portal de dados abertos da Prefeitura da Cidade do Rio de Janeiro, o <a href="http://data.rio">Data.Rio</a>. Esse censo foi realizado de 26 de outubro de 2020 a 29 de outubro de 2020, e foi construído coletivamente pelo <a href="https://carioca.rio/orgao/instituto-municipal-de-urbanismo-pereira-passos-ipp/">Instituto Municipal de Urbanismo Pereira Passos (IPP)</a>, a <a href="https://carioca.rio/orgao/secretaria-municipal-de-assistencia-social-smas">Secretaria Municipal de Assistência Social (SMAS)</a> e a <a href="https://saude.prefeitura.rio/">Secretaria Municipal de Saúde (SMS)</a>.</p>
+    </section>
+
+    <h2>Explore!</h2>
+    <p>Entenda melhor a situação da população carioca em situação de rua:</p>
+
+    <div class="button-container">
+        <a href="films">
+            <button>Consulta 1</button>
+        </a>
+        <a href="planets">
+            <button>Consulta 2</button>
+        </a>
+        <a href="people">
+            <button>Consulta 3</button>
+        </a>
+    </div>
+
+
+    <h2 id="dataset">Sobre o Dataset</h2>
+    <p>O dataset foi extraído do data.rio, disponível em <a href="https://www.data.rio/documents/64fc9f1756b64f05827a54de8c89a5ed">https://www.data.rio/documents/64fc9f1756b64f05827a54de8c89a5ed</a> e a aquisição dos dos se deu através de formulários.</p>
+    <p>Foram aplicados quatro diferentes formulários, a depender da situação e do local da entrevista: </p>
+    <ol>
+    <li><strong>Questionário Rua</strong> (pessoas na rua); </li>
+    <li><strong>Questionário Cena de Uso</strong> (pessoas na rua, em locais/cenas de uso de drogas); 
+    <li><strong>Questionário Unidades de Institucional</strong> (pessoas acolhidas em unidades de reinserção social públicas e conveniadas e comunidades terapêuticas, quando foi possível visitar a unidade); e </li>
+    <li><strong>Formulário Institucional</strong> (pessoas acolhidas em unidades de acolhimento públicas e conveniadas e comunidades terapêuticas, quando não foi possível visitar a unidade [coleta indireta]). </li>
+    </ol>
+    <p>Nos casos em que a entrevista não pôde ser feita (ex.: risco para o entrevistador), foi aplicado o Questionário de Observação, com um número reduzido de perguntas. Caso, no local da entrevista, houvesse pessoas com menos de 12 anos, foi aplicado o Questionário de Crianças ao responsável por esta.</p>
+    <p>Para fins de operacionalização, a cidade do Rio foi regionalizada em quatro (4) grandes áreas, cada uma sendo visitada em um único dia. São elas: Centro (Dia 1); Zona Sul (Dia 2); e Zona Norte e Ilha do Governador (Dia 3) e Zona Oeste (Dia 1).</p>
+    <p>Toda a documentação e mais detalhes sobre o Censo PopRua 2020 podem ser acessados por meio do link <a href="https://censorua-pcrj.hub.arcgis.com/">https://censorua-pcrj.hub.arcgis.com/</a></p>
+
+{% endblock %}

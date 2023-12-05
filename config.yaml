@@ -1,0 +1,6 @@
+database:
+  name: "StarWars"
+  username: "root"
+  password: "senha"
+
+debug: true
