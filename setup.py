@@ -491,11 +491,11 @@ conn = create_engine(f'mysql+mysqlconnector://{usuario}:{senha}@{host}/{NOME_DB}
 
 
 # clean install
-conn.execute("DROP DATABASE IF EXISTS " + NOME_DB)
-
-conn.execute("CREATE DATABASE IF NOT EXISTS " + NOME_DB)
-
-print("Limpeza executada!")
+# conn.execute("DROP DATABASE IF EXISTS " + NOME_DB)
+#
+# conn.execute("CREATE DATABASE IF NOT EXISTS " + NOME_DB)
+#
+# print("Limpeza executada!")
 
 
 # Cria as tabelas a partir do arquivo .sql com os comandos
@@ -504,22 +504,22 @@ print("Limpeza executada!")
 
 
 # Ler o conteúdo do arquivo .sql
-with open('popRua.sql', 'r') as file:
-    sql_commands = file.read()
-
-# Dividir os comandos SQL em instruções individuais
-commands = sql_commands.split(';')
-
-# Conectar ao banco de dados e executar os comandos
-with conn.connect() as connection:
-    # Selecionar a base de dados
-    connection.execute(f"USE {NOME_DB}")
-
-    for command in commands:
-        if command.strip():  # Ignorar linhas em branco
-            connection.execute(command)
-
-print("Tabelas criadas com sucesso!")
+# with open('popRua.sql', 'r') as file:
+#     sql_commands = file.read()
+#
+# # Dividir os comandos SQL em instruções individuais
+# commands = sql_commands.split(';')
+#
+# # Conectar ao banco de dados e executar os comandos
+# with conn.connect() as connection:
+#     # Selecionar a base de dados
+#     connection.execute(f"USE {NOME_DB}")
+#
+#     for command in commands:
+#         if command.strip():  # Ignorar linhas em branco
+#             connection.execute(command)
+#
+# print("Tabelas criadas com sucesso!")
 
 
 # Populando popRua com os dados do CSV.

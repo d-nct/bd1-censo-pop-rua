@@ -13,6 +13,12 @@ OBS: Se você estiver usando um `host`ou uma porta diferente do padrão, apenas 
 
 Você precisará restaurar o bancos de dados, para isso:
 ```sh
+$ mysql -u root -u
+mysql > CREATE DATABASE popRua;
+mysql > exit;
+
+$ mysql -u root -u popRua < popRua.sql;
+
 $ python3 setup.py
 ```
 
