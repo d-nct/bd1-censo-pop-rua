@@ -19,7 +19,8 @@ OBS: Se você estiver usando um `host`ou uma porta diferente do padrão, apenas 
 
 Após essas etapas, você pode rodar o projeto com :
 ```sh
-$ python app.py
+$ python3 setup.py
+$ python3 app.py
 ```
 
 ---
