@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+{% block title %} Localização dos Entrevistados - População de Rua Carioca {% endblock %}
+{% block content %}
+<h1>Localização dos Entrevistados - População de Rua Carioca</h1>
+<p>A tabela gráfica abaixo relaciona os bairros cariocas (divididos por Regiões Administrativas) com a quantidade de entrevistados.</p>
+
+<p>Pela organização dos dados, não é possível agrupar as entrevistas por Regiões Administrativas.</p>
+
+
+  <table class="table" >
+    <thead>
+      <tr>
+        <th scope="col">Bairro</th>
+        <th scope="col">Quantidade de Pessoas</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for localizacao in localizacoes %}
+        <tr>
+          <th scope="row">{{ localizacao.nome_bairro | title }}</th>
+          <td>{{ localizacao.Quantidade_Pessoas | title }}</td>
+        </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+{% endblock %}
+
+

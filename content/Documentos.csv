@@ -1,0 +1,6 @@
+codigo,tipo_documento
+codigo_DOC1,Documento_CPF
+codigo_DOC2,Documento_Certidao_de_Nascimento
+codigo_DOC3,Documento_Carteira_de_Identidade
+codigo_DOC4,Documento_Carteira_de_Trabalho
+codigo_DOC5,Documento_Titulo_de_Eleitor

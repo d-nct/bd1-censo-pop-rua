@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+{% block title %} Principais Doenças - População de Rua Carioca {% endblock %}
+{% block content %}
+<h1>Principais Doenças no Rio - População de Rua Carioca</h1>
+<p>Na tabela gráfica abaixo, há os dois problemas de saúde mais frequentes em cada bairro do múnicipio de São Sebastião do Rio de Janeiro que acometem a população em situação de rua.</p>
+
+  <table class="table" >
+    <thead>
+      <tr>
+        <th scope="col">Bairro</th>
+        <th scope="col">Condição de Saúde</th>
+        <th scope="col">Quantidade de Pessoas</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for doenca in doencas %}
+        <tr>
+          <th scope="row">{{ doenca.nome_bairro | title }}</th>
+          <td>{{ doenca.condicao | title }}</td>
+          <td>{{ doenca.quantidade_repeticoes | title }}</td>
+        </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+{% endblock %}
+
+

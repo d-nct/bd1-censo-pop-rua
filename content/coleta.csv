@@ -1,0 +1,7273 @@
+ID,Turno,Codigo_da_RA
+0,Manhã,19
+1,Manhã,18
+2,Manhã,18
+3,Manhã,18
+4,Manhã,18
+5,Manhã,18
+6,Noite,24
+7,Noite,24
+8,Noite,24
+9,Noite,24
+10,Manhã,24
+11,Manhã,24
+12,Manhã,24
+13,Manhã,18
+14,Manhã,18
+15,Manhã,18
+16,Manhã,18
+17,Manhã,18
+18,Manhã,18
+19,Manhã,18
+20,Manhã,18
+21,Manhã,18
+22,Manhã,18
+23,Manhã,18
+24,Manhã,18
+25,Manhã,18
+26,Manhã,17
+27,Manhã,17
+28,Manhã,17
+29,Manhã,17
+30,Manhã,17
+31,Manhã,19
+32,Manhã,19
+33,Manhã,19
+34,Manhã,19
+35,Manhã,24
+36,Manhã,24
+37,Manhã,24
+38,Manhã,24
+39,Manhã,24
+40,Tarde,17
+41,Tarde,17
+42,Tarde,17
+43,Manhã,17
+44,Tarde,17
+45,Manhã,24
+46,Manhã,24
+47,Manhã,24
+48,Manhã,24
+49,Manhã,24
+50,Manhã,24
+51,Manhã,24
+52,Tarde,24
+53,Manhã,24
+54,Manhã,24
+55,Manhã,24
+56,Manhã,24
+57,Tarde,24
+58,Manhã,17
+59,Manhã,17
+60,Manhã,17
+61,Manhã,17
+62,Tarde,17
+63,Tarde,18
+64,Tarde,18
+65,Tarde,18
+66,Manhã,17
+67,Manhã,17
+68,Manhã,17
+69,Manhã,17
+70,Tarde,17
+71,Manhã,17
+72,Tarde,17
+73,Manhã,18
+74,Tarde,17
+75,Manhã,17
+76,Manhã,33
+77,Manhã,17
+78,Manhã,17
+79,Manhã,17
+80,Manhã,17
+81,Manhã,17
+82,Manhã,17
+83,Manhã,17
+84,Tarde,17
+85,Tarde,17
+86,Tarde,17
+87,Manhã,16
+88,Manhã,34
+89,Manhã,33
+90,Manhã,17
+91,Manhã,17
+92,Manhã,17
+93,Manhã,17
+94,Manhã,17
+95,Manhã,17
+96,Manhã,18
+97,Manhã,18
+98,Manhã,18
+99,Tarde,18
+100,Manhã,18
+101,Manhã,18
+102,Manhã,18
+103,Manhã,18
+104,Manhã,18
+105,Manhã,24
+106,Manhã,24
+107,Manhã,24
+108,Manhã,24
+109,Manhã,24
+110,Tarde,24
+111,Manhã,24
+112,Tarde,24
+113,Tarde,24
+114,Tarde,24
+115,Tarde,24
+116,Manhã,18
+117,Manhã,18
+118,Manhã,18
+119,Manhã,18
+120,Manhã,18
+121,Manhã,18
+122,Manhã,18
+123,Manhã,33
+124,Manhã,33
+125,Manhã,33
+126,Manhã,33
+127,Manhã,33
+128,Manhã,33
+129,Manhã,17
+130,Manhã,17
+131,Manhã,17
+132,Manhã,17
+133,Manhã,17
+134,Manhã,16
+135,Manhã,16
+136,Manhã,16
+137,Manhã,16
+138,Manhã,16
+139,Manhã,18
+140,Manhã,18
+141,Manhã,18
+142,Manhã,18
+143,Manhã,18
+144,Manhã,16
+145,Manhã,16
+146,Manhã,16
+147,Manhã,16
+148,Manhã,33
+149,Manhã,33
+150,Manhã,33
+151,Manhã,33
+152,Manhã,33
+153,Manhã,33
+154,Noite,16
+155,Manhã,16
+156,Noite,24
+157,Noite,24
+158,Noite,24
+159,Noite,24
+160,Manhã,19
+161,Manhã,19
+162,Manhã,19
+163,Manhã,19
+164,Manhã,19
+165,Manhã,19
+166,Manhã,19
+167,Manhã,19
+168,Manhã,19
+169,Tarde,19
+170,Tarde,19
+171,Tarde,19
+172,Tarde,24
+173,Tarde,24
+174,Manhã,24
+175,Manhã,24
+176,Manhã,24
+177,Manhã,24
+178,Manhã,24
+179,Manhã,24
+180,Manhã,24
+181,Manhã,24
+182,Manhã,24
+183,Manhã,24
+184,Manhã,24
+185,Manhã,24
+186,Manhã,24
+187,Tarde,24
+188,Tarde,16
+189,Noite,17
+190,Noite,17
+191,Noite,18
+192,Noite,18
+193,Noite,17
+194,Noite,17
+195,Noite,17
+196,Noite,17
+197,Noite,17
+198,Noite,17
+199,Noite,17
+200,Noite,17
+201,Noite,24
+202,Noite,17
+203,Noite,17
+204,Noite,17
+205,Noite,24
+206,Noite,18
+207,Manhã,19
+208,Manhã,19
+209,Manhã,19
+210,Manhã,19
+211,Manhã,19
+212,Manhã,19
+213,Manhã,19
+214,Manhã,19
+215,Manhã,19
+216,Tarde,19
+217,Noite,18
+218,Noite,18
+219,Noite,17
+220,Noite,17
+221,Noite,17
+222,Noite,17
+223,Noite,17
+224,Noite,17
+225,Manhã,19
+226,Manhã,19
+227,Manhã,19
+228,Manhã,19
+229,Manhã,19
+230,Manhã,19
+231,Manhã,19
+232,Manhã,19
+233,Manhã,19
+234,Noite,17
+235,Noite,17
+236,Manhã,19
+237,Noite,17
+238,Manhã,19
+239,Noite,17
+240,Manhã,19
+241,Noite,17
+242,Noite,17
+243,Noite,17
+244,Noite,17
+245,Noite,17
+246,Noite,17
+247,Noite,17
+248,Noite,17
+249,Noite,17
+250,Noite,18
+251,Noite,18
+252,Noite,18
+253,Noite,18
+254,Noite,18
+255,Noite,18
+256,Noite,18
+257,Manhã,18
+258,Noite,18
+259,Noite,17
+260,Noite,17
+261,Noite,17
+262,Noite,17
+263,Noite,26
+264,Noite,24
+265,Noite,24
+266,Noite,24
+267,Noite,24
+268,Noite,33
+269,Noite,17
+270,Noite,24
+271,Noite,24
+272,Noite,24
+273,Noite,24
+274,Noite,24
+275,Noite,24
+276,Noite,18
+277,Noite,18
+278,Noite,18
+279,Noite,19
+280,Noite,19
+281,Noite,19
+282,Noite,19
+283,Noite,19
+284,Noite,19
+285,Noite,19
+286,Noite,19
+287,Noite,19
+288,Noite,18
+289,Noite,18
+290,Noite,18
+291,Noite,18
+292,Noite,17
+293,Noite,17
+294,Noite,17
+295,Noite,17
+296,Noite,17
+297,Noite,17
+298,Noite,17
+299,Noite,19
+300,Noite,19
+301,Noite,19
+302,Noite,18
+303,Noite,18
+304,Noite,18
+305,Noite,19
+306,Noite,19
+307,Noite,19
+308,Noite,19
+309,Noite,19
+310,Noite,19
+311,Noite,19
+312,Noite,19
+313,Noite,19
+314,Noite,19
+315,Noite,19
+316,Noite,17
+317,Noite,17
+318,Noite,24
+319,Noite,24
+320,Noite,24
+321,Noite,24
+322,Noite,16
+323,Noite,24
+324,Noite,24
+325,Noite,24
+326,Noite,24
+327,Noite,24
+328,Noite,24
+329,Noite,24
+330,Noite,24
+331,Noite,24
+332,Noite,16
+333,Noite,16
+334,Noite,24
+335,Noite,24
+336,Noite,24
+337,Noite,24
+338,Noite,24
+339,Noite,16
+340,Noite,16
+341,Noite,16
+342,Noite,16
+343,Noite,16
+344,Noite,16
+345,Noite,16
+346,Noite,16
+347,Noite,16
+348,Noite,16
+349,Noite,16
+350,Noite,17
+351,Noite,17
+352,Noite,24
+353,Noite,24
+354,Noite,16
+355,Noite,16
+356,Noite,16
+357,Noite,16
+358,Noite,16
+359,Noite,24
+360,Noite,24
+361,Noite,24
+362,Noite,16
+363,Noite,16
+364,Noite,16
+365,Noite,16
+366,Noite,16
+367,Noite,16
+368,Noite,24
+369,Noite,24
+370,Noite,24
+371,Noite,24
+372,Noite,24
+373,Noite,24
+374,Noite,24
+375,Noite,19
+376,Noite,19
+377,Noite,24
+378,Noite,24
+379,Noite,24
+380,Noite,24
+381,Manhã,2
+382,Manhã,2
+383,Manhã,2
+384,Manhã,2
+385,Manhã,2
+386,Manhã,2
+387,Manhã,2
+388,Manhã,2
+389,Manhã,2
+390,Manhã,2
+391,Noite,16
+392,Noite,16
+393,Noite,16
+394,Manhã,2
+395,Manhã,2
+396,Manhã,2
+397,Manhã,2
+398,Manhã,2
+399,Manhã,2
+400,Manhã,2
+401,Tarde,2
+402,Tarde,2
+403,Tarde,2
+404,Tarde,2
+405,Tarde,2
+406,Tarde,2
+407,Manhã,2
+408,Tarde,2
+409,Tarde,2
+410,Manhã,2
+411,Manhã,2
+412,Manhã,2
+413,Manhã,2
+414,Manhã,2
+415,Manhã,2
+416,Manhã,2
+417,Manhã,2
+418,Manhã,2
+419,Manhã,2
+420,Manhã,2
+421,Manhã,2
+422,Manhã,2
+423,Manhã,16
+424,Manhã,2
+425,Manhã,2
+426,Manhã,2
+427,Manhã,2
+428,Manhã,2
+429,Manhã,2
+430,Manhã,3
+431,Manhã,3
+432,Manhã,3
+433,Manhã,3
+434,Manhã,3
+435,Manhã,3
+436,Manhã,3
+437,Manhã,3
+438,Manhã,3
+439,Manhã,3
+440,Manhã,3
+441,Manhã,3
+442,Manhã,3
+443,Manhã,3
+444,Manhã,3
+445,Manhã,3
+446,Tarde,3
+447,Manhã,3
+448,Tarde,3
+449,Manhã,3
+450,Tarde,3
+451,Tarde,3
+452,Manhã,3
+453,Manhã,3
+454,Manhã,3
+455,Tarde,3
+456,Tarde,3
+457,Manhã,2
+458,Manhã,2
+459,Manhã,2
+460,Manhã,2
+461,Manhã,2
+462,Manhã,2
+463,Manhã,2
+464,Manhã,2
+465,Manhã,2
+466,Manhã,2
+467,Manhã,2
+468,Manhã,2
+469,Manhã,2
+470,Manhã,2
+471,Manhã,2
+472,Manhã,2
+473,Manhã,2
+474,Manhã,2
+475,Manhã,2
+476,Manhã,2
+477,Tarde,2
+478,Tarde,2
+479,Tarde,2
+480,Tarde,2
+481,Tarde,2
+482,Manhã,2
+483,Manhã,2
+484,Manhã,2
+485,Manhã,2
+486,Manhã,2
+487,Manhã,2
+488,Manhã,2
+489,Manhã,2
+490,Manhã,2
+491,Manhã,2
+492,Manhã,2
+493,Manhã,2
+494,Manhã,2
+495,Noite,16
+496,Manhã,2
+497,Manhã,2
+498,Manhã,2
+499,Manhã,2
+500,Manhã,2
+501,Manhã,2
+502,Tarde,4
+503,Tarde,4
+504,Tarde,4
+505,Manhã,4
+506,Tarde,4
+507,Manhã,3
+508,Manhã,3
+509,Manhã,3
+510,Manhã,3
+511,Manhã,3
+512,Manhã,3
+513,Manhã,3
+514,Manhã,3
+515,Manhã,3
+516,Manhã,3
+517,Manhã,3
+518,Tarde,3
+519,Tarde,3
+520,Tarde,3
+521,Tarde,3
+522,Manhã,2
+523,Manhã,2
+524,Manhã,2
+525,Manhã,2
+526,Manhã,2
+527,Manhã,2
+528,Manhã,2
+529,Manhã,2
+530,Manhã,2
+531,Manhã,2
+532,Manhã,2
+533,Manhã,2
+534,Manhã,2
+535,Manhã,2
+536,Manhã,2
+537,Tarde,2
+538,Tarde,2
+539,Tarde,2
+540,Tarde,2
+541,Manhã,2
+542,Manhã,2
+543,Manhã,2
+544,Manhã,2
+545,Manhã,2
+546,Manhã,2
+547,Tarde,4
+548,Tarde,4
+549,Tarde,4
+550,Tarde,4
+551,Tarde,4
+552,Tarde,2
+553,Manhã,2
+554,Manhã,2
+555,Manhã,2
+556,Manhã,2
+557,Manhã,2
+558,Manhã,2
+559,Manhã,2
+560,Manhã,2
+561,Manhã,2
+562,Manhã,2
+563,Manhã,2
+564,Manhã,2
+565,Tarde,2
+566,Tarde,2
+567,Tarde,2
+568,Tarde,2
+569,Tarde,2
+570,Manhã,4
+571,Manhã,4
+572,Manhã,4
+573,Manhã,4
+574,Manhã,3
+575,Manhã,2
+576,Manhã,2
+577,Manhã,2
+578,Manhã,2
+579,Manhã,2
+580,Manhã,2
+581,Manhã,2
+582,Manhã,2
+583,Manhã,2
+584,Manhã,2
+585,Tarde,2
+586,Tarde,2
+587,Tarde,2
+588,Manhã,4
+589,Manhã,4
+590,Manhã,4
+591,Manhã,4
+592,Manhã,4
+593,Manhã,4
+594,Manhã,2
+595,Manhã,2
+596,Tarde,4
+597,Tarde,4
+598,Tarde,1
+599,Manhã,4
+600,Manhã,2
+601,Manhã,2
+602,Manhã,2
+603,Manhã,2
+604,Manhã,2
+605,Manhã,2
+606,Tarde,2
+607,Manhã,2
+608,Manhã,2
+609,Manhã,2
+610,Manhã,2
+611,Manhã,2
+612,Manhã,2
+613,Manhã,2
+614,Manhã,2
+615,Tarde,2
+616,Tarde,2
+617,Tarde,2
+618,Tarde,2
+619,Manhã,2
+620,Manhã,2
+621,Manhã,2
+622,Manhã,2
+623,Manhã,2
+624,Tarde,2
+625,Manhã,2
+626,Manhã,2
+627,Manhã,2
+628,Manhã,2
+629,Tarde,2
+630,Tarde,2
+631,Tarde,2
+632,Manhã,2
+633,Manhã,2
+634,Manhã,2
+635,Manhã,2
+636,Manhã,2
+637,Manhã,2
+638,Manhã,2
+639,Manhã,2
+640,Tarde,2
+641,Tarde,2
+642,Tarde,2
+643,Manhã,2
+644,Manhã,2
+645,Manhã,2
+646,Manhã,2
+647,Manhã,2
+648,Manhã,2
+649,Tarde,2
+650,Tarde,2
+651,Manhã,2
+652,Manhã,2
+653,Manhã,2
+654,Manhã,2
+655,Manhã,2
+656,Manhã,2
+657,Manhã,2
+658,Manhã,2
+659,Manhã,2
+660,Manhã,2
+661,Manhã,2
+662,Manhã,2
+663,Tarde,2
+664,Tarde,2
+665,Tarde,2
+666,Manhã,2
+667,Manhã,2
+668,Manhã,2
+669,Manhã,2
+670,Manhã,2
+671,Manhã,2
+672,Manhã,2
+673,Manhã,2
+674,Tarde,4
+675,Tarde,4
+676,Tarde,4
+677,Manhã,4
+678,Tarde,4
+679,Tarde,2
+680,Tarde,2
+681,Manhã,2
+682,Manhã,2
+683,Manhã,2
+684,Manhã,2
+685,Manhã,2
+686,Manhã,2
+687,Manhã,2
+688,Manhã,2
+689,Manhã,2
+690,Manhã,4
+691,Manhã,4
+692,Manhã,4
+693,Manhã,4
+694,Manhã,4
+695,Manhã,4
+696,Manhã,4
+697,Manhã,4
+698,Manhã,2
+699,Manhã,2
+700,Tarde,4
+701,Manhã,2
+702,Manhã,2
+703,Manhã,2
+704,Manhã,2
+705,Manhã,2
+706,Manhã,2
+707,Manhã,2
+708,Manhã,2
+709,Manhã,5
+710,Manhã,2
+711,Manhã,2
+712,Manhã,2
+713,Manhã,2
+714,Manhã,2
+715,Manhã,2
+716,Manhã,2
+717,Manhã,2
+718,Manhã,2
+719,Manhã,2
+720,Manhã,2
+721,Manhã,2
+722,Manhã,2
+723,Tarde,4
+724,Tarde,4
+725,Tarde,4
+726,Tarde,2
+727,Manhã,2
+728,Manhã,2
+729,Manhã,2
+730,Manhã,2
+731,Manhã,2
+732,Manhã,2
+733,Manhã,2
+734,Manhã,2
+735,Manhã,2
+736,Manhã,2
+737,Manhã,2
+738,Tarde,2
+739,Tarde,2
+740,Tarde,2
+741,Tarde,2
+742,Manhã,2
+743,Manhã,2
+744,Manhã,2
+745,Manhã,2
+746,Manhã,2
+747,Manhã,2
+748,Manhã,2
+749,Manhã,2
+750,Manhã,2
+751,Manhã,2
+752,Tarde,4
+753,Tarde,2
+754,Tarde,2
+755,Tarde,2
+756,Tarde,2
+757,Manhã,2
+758,Manhã,2
+759,Manhã,2
+760,Manhã,2
+761,Manhã,2
+762,Manhã,2
+763,Manhã,2
+764,Manhã,2
+765,Tarde,4
+766,Tarde,4
+767,Tarde,4
+768,Tarde,4
+769,Tarde,2
+770,Manhã,4
+771,Manhã,4
+772,Manhã,4
+773,Manhã,4
+774,Manhã,4
+775,Manhã,4
+776,Manhã,4
+777,Manhã,4
+778,Manhã,4
+779,Manhã,2
+780,Manhã,2
+781,Manhã,2
+782,Manhã,2
+783,Tarde,4
+784,Manhã,4
+785,Tarde,1
+786,Manhã,4
+787,Manhã,4
+788,Manhã,4
+789,Manhã,4
+790,Manhã,4
+791,Manhã,4
+792,Manhã,4
+793,Manhã,23
+794,Manhã,2
+795,Manhã,2
+796,Manhã,2
+797,Manhã,2
+798,Manhã,2
+799,Manhã,2
+800,Manhã,2
+801,Manhã,2
+802,Manhã,2
+803,Tarde,2
+804,Tarde,2
+805,Tarde,2
+806,Tarde,2
+807,Noite,2
+808,Manhã,2
+809,Manhã,2
+810,Manhã,2
+811,Manhã,2
+812,Manhã,2
+813,Manhã,2
+814,Manhã,2
+815,Manhã,2
+816,Manhã,2
+817,Manhã,2
+818,Manhã,2
+819,Manhã,2
+820,Manhã,2
+821,Noite,2
+822,Manhã,2
+823,Manhã,2
+824,Manhã,2
+825,Manhã,2
+826,Manhã,2
+827,Manhã,2
+828,Manhã,2
+829,Manhã,2
+830,Manhã,2
+831,Manhã,2
+832,Manhã,2
+833,Manhã,2
+834,Manhã,2
+835,Manhã,2
+836,Manhã,2
+837,Tarde,4
+838,Tarde,2
+839,Tarde,2
+840,Tarde,2
+841,Tarde,2
+842,Tarde,2
+843,Manhã,3
+844,Manhã,3
+845,Manhã,3
+846,Manhã,3
+847,Manhã,3
+848,Manhã,3
+849,Manhã,3
+850,Manhã,3
+851,Manhã,3
+852,Manhã,3
+853,Manhã,3
+854,Manhã,3
+855,Tarde,3
+856,Noite,3
+857,Noite,2
+858,Noite,2
+859,Noite,2
+860,Noite,2
+861,Noite,2
+862,Noite,2
+863,Noite,2
+864,Noite,2
+865,Noite,2
+866,Noite,2
+867,Noite,2
+868,Noite,2
+869,Noite,2
+870,Noite,2
+871,Noite,2
+872,Noite,2
+873,Noite,2
+874,Noite,2
+875,Noite,2
+876,Noite,2
+877,Noite,2
+878,Noite,2
+879,Noite,2
+880,Noite,2
+881,Tarde,2
+882,Noite,2
+883,Noite,2
+884,Tarde,4
+885,Noite,2
+886,Noite,3
+887,Manhã,4
+888,Manhã,4
+889,Manhã,4
+890,Manhã,4
+891,Manhã,4
+892,Manhã,4
+893,Manhã,4
+894,Manhã,2
+895,Manhã,2
+896,Manhã,2
+897,Tarde,4
+898,Tarde,1
+899,Noite,3
+900,Noite,3
+901,Noite,3
+902,Noite,1
+903,Noite,1
+904,Noite,2
+905,Noite,2
+906,Noite,2
+907,Noite,2
+908,Noite,2
+909,Noite,2
+910,Noite,8
+911,Noite,3
+912,Noite,3
+913,Noite,2
+914,Noite,1
+915,Noite,2
+916,Noite,1
+917,Noite,2
+918,Noite,2
+919,Noite,2
+920,Noite,2
+921,Noite,2
+922,Noite,2
+923,Noite,2
+924,Noite,4
+925,Noite,2
+926,Noite,2
+927,Noite,2
+928,Noite,2
+929,Noite,2
+930,Noite,2
+931,Noite,2
+932,Noite,2
+933,Noite,2
+934,Noite,2
+935,Noite,2
+936,Noite,2
+937,Noite,2
+938,Noite,2
+939,Noite,2
+940,Noite,2
+941,Noite,2
+942,Noite,2
+943,Noite,4
+944,Noite,4
+945,Noite,4
+946,Noite,3
+947,Noite,3
+948,Noite,8
+949,Noite,3
+950,Noite,3
+951,Noite,2
+952,Noite,2
+953,Noite,2
+954,Noite,2
+955,Noite,2
+956,Noite,2
+957,Noite,2
+958,Noite,2
+959,Noite,2
+960,Noite,2
+961,Noite,2
+962,Noite,2
+963,Noite,2
+964,Noite,2
+965,Noite,2
+966,Noite,2
+967,Noite,2
+968,Noite,2
+969,Noite,2
+970,Noite,2
+971,Noite,2
+972,Noite,2
+973,Noite,2
+974,Noite,2
+975,Noite,2
+976,Noite,2
+977,Noite,2
+978,Noite,23
+979,Noite,2
+980,Noite,2
+981,Noite,2
+982,Noite,2
+983,Noite,2
+984,Noite,2
+985,Noite,2
+986,Noite,23
+987,Noite,3
+988,Noite,3
+989,Noite,2
+990,Noite,2
+991,Noite,2
+992,Noite,2
+993,Noite,2
+994,Noite,2
+995,Noite,2
+996,Noite,2
+997,Noite,1
+998,Noite,2
+999,Noite,2
+1000,Noite,2
+1001,Noite,2
+1002,Noite,2
+1003,Noite,2
+1004,Noite,2
+1005,Noite,2
+1006,Noite,2
+1007,Noite,1
+1008,Noite,2
+1009,Noite,2
+1010,Noite,2
+1011,Noite,2
+1012,Noite,2
+1013,Noite,2
+1014,Noite,2
+1015,Noite,2
+1016,Noite,2
+1017,Noite,2
+1018,Noite,2
+1019,Noite,3
+1020,Noite,8
+1021,Noite,3
+1022,Noite,2
+1023,Noite,2
+1024,Noite,2
+1025,Noite,2
+1026,Noite,2
+1027,Noite,2
+1028,Noite,2
+1029,Noite,2
+1030,Noite,2
+1031,Noite,2
+1032,Noite,2
+1033,Noite,2
+1034,Noite,2
+1035,Noite,2
+1036,Noite,2
+1037,Noite,2
+1038,Noite,2
+1039,Noite,2
+1040,Noite,1
+1041,Noite,2
+1042,Noite,2
+1043,Noite,2
+1044,Noite,2
+1045,Noite,2
+1046,Noite,2
+1047,Noite,2
+1048,Noite,2
+1049,Noite,2
+1050,Noite,2
+1051,Noite,2
+1052,Noite,2
+1053,Noite,2
+1054,Noite,2
+1055,Noite,2
+1056,Noite,2
+1057,Noite,2
+1058,Noite,2
+1059,Noite,2
+1060,Noite,2
+1061,Noite,2
+1062,Noite,2
+1063,Noite,1
+1064,Noite,2
+1065,Noite,2
+1066,Noite,1
+1067,Noite,2
+1068,Noite,2
+1069,Noite,2
+1070,Noite,2
+1071,Noite,2
+1072,Noite,2
+1073,Noite,2
+1074,Noite,2
+1075,Noite,2
+1076,Noite,4
+1077,Noite,4
+1078,Noite,4
+1079,Noite,2
+1080,Noite,2
+1081,Noite,2
+1082,Noite,2
+1083,Noite,2
+1084,Noite,2
+1085,Noite,2
+1086,Noite,2
+1087,Noite,2
+1088,Noite,3
+1089,Noite,3
+1090,Noite,3
+1091,Noite,3
+1092,Noite,2
+1093,Noite,2
+1094,Noite,2
+1095,Noite,2
+1096,Noite,2
+1097,Noite,2
+1098,Noite,2
+1099,Noite,2
+1100,Noite,2
+1101,Noite,2
+1102,Noite,2
+1103,Noite,2
+1104,Noite,2
+1105,Noite,2
+1106,Noite,4
+1107,Noite,2
+1108,Noite,2
+1109,Noite,2
+1110,Noite,2
+1111,Noite,2
+1112,Noite,3
+1113,Noite,4
+1114,Noite,4
+1115,Noite,2
+1116,Noite,2
+1117,Noite,2
+1118,Noite,2
+1119,Noite,2
+1120,Noite,2
+1121,Noite,2
+1122,Noite,4
+1123,Noite,2
+1124,Noite,2
+1125,Noite,2
+1126,Noite,2
+1127,Noite,2
+1128,Noite,3
+1129,Noite,1
+1130,Noite,2
+1131,Noite,2
+1132,Noite,2
+1133,Noite,2
+1134,Noite,2
+1135,Noite,2
+1136,Noite,2
+1137,Noite,2
+1138,Noite,2
+1139,Noite,2
+1140,Noite,2
+1141,Noite,4
+1142,Noite,4
+1143,Noite,2
+1144,Noite,2
+1145,Noite,2
+1146,Noite,2
+1147,Noite,2
+1148,Noite,2
+1149,Noite,2
+1150,Noite,2
+1151,Noite,2
+1152,Noite,2
+1153,Noite,2
+1154,Noite,2
+1155,Noite,2
+1156,Noite,2
+1157,Noite,2
+1158,Noite,2
+1159,Noite,2
+1160,Noite,2
+1161,Noite,2
+1162,Noite,2
+1163,Noite,2
+1164,Noite,4
+1165,Noite,4
+1166,Noite,1
+1167,Noite,1
+1168,Noite,2
+1169,Noite,2
+1170,Noite,2
+1171,Noite,2
+1172,Noite,2
+1173,Noite,2
+1174,Noite,2
+1175,Noite,2
+1176,Noite,2
+1177,Noite,2
+1178,Noite,2
+1179,Noite,2
+1180,Noite,2
+1181,Noite,2
+1182,Manhã,2
+1183,Manhã,2
+1184,Manhã,2
+1185,Manhã,2
+1186,Manhã,2
+1187,Manhã,2
+1188,Tarde,2
+1189,Tarde,2
+1190,Noite,16
+1191,Noite,16
+1192,Noite,16
+1193,Noite,16
+1194,Noite,16
+1195,Noite,16
+1196,Noite,16
+1197,Noite,16
+1198,Noite,3
+1199,Noite,7
+1200,Noite,2
+1201,Noite,3
+1202,Noite,3
+1203,Noite,8
+1204,Noite,8
+1205,Noite,2
+1206,Noite,2
+1207,Noite,2
+1208,Noite,2
+1209,Noite,2
+1210,Noite,2
+1211,Noite,2
+1212,Noite,4
+1213,Noite,2
+1214,Noite,2
+1215,Noite,2
+1216,Noite,2
+1217,Noite,2
+1218,Noite,2
+1219,Noite,2
+1220,Noite,2
+1221,Noite,16
+1222,Noite,2
+1223,Noite,2
+1224,Noite,2
+1225,Noite,2
+1226,Noite,2
+1227,Noite,2
+1228,Noite,2
+1229,Noite,2
+1230,Noite,2
+1231,Noite,2
+1232,Noite,2
+1233,Noite,2
+1234,Noite,2
+1235,Noite,2
+1236,Noite,2
+1237,Noite,2
+1238,Noite,2
+1239,Noite,2
+1240,Noite,2
+1241,Manhã,6
+1242,Noite,2
+1243,Noite,2
+1244,Noite,2
+1245,Noite,2
+1246,Noite,2
+1247,Noite,2
+1248,Noite,2
+1249,Noite,2
+1250,Noite,2
+1251,Noite,2
+1252,Noite,2
+1253,Noite,2
+1254,Noite,2
+1255,Noite,2
+1256,Noite,2
+1257,Noite,2
+1258,Manhã,6
+1259,Manhã,5
+1260,Manhã,5
+1261,Manhã,5
+1262,Manhã,5
+1263,Manhã,5
+1264,Manhã,6
+1265,Manhã,5
+1266,Manhã,5
+1267,Manhã,5
+1268,Manhã,5
+1269,Manhã,5
+1270,Manhã,5
+1271,Noite,5
+1272,Noite,5
+1273,Noite,5
+1274,Noite,5
+1275,Manhã,5
+1276,Manhã,5
+1277,Manhã,5
+1278,Tarde,5
+1279,Tarde,5
+1280,Tarde,5
+1281,Tarde,5
+1282,Noite,5
+1283,Noite,5
+1284,Noite,5
+1285,Tarde,5
+1286,Tarde,5
+1287,Manhã,5
+1288,Manhã,6
+1289,Manhã,6
+1290,Manhã,6
+1291,Manhã,6
+1292,Tarde,5
+1293,Tarde,5
+1294,Tarde,5
+1295,Manhã,5
+1296,Manhã,6
+1297,Manhã,6
+1298,Tarde,6
+1299,Manhã,5
+1300,Manhã,5
+1301,Manhã,5
+1302,Manhã,5
+1303,Manhã,5
+1304,Manhã,5
+1305,Manhã,5
+1306,Manhã,5
+1307,Tarde,5
+1308,Tarde,5
+1309,Tarde,5
+1310,Tarde,5
+1311,Tarde,5
+1312,Manhã,5
+1313,Manhã,5
+1314,Manhã,5
+1315,Manhã,5
+1316,Manhã,5
+1317,Tarde,5
+1318,Manhã,6
+1319,Manhã,5
+1320,Manhã,5
+1321,Manhã,5
+1322,Manhã,5
+1323,Manhã,5
+1324,Manhã,5
+1325,Tarde,5
+1326,Tarde,5
+1327,Manhã,5
+1328,Manhã,5
+1329,Manhã,5
+1330,Manhã,5
+1331,Manhã,5
+1332,Tarde,5
+1333,Tarde,5
+1334,Tarde,5
+1335,Manhã,5
+1336,Manhã,5
+1337,Manhã,5
+1338,Manhã,5
+1339,Manhã,5
+1340,Tarde,5
+1341,Tarde,5
+1342,Manhã,6
+1343,Manhã,5
+1344,Manhã,5
+1345,Manhã,5
+1346,Manhã,5
+1347,Tarde,5
+1348,Tarde,5
+1349,Manhã,5
+1350,Manhã,5
+1351,Manhã,5
+1352,Manhã,5
+1353,Manhã,5
+1354,Manhã,5
+1355,Manhã,5
+1356,Tarde,5
+1357,Tarde,5
+1358,Noite,2
+1359,Noite,2
+1360,Noite,2
+1361,Noite,2
+1362,Noite,2
+1363,Manhã,5
+1364,Manhã,6
+1365,Manhã,5
+1366,Manhã,5
+1367,Manhã,5
+1368,Manhã,5
+1369,Manhã,5
+1370,Tarde,6
+1371,Manhã,5
+1372,Manhã,5
+1373,Tarde,5
+1374,Manhã,5
+1375,Manhã,5
+1376,Manhã,5
+1377,Tarde,5
+1378,Manhã,5
+1379,Manhã,6
+1380,Manhã,6
+1381,Manhã,6
+1382,Manhã,6
+1383,Tarde,6
+1384,Manhã,5
+1385,Manhã,5
+1386,Manhã,5
+1387,Manhã,5
+1388,Manhã,5
+1389,Manhã,5
+1390,Manhã,5
+1391,Manhã,5
+1392,Manhã,5
+1393,Manhã,5
+1394,Tarde,5
+1395,Tarde,5
+1396,Tarde,5
+1397,Tarde,5
+1398,Manhã,5
+1399,Manhã,5
+1400,Manhã,5
+1401,Tarde,5
+1402,Tarde,5
+1403,Tarde,5
+1404,Manhã,5
+1405,Manhã,5
+1406,Manhã,5
+1407,Tarde,5
+1408,Tarde,5
+1409,Tarde,5
+1410,Manhã,6
+1411,Manhã,6
+1412,Manhã,6
+1413,Manhã,6
+1414,Tarde,6
+1415,Manhã,6
+1416,Manhã,6
+1417,Manhã,6
+1418,Manhã,6
+1419,Manhã,5
+1420,Manhã,5
+1421,Manhã,5
+1422,Tarde,5
+1423,Manhã,6
+1424,Manhã,6
+1425,Manhã,6
+1426,Manhã,6
+1427,Tarde,6
+1428,Tarde,6
+1429,Tarde,6
+1430,Noite,4
+1431,Manhã,5
+1432,Manhã,5
+1433,Manhã,5
+1434,Manhã,5
+1435,Tarde,5
+1436,Tarde,5
+1437,Tarde,5
+1438,Tarde,5
+1439,Noite,5
+1440,Tarde,6
+1441,Manhã,6
+1442,Tarde,6
+1443,Tarde,5
+1444,Tarde,6
+1445,Manhã,5
+1446,Manhã,5
+1447,Manhã,5
+1448,Manhã,5
+1449,Manhã,5
+1450,Manhã,5
+1451,Tarde,5
+1452,Tarde,5
+1453,Tarde,5
+1454,Tarde,5
+1455,Tarde,5
+1456,Noite,5
+1457,Noite,5
+1458,Noite,5
+1459,Noite,5
+1460,Noite,5
+1461,Tarde,4
+1462,Noite,5
+1463,Noite,5
+1464,Noite,5
+1465,Noite,5
+1466,Noite,4
+1467,Noite,5
+1468,Noite,6
+1469,Noite,4
+1470,Noite,4
+1471,Noite,4
+1472,Noite,4
+1473,Noite,4
+1474,Noite,4
+1475,Noite,4
+1476,Noite,4
+1477,Noite,4
+1478,Noite,4
+1479,Noite,4
+1480,Noite,4
+1481,Noite,6
+1482,Noite,6
+1483,Noite,6
+1484,Noite,6
+1485,Noite,6
+1486,Noite,6
+1487,Noite,4
+1488,Noite,4
+1489,Noite,4
+1490,Noite,4
+1491,Noite,4
+1492,Noite,4
+1493,Noite,4
+1494,Noite,4
+1495,Noite,4
+1496,Noite,4
+1497,Noite,4
+1498,Noite,4
+1499,Noite,4
+1500,Noite,4
+1501,Noite,5
+1502,Noite,5
+1503,Noite,5
+1504,Noite,5
+1505,Noite,5
+1506,Noite,5
+1507,Noite,5
+1508,Noite,5
+1509,Noite,5
+1510,Noite,5
+1511,Noite,5
+1512,Noite,5
+1513,Noite,4
+1514,Noite,4
+1515,Noite,4
+1516,Noite,5
+1517,Noite,5
+1518,Noite,5
+1519,Noite,5
+1520,Noite,6
+1521,Noite,6
+1522,Noite,4
+1523,Noite,6
+1524,Noite,4
+1525,Manhã,6
+1526,Manhã,6
+1527,Noite,4
+1528,Noite,4
+1529,Noite,4
+1530,Noite,4
+1531,Noite,4
+1532,Noite,4
+1533,Noite,4
+1534,Noite,4
+1535,Noite,6
+1536,Noite,6
+1537,Noite,6
+1538,Noite,6
+1539,Noite,5
+1540,Noite,5
+1541,Noite,5
+1542,Noite,5
+1543,Noite,5
+1544,Noite,4
+1545,Noite,4
+1546,Noite,4
+1547,Noite,5
+1548,Noite,4
+1549,Noite,4
+1550,Noite,4
+1551,Noite,4
+1552,Noite,4
+1553,Noite,4
+1554,Noite,4
+1555,Noite,4
+1556,Noite,5
+1557,Noite,5
+1558,Noite,5
+1559,Noite,5
+1560,Noite,4
+1561,Noite,6
+1562,Noite,6
+1563,Noite,6
+1564,Noite,4
+1565,Noite,4
+1566,Noite,4
+1567,Noite,4
+1568,Noite,5
+1569,Noite,5
+1570,Noite,5
+1571,Noite,5
+1572,Noite,5
+1573,Noite,5
+1574,Noite,4
+1575,Noite,4
+1576,Noite,4
+1577,Noite,4
+1578,Noite,4
+1579,Noite,4
+1580,Noite,4
+1581,Noite,4
+1582,Noite,4
+1583,Noite,4
+1584,Noite,4
+1585,Manhã,6
+1586,Noite,6
+1587,Noite,6
+1588,Noite,6
+1589,Noite,6
+1590,Noite,6
+1591,Tarde,6
+1592,Noite,4
+1593,Tarde,6
+1594,Tarde,6
+1595,Tarde,6
+1596,Noite,6
+1597,Noite,6
+1598,Noite,6
+1599,Noite,4
+1600,Noite,3
+1601,Noite,3
+1602,Noite,3
+1603,Noite,3
+1604,Noite,6
+1605,Noite,6
+1606,Noite,6
+1607,Noite,5
+1608,Noite,5
+1609,Noite,5
+1610,Noite,5
+1611,Noite,5
+1612,Noite,5
+1613,Noite,5
+1614,Noite,5
+1615,Noite,5
+1616,Noite,5
+1617,Noite,5
+1618,Noite,5
+1619,Noite,5
+1620,Noite,2
+1621,Noite,2
+1622,Noite,2
+1623,Noite,5
+1624,Noite,5
+1625,Noite,5
+1626,Noite,5
+1627,Noite,4
+1628,Noite,4
+1629,Noite,4
+1630,Noite,4
+1631,Noite,4
+1632,Noite,4
+1633,Noite,16
+1634,Noite,16
+1635,Noite,5
+1636,Noite,5
+1637,Noite,5
+1638,Noite,13
+1639,Noite,5
+1640,Noite,6
+1641,Noite,6
+1642,Manhã,13
+1643,Manhã,13
+1644,Tarde,13
+1645,Manhã,13
+1646,Manhã,13
+1647,Manhã,13
+1648,Noite,16
+1649,Noite,5
+1650,Noite,6
+1651,Manhã,13
+1652,Manhã,13
+1653,Manhã,13
+1654,Tarde,5
+1655,Manhã,13
+1656,Manhã,13
+1657,Manhã,13
+1658,Manhã,13
+1659,Manhã,13
+1660,Manhã,13
+1661,Manhã,13
+1662,Manhã,12
+1663,Manhã,12
+1664,Manhã,12
+1665,Manhã,12
+1666,Manhã,13
+1667,Noite,5
+1668,Noite,5
+1669,Manhã,8
+1670,Manhã,8
+1671,Manhã,8
+1672,Manhã,9
+1673,Tarde,13
+1674,Tarde,13
+1675,Tarde,13
+1676,Manhã,8
+1677,Manhã,8
+1678,Manhã,8
+1679,Manhã,8
+1680,Tarde,8
+1681,Tarde,9
+1682,Tarde,8
+1683,Manhã,13
+1684,Manhã,13
+1685,Manhã,13
+1686,Manhã,13
+1687,Manhã,13
+1688,Manhã,13
+1689,Manhã,13
+1690,Manhã,13
+1691,Manhã,7
+1692,Manhã,13
+1693,Manhã,15
+1694,Manhã,15
+1695,Manhã,15
+1696,Manhã,15
+1697,Tarde,15
+1698,Tarde,15
+1699,Tarde,15
+1700,Manhã,15
+1701,Manhã,15
+1702,Manhã,15
+1703,Manhã,15
+1704,Tarde,15
+1705,Manhã,15
+1706,Manhã,15
+1707,Manhã,15
+1708,Manhã,15
+1709,Manhã,15
+1710,Manhã,15
+1711,Manhã,15
+1712,Manhã,15
+1713,Manhã,15
+1714,Tarde,15
+1715,Tarde,15
+1716,Tarde,15
+1717,Tarde,15
+1718,Tarde,15
+1719,Manhã,15
+1720,Manhã,15
+1721,Manhã,15
+1722,Manhã,16
+1723,Manhã,15
+1724,Manhã,15
+1725,Manhã,15
+1726,Manhã,15
+1727,Manhã,15
+1728,Tarde,15
+1729,Tarde,15
+1730,Tarde,15
+1731,Tarde,15
+1732,Tarde,15
+1733,Tarde,15
+1734,Tarde,15
+1735,Tarde,15
+1736,Tarde,15
+1737,Tarde,15
+1738,Tarde,15
+1739,Tarde,15
+1740,Manhã,13
+1741,Manhã,9
+1742,Manhã,9
+1743,Tarde,9
+1744,Manhã,9
+1745,Manhã,9
+1746,Manhã,9
+1747,Manhã,9
+1748,Manhã,9
+1749,Tarde,8
+1750,Manhã,7
+1751,Manhã,9
+1752,Manhã,9
+1753,Manhã,9
+1754,Tarde,9
+1755,Manhã,7
+1756,Manhã,9
+1757,Manhã,9
+1758,Tarde,9
+1759,Tarde,12
+1760,Tarde,12
+1761,Tarde,12
+1762,Manhã,14
+1763,Manhã,15
+1764,Manhã,15
+1765,Manhã,15
+1766,Manhã,15
+1767,Tarde,14
+1768,Tarde,14
+1769,Manhã,14
+1770,Manhã,14
+1771,Manhã,15
+1772,Manhã,15
+1773,Manhã,15
+1774,Manhã,15
+1775,Manhã,15
+1776,Manhã,15
+1777,Tarde,14
+1778,Tarde,14
+1779,Tarde,14
+1780,Manhã,15
+1781,Manhã,15
+1782,Manhã,15
+1783,Manhã,15
+1784,Manhã,14
+1785,Manhã,13
+1786,Manhã,13
+1787,Manhã,13
+1788,Manhã,13
+1789,Manhã,13
+1790,Manhã,13
+1791,Manhã,13
+1792,Tarde,12
+1793,Tarde,12
+1794,Tarde,12
+1795,Manhã,13
+1796,Manhã,13
+1797,Manhã,13
+1798,Manhã,13
+1799,Manhã,12
+1800,Manhã,12
+1801,Manhã,12
+1802,Tarde,12
+1803,Tarde,12
+1804,Tarde,12
+1805,Tarde,12
+1806,Manhã,13
+1807,Manhã,13
+1808,Manhã,13
+1809,Manhã,12
+1810,Tarde,12
+1811,Tarde,12
+1812,Tarde,8
+1813,Tarde,3
+1814,Tarde,3
+1815,Tarde,8
+1816,Tarde,3
+1817,Tarde,8
+1818,Tarde,8
+1819,Manhã,11
+1820,Manhã,11
+1821,Manhã,11
+1822,Manhã,11
+1823,Manhã,11
+1824,Manhã,11
+1825,Tarde,11
+1826,Manhã,7
+1827,Manhã,7
+1828,Manhã,7
+1829,Manhã,7
+1830,Manhã,7
+1831,Manhã,7
+1832,Manhã,7
+1833,Manhã,7
+1834,Manhã,7
+1835,Manhã,7
+1836,Manhã,7
+1837,Tarde,1
+1838,Tarde,7
+1839,Tarde,7
+1840,Tarde,1
+1841,Manhã,8
+1842,Manhã,7
+1843,Manhã,7
+1844,Manhã,7
+1845,Manhã,7
+1846,Manhã,7
+1847,Manhã,7
+1848,Manhã,7
+1849,Manhã,7
+1850,Manhã,7
+1851,Manhã,7
+1852,Tarde,7
+1853,Tarde,7
+1854,Tarde,7
+1855,Tarde,1
+1856,Manhã,11
+1857,Manhã,11
+1858,Manhã,5
+1859,Manhã,11
+1860,Manhã,5
+1861,Manhã,5
+1862,Tarde,5
+1863,Tarde,5
+1864,Tarde,5
+1865,Manhã,8
+1866,Tarde,11
+1867,Manhã,8
+1868,Manhã,8
+1869,Tarde,11
+1870,Manhã,8
+1871,Manhã,11
+1872,Manhã,8
+1873,Manhã,9
+1874,Tarde,8
+1875,Tarde,3
+1876,Tarde,8
+1877,Manhã,11
+1878,Manhã,11
+1879,Manhã,11
+1880,Manhã,11
+1881,Manhã,11
+1882,Manhã,11
+1883,Manhã,11
+1884,Manhã,11
+1885,Manhã,11
+1886,Manhã,11
+1887,Manhã,11
+1888,Tarde,11
+1889,Tarde,11
+1890,Manhã,11
+1891,Manhã,31
+1892,Manhã,31
+1893,Manhã,31
+1894,Tarde,31
+1895,Tarde,31
+1896,Noite,4
+1897,Noite,4
+1898,Manhã,31
+1899,Manhã,31
+1900,Manhã,31
+1901,Tarde,31
+1902,Manhã,14
+1903,Manhã,14
+1904,Tarde,8
+1905,Tarde,8
+1906,Manhã,25
+1907,Manhã,25
+1908,Manhã,25
+1909,Manhã,25
+1910,Manhã,25
+1911,Manhã,25
+1912,Manhã,25
+1913,Tarde,25
+1914,Tarde,25
+1915,Tarde,25
+1916,Tarde,25
+1917,Tarde,25
+1918,Tarde,25
+1919,Tarde,25
+1920,Manhã,12
+1921,Manhã,12
+1922,Manhã,12
+1923,Manhã,12
+1924,Tarde,13
+1925,Noite,22
+1926,Noite,30
+1927,Noite,30
+1928,Noite,25
+1929,Tarde,9
+1930,Tarde,9
+1931,Manhã,9
+1932,Manhã,9
+1933,Manhã,9
+1934,Manhã,9
+1935,Noite,25
+1936,Noite,25
+1937,Noite,25
+1938,Noite,25
+1939,Noite,25
+1940,Noite,25
+1941,Noite,8
+1942,Noite,3
+1943,Noite,3
+1944,Noite,8
+1945,Noite,5
+1946,Noite,5
+1947,Noite,5
+1948,Noite,5
+1949,Manhã,9
+1950,Manhã,9
+1951,Manhã,9
+1952,Manhã,9
+1953,Noite,25
+1954,Noite,25
+1955,Noite,22
+1956,Noite,22
+1957,Noite,20
+1958,Noite,14
+1959,Noite,14
+1960,Noite,14
+1961,Noite,14
+1962,Noite,11
+1963,Noite,14
+1964,Noite,10
+1965,Noite,10
+1966,Noite,10
+1967,Noite,10
+1968,Noite,10
+1969,Noite,10
+1970,Noite,10
+1971,Noite,14
+1972,Noite,15
+1973,Noite,15
+1974,Noite,15
+1975,Noite,15
+1976,Noite,15
+1977,Noite,15
+1978,Noite,15
+1979,Noite,15
+1980,Noite,15
+1981,Noite,15
+1982,Noite,15
+1983,Noite,15
+1984,Noite,15
+1985,Noite,15
+1986,Noite,15
+1987,Noite,15
+1988,Noite,15
+1989,Noite,15
+1990,Noite,15
+1991,Noite,15
+1992,Noite,15
+1993,Noite,15
+1994,Noite,15
+1995,Noite,15
+1996,Noite,15
+1997,Noite,15
+1998,Noite,15
+1999,Noite,15
+2000,Noite,15
+2001,Noite,15
+2002,Noite,15
+2003,Noite,15
+2004,Noite,14
+2005,Noite,14
+2006,Noite,14
+2007,Noite,14
+2008,Noite,14
+2009,Manhã,8
+2010,Manhã,8
+2011,Manhã,9
+2012,Noite,5
+2013,Noite,5
+2014,Noite,6
+2015,Noite,6
+2016,Noite,10
+2017,Noite,10
+2018,Noite,10
+2019,Noite,10
+2020,Noite,10
+2021,Noite,29
+2022,Noite,10
+2023,Noite,29
+2024,Noite,10
+2025,Noite,10
+2026,Noite,10
+2027,Noite,30
+2028,Noite,14
+2029,Noite,14
+2030,Noite,14
+2031,Noite,14
+2032,Noite,11
+2033,Noite,10
+2034,Noite,10
+2035,Noite,10
+2036,Noite,10
+2037,Noite,10
+2038,Noite,10
+2039,Noite,10
+2040,Noite,10
+2041,Noite,10
+2042,Noite,10
+2043,Noite,10
+2044,Noite,30
+2045,Noite,11
+2046,Noite,11
+2047,Noite,11
+2048,Noite,10
+2049,Noite,11
+2050,Noite,11
+2051,Noite,11
+2052,Noite,11
+2053,Noite,11
+2054,Noite,11
+2055,Noite,11
+2056,Noite,11
+2057,Noite,14
+2058,Noite,14
+2059,Noite,14
+2060,Noite,14
+2061,Noite,14
+2062,Noite,11
+2063,Noite,7
+2064,Noite,7
+2065,Noite,7
+2066,Noite,7
+2067,Noite,9
+2068,Noite,8
+2069,Noite,8
+2070,Noite,30
+2071,Noite,20
+2072,Noite,20
+2073,Noite,20
+2074,Noite,20
+2075,Noite,20
+2076,Noite,20
+2077,Noite,20
+2078,Noite,28
+2079,Noite,12
+2080,Noite,12
+2081,Noite,12
+2082,Noite,12
+2083,Noite,12
+2084,Noite,13
+2085,Noite,13
+2086,Noite,13
+2087,Noite,13
+2088,Noite,13
+2089,Noite,13
+2090,Noite,13
+2091,Noite,20
+2092,Noite,20
+2093,Noite,20
+2094,Noite,20
+2095,Noite,30
+2096,Noite,30
+2097,Noite,20
+2098,Noite,8
+2099,Noite,8
+2100,Noite,3
+2101,Noite,9
+2102,Noite,9
+2103,Noite,9
+2104,Noite,8
+2105,Noite,8
+2106,Noite,8
+2107,Noite,8
+2108,Noite,11
+2109,Noite,20
+2110,Noite,7
+2111,Noite,7
+2112,Noite,7
+2113,Noite,7
+2114,Noite,9
+2115,Noite,9
+2116,Noite,9
+2117,Noite,8
+2118,Noite,8
+2119,Noite,8
+2120,Noite,8
+2121,Noite,9
+2122,Noite,7
+2123,Noite,11
+2124,Noite,11
+2125,Noite,11
+2126,Noite,11
+2127,Noite,10
+2128,Noite,10
+2129,Noite,11
+2130,Noite,11
+2131,Noite,11
+2132,Noite,11
+2133,Noite,11
+2134,Noite,11
+2135,Noite,11
+2136,Noite,11
+2137,Noite,9
+2138,Noite,9
+2139,Noite,9
+2140,Noite,9
+2141,Noite,9
+2142,Noite,8
+2143,Manhã,9
+2144,Manhã,9
+2145,Manhã,9
+2146,Noite,16
+2147,Noite,20
+2148,Noite,20
+2149,Noite,20
+2150,Noite,30
+2151,Noite,15
+2152,Noite,15
+2153,Noite,15
+2154,Noite,14
+2155,Noite,15
+2156,Noite,5
+2157,Noite,5
+2158,Noite,5
+2159,Noite,5
+2160,Noite,5
+2161,Manhã,10
+2162,Manhã,10
+2163,Manhã,28
+2164,Manhã,13
+2165,Noite,28
+2166,Noite,28
+2167,Noite,12
+2168,Noite,13
+2169,Manhã,20
+2170,Tarde,20
+2171,Tarde,20
+2172,Tarde,20
+2173,Tarde,20
+2174,Manhã,20
+2175,Manhã,20
+2176,Manhã,20
+2177,Manhã,20
+2178,Manhã,20
+2179,Noite,5
+2180,Noite,5
+2181,Noite,5
+2182,Noite,5
+2183,Noite,5
+2184,Manhã,28
+2185,Manhã,28
+2186,Manhã,13
+2187,Manhã,10
+2188,Noite,28
+2189,Noite,28
+2190,Noite,13
+2191,Noite,13
+2192,Noite,13
+2193,Noite,13
+2194,Noite,13
+2195,Noite,13
+2196,Noite,13
+2197,Noite,9
+2198,Noite,9
+2199,Noite,9
+2200,Noite,9
+2201,Noite,9
+2202,Noite,30
+2203,Noite,16
+2204,Noite,13
+2205,Noite,20
+2206,Noite,13
+2207,Noite,13
+2208,Noite,13
+2209,Noite,13
+2210,Noite,13
+2211,Noite,13
+2212,Noite,13
+2213,Noite,13
+2214,Noite,13
+2215,Noite,13
+2216,Noite,13
+2217,Noite,13
+2218,Noite,5
+2219,Noite,6
+2220,Noite,6
+2221,Noite,13
+2222,Noite,13
+2223,Noite,13
+2224,Noite,13
+2225,Noite,13
+2226,Noite,13
+2227,Noite,13
+2228,Noite,13
+2229,Noite,13
+2230,Noite,13
+2231,Noite,13
+2232,Noite,13
+2233,Noite,13
+2234,Noite,8
+2235,Noite,8
+2236,Noite,8
+2237,Noite,8
+2238,Noite,3
+2239,Noite,3
+2240,Noite,8
+2241,Noite,8
+2242,Noite,3
+2243,Noite,5
+2244,Noite,5
+2245,Noite,5
+2246,Noite,5
+2247,Noite,13
+2248,Noite,13
+2249,Noite,13
+2250,Noite,13
+2251,Noite,13
+2252,Noite,13
+2253,Noite,13
+2254,Noite,13
+2255,Noite,13
+2256,Noite,13
+2257,Noite,13
+2258,Noite,13
+2259,Noite,13
+2260,Noite,13
+2261,Noite,13
+2262,Noite,13
+2263,Noite,13
+2264,Noite,5
+2265,Noite,8
+2266,Tarde,8
+2267,Tarde,3
+2268,Tarde,8
+2269,Noite,5
+2270,Noite,5
+2271,Noite,13
+2272,Manhã,18
+2273,Manhã,19
+2274,Manhã,31
+2275,Manhã,18
+2276,Manhã,18
+2277,Manhã,18
+2278,Noite,24
+2279,Noite,24
+2280,Manhã,18
+2281,Manhã,18
+2282,Manhã,18
+2283,Manhã,18
+2284,Manhã,17
+2285,Manhã,17
+2286,Manhã,19
+2287,Manhã,26
+2288,Manhã,19
+2289,Manhã,24
+2290,Manhã,24
+2291,Tarde,17
+2292,Tarde,17
+2293,Tarde,17
+2294,Tarde,17
+2295,Tarde,17
+2296,Tarde,17
+2297,Tarde,17
+2298,Manhã,24
+2299,Manhã,24
+2300,Tarde,24
+2301,Manhã,24
+2302,Manhã,17
+2303,Manhã,17
+2304,Manhã,17
+2305,Manhã,18
+2306,Manhã,17
+2307,Manhã,17
+2308,Tarde,18
+2309,Tarde,18
+2310,Tarde,17
+2311,Tarde,17
+2312,Tarde,17
+2313,Tarde,17
+2314,Tarde,17
+2315,Manhã,17
+2316,Manhã,16
+2317,Manhã,34
+2318,Manhã,33
+2319,Tarde,33
+2320,Tarde,33
+2321,Tarde,33
+2322,Manhã,18
+2323,Manhã,18
+2324,Tarde,24
+2325,Manhã,24
+2326,Manhã,24
+2327,Manhã,24
+2328,Manhã,24
+2329,Manhã,24
+2330,Manhã,24
+2331,Manhã,24
+2332,Manhã,24
+2333,Manhã,24
+2334,Manhã,18
+2335,Manhã,18
+2336,Manhã,18
+2337,Manhã,18
+2338,Manhã,33
+2339,Manhã,33
+2340,Manhã,33
+2341,Manhã,17
+2342,Manhã,17
+2343,Manhã,17
+2344,Manhã,17
+2345,Manhã,17
+2346,Manhã,17
+2347,Manhã,16
+2348,Manhã,18
+2349,Manhã,16
+2350,Manhã,33
+2351,Manhã,16
+2352,Manhã,18
+2353,Manhã,18
+2354,Manhã,18
+2355,Manhã,18
+2356,Noite,24
+2357,Noite,24
+2358,Manhã,19
+2359,Tarde,19
+2360,Tarde,24
+2361,Tarde,24
+2362,Tarde,24
+2363,Tarde,24
+2364,Tarde,24
+2365,Tarde,24
+2366,Tarde,24
+2367,Manhã,24
+2368,Manhã,24
+2369,Manhã,24
+2370,Noite,17
+2371,Noite,17
+2372,Noite,17
+2373,Noite,17
+2374,Noite,17
+2375,Noite,24
+2376,Noite,17
+2377,Noite,24
+2378,Noite,17
+2379,Noite,17
+2380,Noite,17
+2381,Noite,17
+2382,Manhã,19
+2383,Manhã,19
+2384,Noite,17
+2385,Noite,18
+2386,Noite,18
+2387,Noite,24
+2388,Noite,24
+2389,Noite,24
+2390,Noite,24
+2391,Noite,17
+2392,Noite,17
+2393,Noite,24
+2394,Noite,24
+2395,Noite,24
+2396,Noite,24
+2397,Noite,18
+2398,Noite,19
+2399,Noite,19
+2400,Noite,17
+2401,Noite,17
+2402,Noite,17
+2403,Noite,17
+2404,Noite,17
+2405,Noite,17
+2406,Noite,17
+2407,Noite,17
+2408,Noite,17
+2409,Tarde,17
+2410,Noite,17
+2411,Noite,17
+2412,Noite,17
+2413,Noite,17
+2414,Noite,17
+2415,Noite,19
+2416,Noite,18
+2417,Noite,18
+2418,Noite,19
+2419,Noite,19
+2420,Noite,19
+2421,Noite,19
+2422,Noite,19
+2423,Noite,19
+2424,Noite,19
+2425,Noite,19
+2426,Noite,24
+2427,Noite,24
+2428,Noite,24
+2429,Noite,24
+2430,Noite,24
+2431,Noite,24
+2432,Noite,24
+2433,Noite,16
+2434,Noite,16
+2435,Noite,16
+2436,Noite,16
+2437,Noite,16
+2438,Noite,16
+2439,Noite,16
+2440,Noite,16
+2441,Noite,16
+2442,Noite,16
+2443,Noite,16
+2444,Noite,16
+2445,Noite,24
+2446,Noite,19
+2447,Noite,24
+2448,Noite,24
+2449,Manhã,2
+2450,Manhã,2
+2451,Manhã,2
+2452,Noite,34
+2453,Manhã,2
+2454,Manhã,2
+2455,Manhã,2
+2456,Manhã,2
+2457,Tarde,2
+2458,Manhã,2
+2459,Manhã,2
+2460,Manhã,2
+2461,Manhã,2
+2462,Manhã,2
+2463,Manhã,2
+2464,Manhã,2
+2465,Manhã,2
+2466,Manhã,3
+2467,Manhã,3
+2468,Manhã,3
+2469,Tarde,3
+2470,Manhã,3
+2471,Manhã,3
+2472,Manhã,3
+2473,Manhã,3
+2474,Tarde,3
+2475,Tarde,3
+2476,Tarde,3
+2477,Tarde,3
+2478,Manhã,2
+2479,Manhã,2
+2480,Manhã,2
+2481,Manhã,2
+2482,Manhã,2
+2483,Manhã,2
+2484,Manhã,2
+2485,Manhã,2
+2486,Manhã,2
+2487,Manhã,2
+2488,Manhã,2
+2489,Manhã,2
+2490,Manhã,2
+2491,Manhã,2
+2492,Manhã,2
+2493,Noite,16
+2494,Noite,16
+2495,Manhã,2
+2496,Manhã,2
+2497,Manhã,2
+2498,Manhã,2
+2499,Manhã,2
+2500,Manhã,2
+2501,Manhã,2
+2502,Manhã,2
+2503,Manhã,2
+2504,Manhã,2
+2505,Manhã,2
+2506,Manhã,2
+2507,Manhã,2
+2508,Tarde,4
+2509,Tarde,4
+2510,Tarde,4
+2511,Tarde,4
+2512,Tarde,4
+2513,Tarde,4
+2514,Tarde,4
+2515,Tarde,2
+2516,Manhã,3
+2517,Manhã,3
+2518,Manhã,3
+2519,Manhã,3
+2520,Tarde,3
+2521,Manhã,2
+2522,Manhã,2
+2523,Manhã,2
+2524,Manhã,2
+2525,Tarde,2
+2526,Tarde,2
+2527,Tarde,2
+2528,Tarde,2
+2529,Tarde,2
+2530,Tarde,2
+2531,Tarde,2
+2532,Tarde,2
+2533,Tarde,2
+2534,Tarde,2
+2535,Tarde,2
+2536,Tarde,2
+2537,Manhã,2
+2538,Manhã,2
+2539,Manhã,2
+2540,Manhã,2
+2541,Manhã,2
+2542,Manhã,2
+2543,Tarde,4
+2544,Tarde,4
+2545,Tarde,2
+2546,Manhã,2
+2547,Manhã,2
+2548,Manhã,2
+2549,Manhã,2
+2550,Manhã,2
+2551,Tarde,2
+2552,Tarde,2
+2553,Tarde,2
+2554,Tarde,2
+2555,Tarde,2
+2556,Tarde,2
+2557,Manhã,4
+2558,Manhã,2
+2559,Manhã,2
+2560,Manhã,2
+2561,Manhã,2
+2562,Manhã,2
+2563,Manhã,2
+2564,Manhã,2
+2565,Manhã,2
+2566,Tarde,2
+2567,Tarde,2
+2568,Tarde,2
+2569,Tarde,2
+2570,Tarde,2
+2571,Tarde,2
+2572,Tarde,2
+2573,Tarde,2
+2574,Tarde,2
+2575,Tarde,2
+2576,Tarde,1
+2577,Manhã,2
+2578,Manhã,2
+2579,Manhã,2
+2580,Manhã,2
+2581,Manhã,2
+2582,Manhã,2
+2583,Manhã,2
+2584,Manhã,2
+2585,Manhã,2
+2586,Manhã,2
+2587,Tarde,2
+2588,Tarde,2
+2589,Manhã,2
+2590,Manhã,2
+2591,Tarde,2
+2592,Tarde,2
+2593,Manhã,2
+2594,Manhã,2
+2595,Manhã,2
+2596,Tarde,2
+2597,Tarde,2
+2598,Tarde,2
+2599,Tarde,2
+2600,Manhã,2
+2601,Manhã,2
+2602,Manhã,2
+2603,Tarde,2
+2604,Tarde,2
+2605,Tarde,2
+2606,Tarde,2
+2607,Manhã,2
+2608,Manhã,2
+2609,Manhã,2
+2610,Manhã,2
+2611,Manhã,2
+2612,Tarde,2
+2613,Tarde,2
+2614,Tarde,2
+2615,Tarde,2
+2616,Tarde,2
+2617,Tarde,2
+2618,Tarde,2
+2619,Tarde,2
+2620,Manhã,2
+2621,Manhã,2
+2622,Manhã,2
+2623,Manhã,2
+2624,Manhã,2
+2625,Manhã,2
+2626,Tarde,4
+2627,Tarde,4
+2628,Manhã,2
+2629,Tarde,3
+2630,Manhã,2
+2631,Tarde,2
+2632,Manhã,2
+2633,Manhã,2
+2634,Manhã,2
+2635,Manhã,4
+2636,Manhã,4
+2637,Manhã,4
+2638,Tarde,4
+2639,Tarde,4
+2640,Tarde,4
+2641,Tarde,4
+2642,Tarde,1
+2643,Manhã,2
+2644,Manhã,2
+2645,Tarde,4
+2646,Tarde,4
+2647,Tarde,4
+2648,Tarde,4
+2649,Tarde,4
+2650,Tarde,2
+2651,Tarde,2
+2652,Manhã,2
+2653,Manhã,2
+2654,Manhã,2
+2655,Manhã,2
+2656,Manhã,2
+2657,Manhã,2
+2658,Manhã,2
+2659,Manhã,2
+2660,Manhã,2
+2661,Tarde,2
+2662,Tarde,2
+2663,Tarde,2
+2664,Tarde,2
+2665,Manhã,2
+2666,Manhã,2
+2667,Manhã,2
+2668,Manhã,2
+2669,Manhã,2
+2670,Manhã,4
+2671,Tarde,4
+2672,Tarde,4
+2673,Tarde,4
+2674,Manhã,4
+2675,Manhã,4
+2676,Manhã,4
+2677,Manhã,4
+2678,Manhã,4
+2679,Manhã,4
+2680,Manhã,4
+2681,Tarde,1
+2682,Manhã,4
+2683,Manhã,4
+2684,Manhã,4
+2685,Manhã,4
+2686,Manhã,4
+2687,Manhã,4
+2688,Manhã,4
+2689,Manhã,2
+2690,Manhã,2
+2691,Manhã,2
+2692,Manhã,2
+2693,Manhã,2
+2694,Manhã,2
+2695,Manhã,2
+2696,Manhã,2
+2697,Tarde,4
+2698,Tarde,4
+2699,Tarde,4
+2700,Manhã,2
+2701,Manhã,2
+2702,Manhã,2
+2703,Tarde,2
+2704,Tarde,2
+2705,Manhã,2
+2706,Manhã,2
+2707,Manhã,2
+2708,Manhã,2
+2709,Manhã,2
+2710,Manhã,2
+2711,Manhã,2
+2712,Manhã,2
+2713,Manhã,2
+2714,Manhã,2
+2715,Tarde,2
+2716,Tarde,2
+2717,Tarde,2
+2718,Tarde,2
+2719,Manhã,3
+2720,Manhã,3
+2721,Tarde,3
+2722,Noite,2
+2723,Noite,3
+2724,Noite,2
+2725,Manhã,3
+2726,Tarde,2
+2727,Tarde,2
+2728,Noite,2
+2729,Noite,2
+2730,Noite,2
+2731,Noite,2
+2732,Noite,2
+2733,Noite,2
+2734,Noite,2
+2735,Tarde,4
+2736,Tarde,4
+2737,Tarde,4
+2738,Tarde,4
+2739,Noite,2
+2740,Noite,2
+2741,Noite,2
+2742,Noite,2
+2743,Noite,2
+2744,Noite,2
+2745,Noite,2
+2746,Noite,2
+2747,Noite,2
+2748,Noite,2
+2749,Noite,2
+2750,Noite,2
+2751,Noite,2
+2752,Noite,2
+2753,Noite,2
+2754,Noite,2
+2755,Noite,2
+2756,Noite,2
+2757,Noite,2
+2758,Noite,2
+2759,Noite,2
+2760,Noite,2
+2761,Noite,2
+2762,Noite,2
+2763,Noite,2
+2764,Noite,2
+2765,Noite,2
+2766,Noite,2
+2767,Noite,2
+2768,Noite,2
+2769,Noite,2
+2770,Tarde,2
+2771,Tarde,2
+2772,Tarde,2
+2773,Tarde,2
+2774,Noite,2
+2775,Tarde,4
+2776,Tarde,4
+2777,Tarde,4
+2778,Tarde,4
+2779,Tarde,4
+2780,Tarde,2
+2781,Tarde,2
+2782,Tarde,2
+2783,Noite,2
+2784,Manhã,4
+2785,Manhã,4
+2786,Manhã,4
+2787,Manhã,4
+2788,Manhã,4
+2789,Manhã,4
+2790,Manhã,4
+2791,Manhã,4
+2792,Manhã,4
+2793,Manhã,4
+2794,Manhã,4
+2795,Manhã,4
+2796,Manhã,4
+2797,Manhã,4
+2798,Manhã,4
+2799,Manhã,4
+2800,Manhã,4
+2801,Manhã,2
+2802,Manhã,2
+2803,Tarde,4
+2804,Tarde,4
+2805,Tarde,4
+2806,Noite,1
+2807,Noite,2
+2808,Noite,2
+2809,Noite,2
+2810,Noite,2
+2811,Noite,2
+2812,Noite,2
+2813,Noite,8
+2814,Noite,3
+2815,Noite,3
+2816,Noite,3
+2817,Noite,2
+2818,Noite,2
+2819,Noite,2
+2820,Noite,2
+2821,Noite,2
+2822,Noite,2
+2823,Noite,23
+2824,Noite,2
+2825,Noite,3
+2826,Noite,2
+2827,Noite,2
+2828,Noite,2
+2829,Noite,2
+2830,Noite,2
+2831,Noite,2
+2832,Noite,2
+2833,Noite,2
+2834,Noite,2
+2835,Noite,4
+2836,Noite,2
+2837,Noite,2
+2838,Noite,2
+2839,Noite,2
+2840,Noite,2
+2841,Noite,2
+2842,Noite,2
+2843,Noite,2
+2844,Noite,2
+2845,Noite,2
+2846,Noite,2
+2847,Noite,2
+2848,Noite,2
+2849,Noite,2
+2850,Noite,2
+2851,Noite,2
+2852,Noite,2
+2853,Noite,2
+2854,Noite,2
+2855,Noite,2
+2856,Noite,2
+2857,Noite,2
+2858,Noite,2
+2859,Noite,2
+2860,Noite,2
+2861,Noite,2
+2862,Noite,2
+2863,Noite,2
+2864,Noite,2
+2865,Noite,2
+2866,Noite,2
+2867,Noite,4
+2868,Noite,3
+2869,Noite,3
+2870,Noite,3
+2871,Noite,8
+2872,Noite,8
+2873,Noite,3
+2874,Noite,2
+2875,Noite,2
+2876,Noite,2
+2877,Noite,2
+2878,Noite,2
+2879,Noite,2
+2880,Noite,2
+2881,Noite,2
+2882,Noite,2
+2883,Noite,2
+2884,Noite,2
+2885,Noite,2
+2886,Noite,2
+2887,Noite,2
+2888,Noite,2
+2889,Noite,2
+2890,Noite,2
+2891,Noite,2
+2892,Noite,2
+2893,Noite,2
+2894,Noite,2
+2895,Noite,3
+2896,Noite,2
+2897,Noite,2
+2898,Noite,2
+2899,Noite,2
+2900,Noite,2
+2901,Noite,2
+2902,Noite,2
+2903,Noite,2
+2904,Noite,2
+2905,Noite,2
+2906,Noite,2
+2907,Noite,2
+2908,Noite,2
+2909,Noite,2
+2910,Noite,2
+2911,Noite,2
+2912,Noite,1
+2913,Noite,2
+2914,Noite,2
+2915,Noite,2
+2916,Noite,2
+2917,Noite,2
+2918,Noite,2
+2919,Noite,2
+2920,Noite,2
+2921,Noite,2
+2922,Noite,2
+2923,Noite,2
+2924,Noite,2
+2925,Noite,2
+2926,Noite,2
+2927,Noite,2
+2928,Noite,2
+2929,Noite,2
+2930,Noite,2
+2931,Noite,2
+2932,Noite,2
+2933,Noite,2
+2934,Noite,2
+2935,Noite,2
+2936,Noite,2
+2937,Noite,2
+2938,Noite,2
+2939,Noite,2
+2940,Noite,2
+2941,Noite,2
+2942,Noite,2
+2943,Noite,2
+2944,Noite,2
+2945,Noite,2
+2946,Noite,2
+2947,Noite,2
+2948,Noite,2
+2949,Noite,2
+2950,Noite,2
+2951,Noite,2
+2952,Noite,2
+2953,Noite,2
+2954,Noite,2
+2955,Noite,1
+2956,Noite,2
+2957,Noite,2
+2958,Noite,2
+2959,Noite,2
+2960,Noite,2
+2961,Noite,2
+2962,Noite,2
+2963,Noite,2
+2964,Noite,2
+2965,Noite,1
+2966,Noite,1
+2967,Noite,1
+2968,Noite,2
+2969,Noite,2
+2970,Noite,2
+2971,Noite,2
+2972,Noite,2
+2973,Noite,2
+2974,Noite,2
+2975,Noite,2
+2976,Noite,2
+2977,Noite,2
+2978,Noite,2
+2979,Noite,2
+2980,Noite,2
+2981,Noite,2
+2982,Noite,4
+2983,Noite,4
+2984,Noite,4
+2985,Noite,4
+2986,Noite,4
+2987,Noite,2
+2988,Noite,2
+2989,Noite,2
+2990,Noite,2
+2991,Noite,2
+2992,Noite,2
+2993,Noite,2
+2994,Noite,2
+2995,Noite,2
+2996,Noite,3
+2997,Noite,3
+2998,Noite,1
+2999,Noite,2
+3000,Noite,2
+3001,Noite,2
+3002,Noite,2
+3003,Noite,2
+3004,Noite,2
+3005,Noite,2
+3006,Noite,2
+3007,Noite,2
+3008,Noite,2
+3009,Noite,2
+3010,Noite,4
+3011,Noite,4
+3012,Tarde,4
+3013,Noite,4
+3014,Noite,4
+3015,Noite,2
+3016,Noite,2
+3017,Noite,2
+3018,Noite,2
+3019,Noite,2
+3020,Noite,2
+3021,Noite,2
+3022,Noite,2
+3023,Noite,2
+3024,Noite,2
+3025,Noite,2
+3026,Noite,2
+3027,Noite,4
+3028,Noite,4
+3029,Noite,4
+3030,Noite,4
+3031,Noite,4
+3032,Noite,4
+3033,Noite,4
+3034,Noite,2
+3035,Noite,2
+3036,Noite,2
+3037,Noite,2
+3038,Noite,2
+3039,Noite,2
+3040,Noite,1
+3041,Noite,2
+3042,Noite,2
+3043,Noite,2
+3044,Noite,2
+3045,Noite,2
+3046,Noite,2
+3047,Noite,2
+3048,Noite,2
+3049,Noite,2
+3050,Noite,2
+3051,Noite,4
+3052,Noite,4
+3053,Noite,4
+3054,Noite,4
+3055,Noite,4
+3056,Noite,4
+3057,Noite,4
+3058,Noite,4
+3059,Noite,4
+3060,Noite,4
+3061,Noite,2
+3062,Noite,2
+3063,Noite,2
+3064,Noite,2
+3065,Noite,2
+3066,Noite,2
+3067,Noite,2
+3068,Noite,2
+3069,Noite,2
+3070,Noite,2
+3071,Noite,4
+3072,Noite,4
+3073,Noite,4
+3074,Noite,1
+3075,Noite,2
+3076,Noite,2
+3077,Noite,2
+3078,Noite,2
+3079,Manhã,2
+3080,Noite,16
+3081,Noite,16
+3082,Noite,16
+3083,Noite,16
+3084,Noite,16
+3085,Noite,16
+3086,Noite,2
+3087,Noite,2
+3088,Noite,2
+3089,Noite,2
+3090,Noite,2
+3091,Noite,2
+3092,Noite,2
+3093,Noite,2
+3094,Noite,2
+3095,Noite,4
+3096,Noite,4
+3097,Noite,4
+3098,Noite,4
+3099,Noite,4
+3100,Noite,4
+3101,Tarde,4
+3102,Tarde,4
+3103,Tarde,4
+3104,Noite,2
+3105,Noite,2
+3106,Noite,2
+3107,Noite,2
+3108,Noite,2
+3109,Noite,2
+3110,Noite,2
+3111,Noite,2
+3112,Noite,2
+3113,Noite,2
+3114,Noite,2
+3115,Noite,2
+3116,Noite,2
+3117,Noite,2
+3118,Noite,2
+3119,Noite,2
+3120,Noite,2
+3121,Noite,2
+3122,Noite,2
+3123,Noite,2
+3124,Noite,2
+3125,Noite,2
+3126,Noite,2
+3127,Noite,2
+3128,Noite,2
+3129,Noite,2
+3130,Noite,2
+3131,Noite,2
+3132,Noite,2
+3133,Noite,2
+3134,Noite,2
+3135,Noite,2
+3136,Noite,2
+3137,Noite,2
+3138,Noite,2
+3139,Noite,2
+3140,Noite,2
+3141,Noite,2
+3142,Noite,2
+3143,Noite,2
+3144,Noite,2
+3145,Noite,2
+3146,Noite,2
+3147,Noite,2
+3148,Noite,2
+3149,Noite,2
+3150,Noite,2
+3151,Manhã,6
+3152,Manhã,6
+3153,Manhã,5
+3154,Manhã,5
+3155,Manhã,5
+3156,Manhã,5
+3157,Manhã,5
+3158,Manhã,5
+3159,Manhã,5
+3160,Manhã,5
+3161,Manhã,5
+3162,Tarde,6
+3163,Tarde,6
+3164,Manhã,5
+3165,Noite,5
+3166,Noite,5
+3167,Noite,5
+3168,Manhã,5
+3169,Tarde,5
+3170,Manhã,5
+3171,Manhã,5
+3172,Tarde,6
+3173,Tarde,5
+3174,Manhã,6
+3175,Tarde,5
+3176,Tarde,5
+3177,Tarde,5
+3178,Tarde,5
+3179,Tarde,5
+3180,Manhã,6
+3181,Manhã,6
+3182,Tarde,4
+3183,Manhã,5
+3184,Manhã,5
+3185,Manhã,5
+3186,Manhã,5
+3187,Manhã,5
+3188,Manhã,5
+3189,Tarde,5
+3190,Tarde,5
+3191,Tarde,5
+3192,Tarde,5
+3193,Manhã,5
+3194,Manhã,5
+3195,Manhã,5
+3196,Tarde,5
+3197,Manhã,5
+3198,Manhã,5
+3199,Manhã,5
+3200,Manhã,5
+3201,Manhã,5
+3202,Manhã,5
+3203,Tarde,5
+3204,Tarde,5
+3205,Tarde,5
+3206,Tarde,6
+3207,Tarde,6
+3208,Tarde,6
+3209,Tarde,6
+3210,Manhã,5
+3211,Manhã,5
+3212,Manhã,5
+3213,Manhã,5
+3214,Manhã,5
+3215,Manhã,5
+3216,Manhã,5
+3217,Manhã,5
+3218,Manhã,5
+3219,Tarde,5
+3220,Tarde,5
+3221,Tarde,5
+3222,Tarde,5
+3223,Tarde,5
+3224,Tarde,5
+3225,Manhã,5
+3226,Manhã,5
+3227,Tarde,6
+3228,Manhã,5
+3229,Tarde,5
+3230,Tarde,6
+3231,Manhã,5
+3232,Manhã,5
+3233,Manhã,5
+3234,Manhã,5
+3235,Manhã,5
+3236,Manhã,5
+3237,Manhã,5
+3238,Tarde,5
+3239,Tarde,5
+3240,Tarde,5
+3241,Tarde,5
+3242,Tarde,5
+3243,Tarde,6
+3244,Noite,2
+3245,Noite,2
+3246,Noite,2
+3247,Noite,2
+3248,Noite,15
+3249,Manhã,5
+3250,Manhã,5
+3251,Manhã,5
+3252,Tarde,6
+3253,Tarde,5
+3254,Tarde,5
+3255,Manhã,5
+3256,Manhã,5
+3257,Manhã,5
+3258,Manhã,5
+3259,Manhã,5
+3260,Manhã,5
+3261,Manhã,5
+3262,Manhã,5
+3263,Tarde,4
+3264,Tarde,6
+3265,Tarde,6
+3266,Tarde,6
+3267,Manhã,5
+3268,Manhã,5
+3269,Manhã,5
+3270,Manhã,5
+3271,Manhã,5
+3272,Manhã,5
+3273,Manhã,5
+3274,Tarde,5
+3275,Tarde,5
+3276,Tarde,5
+3277,Manhã,5
+3278,Tarde,5
+3279,Manhã,5
+3280,Tarde,5
+3281,Tarde,6
+3282,Manhã,6
+3283,Manhã,6
+3284,Manhã,6
+3285,Manhã,6
+3286,Tarde,6
+3287,Tarde,6
+3288,Tarde,6
+3289,Manhã,6
+3290,Manhã,6
+3291,Tarde,4
+3292,Manhã,5
+3293,Manhã,5
+3294,Manhã,5
+3295,Manhã,5
+3296,Manhã,5
+3297,Tarde,5
+3298,Tarde,5
+3299,Manhã,6
+3300,Manhã,6
+3301,Manhã,6
+3302,Noite,5
+3303,Noite,5
+3304,Noite,5
+3305,Noite,5
+3306,Manhã,5
+3307,Manhã,5
+3308,Manhã,5
+3309,Manhã,5
+3310,Manhã,5
+3311,Manhã,5
+3312,Manhã,5
+3313,Tarde,5
+3314,Tarde,5
+3315,Tarde,5
+3316,Tarde,5
+3317,Tarde,5
+3318,Tarde,5
+3319,Tarde,6
+3320,Manhã,5
+3321,Manhã,5
+3322,Manhã,5
+3323,Manhã,5
+3324,Noite,5
+3325,Noite,5
+3326,Noite,5
+3327,Noite,5
+3328,Noite,5
+3329,Noite,5
+3330,Noite,5
+3331,Noite,5
+3332,Noite,5
+3333,Noite,5
+3334,Noite,5
+3335,Noite,5
+3336,Noite,6
+3337,Noite,4
+3338,Noite,5
+3339,Noite,5
+3340,Noite,5
+3341,Noite,4
+3342,Noite,4
+3343,Noite,4
+3344,Noite,4
+3345,Noite,4
+3346,Noite,4
+3347,Noite,4
+3348,Noite,4
+3349,Noite,4
+3350,Noite,4
+3351,Noite,4
+3352,Noite,4
+3353,Noite,4
+3354,Noite,4
+3355,Noite,4
+3356,Noite,4
+3357,Noite,4
+3358,Noite,4
+3359,Noite,4
+3360,Noite,6
+3361,Noite,6
+3362,Noite,6
+3363,Noite,6
+3364,Noite,6
+3365,Noite,6
+3366,Noite,4
+3367,Noite,4
+3368,Noite,4
+3369,Noite,4
+3370,Noite,4
+3371,Noite,5
+3372,Noite,4
+3373,Noite,4
+3374,Noite,5
+3375,Noite,5
+3376,Noite,5
+3377,Noite,5
+3378,Noite,5
+3379,Noite,5
+3380,Noite,5
+3381,Noite,5
+3382,Noite,5
+3383,Noite,5
+3384,Noite,4
+3385,Noite,4
+3386,Noite,4
+3387,Noite,4
+3388,Noite,4
+3389,Noite,4
+3390,Noite,5
+3391,Noite,5
+3392,Noite,5
+3393,Noite,6
+3394,Noite,6
+3395,Noite,6
+3396,Noite,6
+3397,Noite,4
+3398,Noite,4
+3399,Noite,4
+3400,Manhã,6
+3401,Manhã,6
+3402,Manhã,6
+3403,Manhã,6
+3404,Tarde,6
+3405,Tarde,6
+3406,Noite,4
+3407,Noite,4
+3408,Noite,4
+3409,Noite,4
+3410,Noite,4
+3411,Noite,4
+3412,Noite,4
+3413,Noite,4
+3414,Noite,4
+3415,Noite,4
+3416,Noite,4
+3417,Noite,4
+3418,Noite,6
+3419,Noite,5
+3420,Noite,5
+3421,Noite,5
+3422,Noite,5
+3423,Noite,5
+3424,Noite,5
+3425,Noite,5
+3426,Noite,5
+3427,Noite,5
+3428,Noite,4
+3429,Noite,4
+3430,Noite,4
+3431,Noite,4
+3432,Noite,4
+3433,Noite,4
+3434,Noite,4
+3435,Noite,4
+3436,Noite,4
+3437,Noite,4
+3438,Noite,4
+3439,Noite,4
+3440,Noite,4
+3441,Noite,4
+3442,Noite,4
+3443,Noite,4
+3444,Noite,4
+3445,Noite,4
+3446,Noite,6
+3447,Noite,6
+3448,Noite,4
+3449,Noite,4
+3450,Noite,4
+3451,Noite,4
+3452,Noite,4
+3453,Noite,4
+3454,Noite,4
+3455,Noite,4
+3456,Noite,4
+3457,Noite,4
+3458,Noite,4
+3459,Noite,5
+3460,Noite,5
+3461,Noite,5
+3462,Noite,5
+3463,Noite,5
+3464,Noite,5
+3465,Noite,4
+3466,Noite,4
+3467,Noite,4
+3468,Noite,4
+3469,Noite,4
+3470,Noite,4
+3471,Noite,4
+3472,Noite,4
+3473,Noite,4
+3474,Manhã,6
+3475,Tarde,1
+3476,Tarde,10
+3477,Manhã,16
+3478,Noite,4
+3479,Noite,4
+3480,Manhã,6
+3481,Tarde,6
+3482,Noite,6
+3483,Noite,16
+3484,Noite,23
+3485,Noite,6
+3486,Noite,5
+3487,Noite,5
+3488,Noite,5
+3489,Noite,5
+3490,Noite,5
+3491,Noite,5
+3492,Noite,2
+3493,Noite,2
+3494,Noite,2
+3495,Noite,4
+3496,Noite,5
+3497,Noite,5
+3498,Noite,5
+3499,Noite,4
+3500,Noite,4
+3501,Noite,4
+3502,Noite,4
+3503,Noite,4
+3504,Noite,4
+3505,Noite,4
+3506,Noite,4
+3507,Noite,4
+3508,Noite,4
+3509,Noite,4
+3510,Noite,16
+3511,Noite,5
+3512,Noite,5
+3513,Noite,5
+3514,Noite,5
+3515,Noite,5
+3516,Noite,5
+3517,Noite,6
+3518,Manhã,13
+3519,Manhã,13
+3520,Noite,5
+3521,Noite,5
+3522,Noite,6
+3523,Noite,5
+3524,Noite,5
+3525,Noite,5
+3526,Manhã,13
+3527,Manhã,13
+3528,Manhã,13
+3529,Manhã,13
+3530,Manhã,13
+3531,Manhã,13
+3532,Manhã,13
+3533,Manhã,13
+3534,Manhã,12
+3535,Manhã,12
+3536,Manhã,12
+3537,Noite,5
+3538,Noite,5
+3539,Noite,5
+3540,Noite,5
+3541,Noite,5
+3542,Manhã,8
+3543,Manhã,8
+3544,Manhã,8
+3545,Manhã,9
+3546,Tarde,13
+3547,Tarde,13
+3548,Tarde,13
+3549,Tarde,13
+3550,Tarde,13
+3551,Manhã,8
+3552,Manhã,8
+3553,Manhã,8
+3554,Manhã,13
+3555,Manhã,13
+3556,Manhã,13
+3557,Tarde,13
+3558,Manhã,13
+3559,Manhã,13
+3560,Manhã,13
+3561,Manhã,13
+3562,Manhã,15
+3563,Manhã,15
+3564,Manhã,15
+3565,Manhã,15
+3566,Manhã,15
+3567,Manhã,15
+3568,Manhã,15
+3569,Manhã,15
+3570,Manhã,15
+3571,Manhã,15
+3572,Tarde,15
+3573,Manhã,15
+3574,Manhã,15
+3575,Tarde,15
+3576,Tarde,15
+3577,Tarde,15
+3578,Manhã,15
+3579,Manhã,15
+3580,Manhã,15
+3581,Tarde,15
+3582,Tarde,15
+3583,Tarde,15
+3584,Tarde,15
+3585,Tarde,15
+3586,Tarde,15
+3587,Tarde,15
+3588,Tarde,15
+3589,Tarde,15
+3590,Tarde,15
+3591,Tarde,15
+3592,Tarde,15
+3593,Tarde,15
+3594,Tarde,15
+3595,Tarde,15
+3596,Tarde,15
+3597,Tarde,15
+3598,Tarde,15
+3599,Tarde,15
+3600,Tarde,15
+3601,Tarde,15
+3602,Tarde,15
+3603,Tarde,15
+3604,Tarde,15
+3605,Tarde,15
+3606,Tarde,15
+3607,Tarde,15
+3608,Tarde,8
+3609,Tarde,8
+3610,Manhã,9
+3611,Manhã,9
+3612,Manhã,9
+3613,Tarde,9
+3614,Tarde,7
+3615,Tarde,9
+3616,Tarde,9
+3617,Tarde,9
+3618,Tarde,9
+3619,Tarde,9
+3620,Tarde,13
+3621,Tarde,13
+3622,Tarde,13
+3623,Tarde,7
+3624,Manhã,13
+3625,Tarde,13
+3626,Manhã,9
+3627,Manhã,9
+3628,Tarde,9
+3629,Tarde,9
+3630,Tarde,9
+3631,Tarde,9
+3632,Tarde,9
+3633,Tarde,8
+3634,Manhã,9
+3635,Manhã,9
+3636,Tarde,9
+3637,Manhã,9
+3638,Tarde,7
+3639,Tarde,9
+3640,Tarde,9
+3641,Tarde,9
+3642,Tarde,9
+3643,Tarde,13
+3644,Tarde,13
+3645,Tarde,9
+3646,Tarde,9
+3647,Tarde,9
+3648,Tarde,9
+3649,Tarde,8
+3650,Tarde,8
+3651,Tarde,9
+3652,Tarde,9
+3653,Tarde,9
+3654,Tarde,13
+3655,Manhã,12
+3656,Manhã,12
+3657,Manhã,12
+3658,Manhã,12
+3659,Manhã,12
+3660,Manhã,12
+3661,Manhã,12
+3662,Manhã,12
+3663,Manhã,12
+3664,Manhã,12
+3665,Manhã,12
+3666,Manhã,12
+3667,Tarde,12
+3668,Manhã,14
+3669,Manhã,14
+3670,Manhã,15
+3671,Manhã,15
+3672,Tarde,14
+3673,Manhã,15
+3674,Manhã,15
+3675,Tarde,15
+3676,Tarde,14
+3677,Tarde,14
+3678,Tarde,14
+3679,Manhã,15
+3680,Manhã,15
+3681,Manhã,15
+3682,Manhã,15
+3683,Manhã,13
+3684,Manhã,12
+3685,Manhã,12
+3686,Manhã,12
+3687,Tarde,12
+3688,Tarde,12
+3689,Tarde,28
+3690,Manhã,13
+3691,Manhã,13
+3692,Manhã,13
+3693,Tarde,13
+3694,Tarde,12
+3695,Tarde,12
+3696,Manhã,13
+3697,Manhã,13
+3698,Manhã,13
+3699,Manhã,13
+3700,Tarde,13
+3701,Tarde,12
+3702,Tarde,12
+3703,Tarde,12
+3704,Tarde,12
+3705,Tarde,12
+3706,Manhã,8
+3707,Tarde,8
+3708,Tarde,8
+3709,Manhã,11
+3710,Manhã,11
+3711,Manhã,11
+3712,Manhã,11
+3713,Manhã,11
+3714,Manhã,11
+3715,Tarde,10
+3716,Tarde,11
+3717,Manhã,7
+3718,Manhã,7
+3719,Manhã,7
+3720,Manhã,7
+3721,Manhã,7
+3722,Manhã,7
+3723,Manhã,7
+3724,Tarde,7
+3725,Tarde,7
+3726,Tarde,7
+3727,Tarde,7
+3728,Tarde,7
+3729,Tarde,7
+3730,Tarde,7
+3731,Tarde,7
+3732,Tarde,7
+3733,Tarde,7
+3734,Tarde,7
+3735,Tarde,7
+3736,Tarde,1
+3737,Manhã,7
+3738,Manhã,7
+3739,Manhã,7
+3740,Manhã,7
+3741,Manhã,7
+3742,Manhã,7
+3743,Manhã,8
+3744,Tarde,8
+3745,Tarde,7
+3746,Tarde,7
+3747,Tarde,7
+3748,Tarde,7
+3749,Tarde,7
+3750,Tarde,7
+3751,Tarde,7
+3752,Tarde,7
+3753,Tarde,7
+3754,Tarde,1
+3755,Tarde,1
+3756,Manhã,5
+3757,Manhã,11
+3758,Manhã,11
+3759,Manhã,11
+3760,Manhã,11
+3761,Tarde,5
+3762,Manhã,11
+3763,Manhã,11
+3764,Tarde,11
+3765,Manhã,8
+3766,Tarde,8
+3767,Tarde,8
+3768,Tarde,8
+3769,Manhã,11
+3770,Manhã,11
+3771,Tarde,10
+3772,Manhã,31
+3773,Noite,4
+3774,Noite,4
+3775,Manhã,31
+3776,Manhã,25
+3777,Tarde,25
+3778,Tarde,25
+3779,Tarde,25
+3780,Tarde,25
+3781,Manhã,12
+3782,Tarde,13
+3783,Tarde,13
+3784,Tarde,13
+3785,Tarde,13
+3786,Noite,25
+3787,Noite,25
+3788,Noite,14
+3789,Noite,14
+3790,Noite,25
+3791,Noite,25
+3792,Tarde,9
+3793,Manhã,9
+3794,Noite,25
+3795,Noite,22
+3796,Noite,25
+3797,Noite,25
+3798,Noite,25
+3799,Noite,25
+3800,Noite,25
+3801,Noite,14
+3802,Noite,22
+3803,Noite,22
+3804,Noite,25
+3805,Noite,25
+3806,Noite,8
+3807,Noite,8
+3808,Noite,3
+3809,Noite,3
+3810,Noite,3
+3811,Noite,5
+3812,Noite,5
+3813,Noite,5
+3814,Tarde,9
+3815,Manhã,8
+3816,Manhã,9
+3817,Noite,20
+3818,Noite,20
+3819,Noite,25
+3820,Noite,25
+3821,Noite,25
+3822,Noite,25
+3823,Noite,20
+3824,Noite,10
+3825,Noite,10
+3826,Noite,10
+3827,Noite,10
+3828,Noite,10
+3829,Noite,10
+3830,Noite,10
+3831,Noite,10
+3832,Noite,10
+3833,Noite,10
+3834,Noite,12
+3835,Noite,30
+3836,Noite,30
+3837,Noite,30
+3838,Noite,30
+3839,Noite,30
+3840,Noite,30
+3841,Noite,30
+3842,Noite,30
+3843,Noite,30
+3844,Noite,30
+3845,Noite,30
+3846,Noite,30
+3847,Noite,30
+3848,Noite,30
+3849,Noite,30
+3850,Noite,30
+3851,Noite,30
+3852,Noite,30
+3853,Noite,30
+3854,Noite,30
+3855,Noite,30
+3856,Noite,30
+3857,Noite,10
+3858,Noite,10
+3859,Noite,10
+3860,Noite,10
+3861,Noite,10
+3862,Noite,10
+3863,Noite,10
+3864,Noite,15
+3865,Noite,15
+3866,Noite,15
+3867,Noite,15
+3868,Noite,15
+3869,Noite,15
+3870,Noite,15
+3871,Noite,15
+3872,Noite,15
+3873,Noite,15
+3874,Noite,15
+3875,Noite,15
+3876,Noite,15
+3877,Noite,15
+3878,Noite,15
+3879,Noite,15
+3880,Noite,15
+3881,Noite,15
+3882,Noite,15
+3883,Noite,15
+3884,Noite,15
+3885,Noite,15
+3886,Noite,15
+3887,Noite,15
+3888,Noite,15
+3889,Noite,15
+3890,Noite,15
+3891,Noite,15
+3892,Noite,15
+3893,Noite,15
+3894,Noite,15
+3895,Noite,15
+3896,Noite,15
+3897,Noite,15
+3898,Noite,15
+3899,Noite,15
+3900,Noite,15
+3901,Noite,15
+3902,Noite,15
+3903,Noite,15
+3904,Noite,15
+3905,Noite,15
+3906,Noite,15
+3907,Noite,15
+3908,Noite,15
+3909,Noite,15
+3910,Noite,15
+3911,Noite,15
+3912,Noite,15
+3913,Noite,15
+3914,Noite,15
+3915,Noite,15
+3916,Noite,15
+3917,Noite,15
+3918,Noite,14
+3919,Manhã,8
+3920,Manhã,9
+3921,Manhã,9
+3922,Tarde,9
+3923,Tarde,9
+3924,Noite,5
+3925,Noite,6
+3926,Noite,10
+3927,Noite,10
+3928,Noite,10
+3929,Noite,10
+3930,Noite,10
+3931,Noite,10
+3932,Noite,10
+3933,Noite,10
+3934,Noite,10
+3935,Noite,30
+3936,Noite,30
+3937,Noite,30
+3938,Noite,30
+3939,Noite,30
+3940,Noite,30
+3941,Noite,30
+3942,Noite,30
+3943,Noite,30
+3944,Noite,30
+3945,Noite,30
+3946,Noite,30
+3947,Noite,30
+3948,Noite,30
+3949,Noite,30
+3950,Noite,30
+3951,Noite,30
+3952,Noite,30
+3953,Noite,30
+3954,Noite,30
+3955,Noite,10
+3956,Noite,10
+3957,Noite,10
+3958,Noite,10
+3959,Noite,14
+3960,Noite,10
+3961,Noite,10
+3962,Noite,10
+3963,Noite,10
+3964,Noite,30
+3965,Noite,30
+3966,Noite,30
+3967,Noite,30
+3968,Noite,30
+3969,Noite,30
+3970,Noite,30
+3971,Noite,30
+3972,Noite,30
+3973,Noite,30
+3974,Noite,30
+3975,Noite,30
+3976,Noite,30
+3977,Noite,30
+3978,Noite,30
+3979,Noite,30
+3980,Noite,11
+3981,Noite,14
+3982,Noite,14
+3983,Noite,14
+3984,Noite,7
+3985,Noite,7
+3986,Noite,7
+3987,Noite,9
+3988,Noite,9
+3989,Noite,9
+3990,Noite,9
+3991,Noite,9
+3992,Noite,8
+3993,Noite,20
+3994,Noite,20
+3995,Noite,28
+3996,Noite,28
+3997,Noite,13
+3998,Noite,13
+3999,Noite,13
+4000,Noite,13
+4001,Noite,20
+4002,Noite,20
+4003,Noite,20
+4004,Noite,20
+4005,Noite,20
+4006,Noite,30
+4007,Noite,8
+4008,Noite,3
+4009,Noite,9
+4010,Noite,9
+4011,Noite,9
+4012,Noite,8
+4013,Noite,8
+4014,Noite,11
+4015,Noite,11
+4016,Noite,11
+4017,Noite,11
+4018,Noite,7
+4019,Noite,9
+4020,Noite,9
+4021,Noite,9
+4022,Noite,9
+4023,Noite,8
+4024,Noite,8
+4025,Noite,8
+4026,Noite,7
+4027,Noite,7
+4028,Noite,7
+4029,Noite,9
+4030,Noite,9
+4031,Noite,9
+4032,Noite,9
+4033,Noite,9
+4034,Noite,9
+4035,Noite,8
+4036,Noite,11
+4037,Noite,11
+4038,Noite,11
+4039,Noite,11
+4040,Noite,11
+4041,Noite,11
+4042,Noite,11
+4043,Noite,9
+4044,Noite,9
+4045,Noite,9
+4046,Noite,9
+4047,Noite,9
+4048,Noite,9
+4049,Noite,9
+4050,Noite,8
+4051,Manhã,9
+4052,Manhã,8
+4053,Manhã,9
+4054,Tarde,9
+4055,Noite,16
+4056,Noite,16
+4057,Noite,16
+4058,Noite,20
+4059,Noite,20
+4060,Noite,20
+4061,Noite,20
+4062,Noite,20
+4063,Noite,20
+4064,Noite,20
+4065,Noite,20
+4066,Noite,20
+4067,Noite,30
+4068,Noite,20
+4069,Noite,15
+4070,Noite,15
+4071,Noite,15
+4072,Noite,15
+4073,Noite,15
+4074,Noite,15
+4075,Noite,15
+4076,Noite,15
+4077,Noite,15
+4078,Noite,5
+4079,Noite,5
+4080,Noite,5
+4081,Noite,5
+4082,Noite,5
+4083,Noite,5
+4084,Manhã,28
+4085,Manhã,10
+4086,Manhã,10
+4087,Manhã,10
+4088,Manhã,28
+4089,Manhã,28
+4090,Manhã,28
+4091,Manhã,28
+4092,Manhã,28
+4093,Manhã,28
+4094,Manhã,28
+4095,Manhã,28
+4096,Manhã,28
+4097,Manhã,13
+4098,Manhã,10
+4099,Noite,28
+4100,Noite,28
+4101,Noite,7
+4102,Noite,12
+4103,Noite,12
+4104,Noite,13
+4105,Noite,13
+4106,Manhã,20
+4107,Manhã,20
+4108,Manhã,20
+4109,Manhã,20
+4110,Manhã,20
+4111,Manhã,20
+4112,Noite,5
+4113,Noite,5
+4114,Noite,5
+4115,Noite,5
+4116,Manhã,13
+4117,Manhã,13
+4118,Tarde,7
+4119,Tarde,7
+4120,Tarde,7
+4121,Tarde,7
+4122,Tarde,12
+4123,Noite,28
+4124,Noite,28
+4125,Noite,28
+4126,Noite,13
+4127,Noite,13
+4128,Noite,9
+4129,Noite,9
+4130,Noite,9
+4131,Noite,9
+4132,Noite,8
+4133,Noite,9
+4134,Noite,9
+4135,Noite,9
+4136,Noite,9
+4137,Noite,8
+4138,Noite,20
+4139,Noite,20
+4140,Noite,20
+4141,Noite,20
+4142,Noite,20
+4143,Noite,20
+4144,Noite,13
+4145,Noite,13
+4146,Noite,13
+4147,Noite,13
+4148,Noite,13
+4149,Noite,5
+4150,Noite,6
+4151,Noite,5
+4152,Noite,5
+4153,Noite,5
+4154,Noite,5
+4155,Noite,13
+4156,Noite,13
+4157,Noite,8
+4158,Noite,8
+4159,Noite,8
+4160,Noite,3
+4161,Noite,8
+4162,Noite,5
+4163,Noite,5
+4164,Noite,13
+4165,Noite,13
+4166,Noite,13
+4167,Noite,13
+4168,Noite,13
+4169,Noite,13
+4170,Noite,13
+4171,Noite,5
+4172,Tarde,8
+4173,Noite,8
+4174,Noite,3
+4175,Noite,3
+4176,Noite,3
+4177,Noite,5
+4178,Noite,13
+4179,Noite,13
+4180,Noite,6
+4181,Noite,13
+4182,Noite,13
+4183,Noite,24
+4184,Manhã,16
+4185,Manhã,16
+4186,Manhã,16
+4187,Manhã,16
+4188,Manhã,16
+4189,Manhã,16
+4190,Manhã,16
+4191,Manhã,16
+4192,Manhã,16
+4193,Manhã,16
+4194,Manhã,16
+4195,Manhã,16
+4196,Manhã,16
+4197,Manhã,16
+4198,Manhã,16
+4199,Manhã,16
+4200,Manhã,16
+4201,Manhã,16
+4202,Manhã,16
+4203,Manhã,16
+4204,Noite,24
+4205,Noite,24
+4206,Manhã,18
+4207,Manhã,17
+4208,Manhã,17
+4209,Tarde,24
+4210,Tarde,24
+4211,Noite,24
+4212,Tarde,2
+4213,Tarde,2
+4214,Manhã,2
+4215,Tarde,4
+4216,Tarde,4
+4217,Tarde,4
+4218,Manhã,2
+4219,Noite,2
+4220,Noite,2
+4221,Noite,2
+4222,Noite,2
+4223,Noite,2
+4224,Noite,2
+4225,Noite,4
+4226,Noite,2
+4227,Noite,2
+4228,Noite,2
+4229,Tarde,5
+4230,Tarde,6
+4231,Tarde,6
+4232,Noite,6
+4233,Noite,6
+4234,Noite,4
+4235,Noite,4
+4236,Manhã,15
+4237,Manhã,15
+4238,Manhã,11
+4239,Noite,11
+4240,Noite,11
+4241,Noite,11
+4242,Noite,11
+4243,Noite,11
+4244,Noite,11
+4245,Manhã,16
+4246,Tarde,16
+4247,Manhã,17
+4248,Manhã,17
+4249,Manhã,17
+4250,Manhã,17
+4251,Manhã,17
+4252,Manhã,17
+4253,Manhã,17
+4254,Manhã,17
+4255,Manhã,17
+4256,Manhã,17
+4257,Manhã,17
+4258,Manhã,17
+4259,Manhã,17
+4260,Manhã,17
+4261,Manhã,16
+4262,Manhã,16
+4263,Manhã,16
+4264,Manhã,16
+4265,Manhã,16
+4266,Manhã,16
+4267,Manhã,16
+4268,Manhã,16
+4269,Manhã,16
+4270,Manhã,16
+4271,Manhã,16
+4272,Manhã,16
+4273,Manhã,16
+4274,Manhã,16
+4275,Manhã,16
+4276,Manhã,16
+4277,Manhã,16
+4278,Manhã,16
+4279,Manhã,16
+4280,Manhã,16
+4281,Manhã,16
+4282,Manhã,34
+4283,Manhã,34
+4284,Manhã,34
+4285,Manhã,34
+4286,Manhã,34
+4287,Manhã,34
+4288,Manhã,16
+4289,Manhã,16
+4290,Manhã,16
+4291,Manhã,16
+4292,Manhã,16
+4293,Manhã,16
+4294,Manhã,16
+4295,Manhã,16
+4296,Manhã,16
+4297,Manhã,16
+4298,Manhã,16
+4299,Manhã,16
+4300,Manhã,16
+4301,Manhã,16
+4302,Manhã,16
+4303,Manhã,16
+4304,Manhã,16
+4305,Manhã,16
+4306,Manhã,16
+4307,Tarde,16
+4308,Tarde,16
+4309,Manhã,34
+4310,Manhã,34
+4311,Manhã,34
+4312,Manhã,34
+4313,Manhã,34
+4314,Manhã,34
+4315,Manhã,34
+4316,Manhã,34
+4317,Manhã,34
+4318,Manhã,16
+4319,Manhã,16
+4320,Manhã,16
+4321,Manhã,16
+4322,Manhã,16
+4323,Manhã,16
+4324,Manhã,16
+4325,Manhã,16
+4326,Manhã,16
+4327,Manhã,16
+4328,Manhã,16
+4329,Manhã,16
+4330,Manhã,16
+4331,Manhã,16
+4332,Manhã,16
+4333,Manhã,16
+4334,Manhã,16
+4335,Manhã,16
+4336,Noite,16
+4337,Noite,16
+4338,Noite,16
+4339,Noite,16
+4340,Noite,16
+4341,Manhã,16
+4342,Manhã,2
+4343,Manhã,2
+4344,Manhã,2
+4345,Manhã,2
+4346,Manhã,2
+4347,Manhã,2
+4348,Manhã,2
+4349,Manhã,2
+4350,Manhã,2
+4351,Manhã,2
+4352,Manhã,2
+4353,Manhã,2
+4354,Manhã,2
+4355,Manhã,2
+4356,Manhã,2
+4357,Manhã,2
+4358,Manhã,2
+4359,Manhã,2
+4360,Manhã,2
+4361,Manhã,2
+4362,Manhã,2
+4363,Manhã,2
+4364,Manhã,2
+4365,Manhã,2
+4366,Manhã,2
+4367,Manhã,2
+4368,Manhã,2
+4369,Manhã,2
+4370,Manhã,2
+4371,Manhã,2
+4372,Manhã,2
+4373,Manhã,2
+4374,Manhã,2
+4375,Manhã,2
+4376,Manhã,2
+4377,Manhã,2
+4378,Manhã,2
+4379,Manhã,2
+4380,Manhã,2
+4381,Manhã,2
+4382,Manhã,2
+4383,Manhã,2
+4384,Manhã,2
+4385,Manhã,2
+4386,Manhã,2
+4387,Manhã,2
+4388,Manhã,2
+4389,Manhã,2
+4390,Manhã,2
+4391,Manhã,2
+4392,Manhã,2
+4393,Noite,16
+4394,Tarde,2
+4395,Tarde,2
+4396,Tarde,2
+4397,Tarde,2
+4398,Manhã,2
+4399,Manhã,2
+4400,Manhã,2
+4401,Manhã,2
+4402,Manhã,2
+4403,Manhã,2
+4404,Manhã,2
+4405,Manhã,2
+4406,Manhã,2
+4407,Manhã,2
+4408,Manhã,2
+4409,Manhã,2
+4410,Manhã,2
+4411,Manhã,2
+4412,Manhã,2
+4413,Manhã,2
+4414,Manhã,2
+4415,Manhã,2
+4416,Manhã,2
+4417,Manhã,2
+4418,Manhã,2
+4419,Manhã,2
+4420,Manhã,2
+4421,Manhã,2
+4422,Manhã,2
+4423,Manhã,2
+4424,Manhã,2
+4425,Manhã,2
+4426,Manhã,2
+4427,Manhã,2
+4428,Manhã,2
+4429,Manhã,2
+4430,Manhã,2
+4431,Manhã,2
+4432,Manhã,2
+4433,Manhã,2
+4434,Manhã,4
+4435,Manhã,2
+4436,Manhã,2
+4437,Manhã,2
+4438,Manhã,2
+4439,Manhã,2
+4440,Manhã,2
+4441,Manhã,2
+4442,Manhã,2
+4443,Manhã,2
+4444,Manhã,2
+4445,Manhã,2
+4446,Manhã,2
+4447,Manhã,2
+4448,Manhã,2
+4449,Manhã,2
+4450,Manhã,3
+4451,Manhã,2
+4452,Manhã,4
+4453,Manhã,2
+4454,Manhã,2
+4455,Manhã,2
+4456,Manhã,2
+4457,Manhã,2
+4458,Manhã,2
+4459,Noite,2
+4460,Noite,2
+4461,Noite,2
+4462,Noite,2
+4463,Noite,2
+4464,Noite,1
+4465,Noite,2
+4466,Manhã,5
+4467,Manhã,4
+4468,Manhã,4
+4469,Tarde,4
+4470,Tarde,4
+4471,Tarde,4
+4472,Tarde,4
+4473,Manhã,4
+4474,Manhã,4
+4475,Tarde,4
+4476,Manhã,4
+4477,Manhã,4
+4478,Manhã,4
+4479,Manhã,4
+4480,Manhã,4
+4481,Manhã,4
+4482,Manhã,4
+4483,Tarde,4
+4484,Manhã,4
+4485,Manhã,4
+4486,Manhã,4
+4487,Manhã,4
+4488,Manhã,4
+4489,Tarde,4
+4490,Manhã,4
+4491,Manhã,4
+4492,Manhã,4
+4493,Manhã,4
+4494,Manhã,4
+4495,Tarde,4
+4496,Manhã,4
+4497,Manhã,4
+4498,Manhã,4
+4499,Manhã,4
+4500,Manhã,4
+4501,Manhã,4
+4502,Tarde,4
+4503,Tarde,4
+4504,Tarde,4
+4505,Manhã,4
+4506,Manhã,4
+4507,Manhã,4
+4508,Manhã,4
+4509,Manhã,4
+4510,Manhã,14
+4511,Manhã,14
+4512,Manhã,11
+4513,Manhã,11
+4514,Tarde,14
+4515,Tarde,14
+4516,Tarde,14
+4517,Manhã,14
+4518,Manhã,11
+4519,Manhã,14
+4520,Tarde,14
+4521,Manhã,15
+4522,Manhã,15
+4523,Manhã,15
+4524,Manhã,15
+4525,Manhã,15
+4526,Manhã,15
+4527,Manhã,15
+4528,Manhã,15
+4529,Manhã,15
+4530,Manhã,15
+4531,Manhã,15
+4532,Manhã,15
+4533,Manhã,15
+4534,Manhã,15
+4535,Manhã,15
+4536,Manhã,15
+4537,Manhã,15
+4538,Manhã,15
+4539,Manhã,15
+4540,Manhã,30
+4541,Manhã,30
+4542,Manhã,30
+4543,Manhã,30
+4544,Manhã,30
+4545,Manhã,30
+4546,Manhã,10
+4547,Manhã,10
+4548,Tarde,10
+4549,Tarde,10
+4550,Tarde,10
+4551,Tarde,9
+4552,Manhã,9
+4553,Manhã,9
+4554,Manhã,9
+4555,Manhã,9
+4556,Tarde,9
+4557,Manhã,13
+4558,Manhã,12
+4559,Manhã,12
+4560,Manhã,12
+4561,Manhã,12
+4562,Manhã,12
+4563,Manhã,12
+4564,Manhã,12
+4565,Manhã,12
+4566,Manhã,12
+4567,Manhã,12
+4568,Manhã,12
+4569,Manhã,12
+4570,Manhã,12
+4571,Manhã,12
+4572,Manhã,12
+4573,Manhã,12
+4574,Manhã,12
+4575,Manhã,12
+4576,Manhã,12
+4577,Manhã,12
+4578,Manhã,12
+4579,Manhã,12
+4580,Manhã,12
+4581,Manhã,12
+4582,Manhã,12
+4583,Manhã,12
+4584,Manhã,12
+4585,Manhã,12
+4586,Manhã,12
+4587,Manhã,12
+4588,Noite,13
+4589,Manhã,20
+4590,Manhã,20
+4591,Manhã,20
+4592,Manhã,20
+4593,Manhã,20
+4594,Manhã,20
+4595,Manhã,20
+4596,Manhã,20
+4597,Manhã,20
+4598,Manhã,20
+4599,Manhã,20
+4600,Manhã,20
+4601,Manhã,20
+4602,Manhã,20
+4603,Manhã,20
+4604,Manhã,20
+4605,Manhã,20
+4606,Manhã,20
+4607,Manhã,20
+4608,Manhã,20
+4609,Manhã,20
+4610,Manhã,20
+4611,Tarde,20
+4612,Tarde,20
+4613,Tarde,20
+4614,Tarde,20
+4615,Manhã,11
+4616,Manhã,11
+4617,Manhã,11
+4618,Manhã,11
+4619,Manhã,11
+4620,Manhã,11
+4621,Manhã,11
+4622,Manhã,11
+4623,Manhã,20
+4624,Manhã,30
+4625,Manhã,30
+4626,Manhã,30
+4627,Manhã,30
+4628,Manhã,30
+4629,Manhã,30
+4630,Manhã,30
+4631,Manhã,30
+4632,Manhã,30
+4633,Manhã,10
+4634,Manhã,10
+4635,Manhã,10
+4636,Manhã,10
+4637,Manhã,10
+4638,Manhã,10
+4639,Tarde,10
+4640,Tarde,10
+4641,Tarde,10
+4642,Tarde,10
+4643,Tarde,10
+4644,Manhã,30
+4645,Manhã,30
+4646,Manhã,30
+4647,Manhã,30
+4648,Manhã,30
+4649,Manhã,30
+4650,Manhã,10
+4651,Manhã,10
+4652,Manhã,10
+4653,Manhã,10
+4654,Manhã,10
+4655,Manhã,11
+4656,Tarde,10
+4657,Tarde,10
+4658,Tarde,10
+4659,Tarde,10
+4660,Manhã,10
+4661,Manhã,10
+4662,Manhã,10
+4663,Manhã,10
+4664,Manhã,10
+4665,Manhã,10
+4666,Manhã,10
+4667,Manhã,10
+4668,Manhã,10
+4669,Manhã,10
+4670,Manhã,10
+4671,Manhã,10
+4672,Manhã,10
+4673,Manhã,10
+4674,Tarde,10
+4675,Tarde,10
+4676,Tarde,10
+4677,Tarde,10
+4678,Tarde,10
+4679,Manhã,10
+4680,Manhã,10
+4681,Manhã,10
+4682,Manhã,10
+4683,Manhã,10
+4684,Manhã,10
+4685,Manhã,10
+4686,Manhã,10
+4687,Manhã,10
+4688,Manhã,30
+4689,Manhã,10
+4690,Manhã,10
+4691,Manhã,10
+4692,Manhã,10
+4693,Manhã,10
+4694,Manhã,10
+4695,Tarde,10
+4696,Tarde,10
+4697,Tarde,10
+4698,Tarde,10
+4699,Tarde,10
+4700,Tarde,10
+4701,Tarde,10
+4702,Tarde,10
+4703,Manhã,30
+4704,Manhã,30
+4705,Manhã,30
+4706,Manhã,30
+4707,Manhã,30
+4708,Manhã,30
+4709,Manhã,30
+4710,Manhã,30
+4711,Manhã,30
+4712,Manhã,30
+4713,Manhã,10
+4714,Manhã,10
+4715,Manhã,10
+4716,Manhã,10
+4717,Manhã,10
+4718,Manhã,11
+4719,Tarde,10
+4720,Tarde,10
+4721,Manhã,10
+4722,Tarde,10
+4723,Manhã,12
+4724,Manhã,12
+4725,Manhã,14
+4726,Manhã,14
+4727,Manhã,11
+4728,Manhã,14
+4729,Manhã,14
+4730,Tarde,14
+4731,Tarde,14
+4732,Tarde,14
+4733,Tarde,25
+4734,Tarde,25
+4735,Tarde,25
+4736,Tarde,25
+4737,Tarde,25
+4738,Tarde,25
+4739,Tarde,25
+4740,Tarde,25
+4741,Tarde,25
+4742,Manhã,25
+4743,Manhã,25
+4744,Manhã,25
+4745,Manhã,25
+4746,Manhã,25
+4747,Manhã,25
+4748,Manhã,25
+4749,Manhã,25
+4750,Tarde,25
+4751,Tarde,25
+4752,Tarde,25
+4753,Manhã,25
+4754,Noite,20
+4755,Tarde,13
+4756,Tarde,13
+4757,Tarde,8
+4758,Tarde,13
+4759,Tarde,13
+4760,Tarde,13
+4761,Manhã,13
+4762,Manhã,13
+4763,Tarde,7
+4764,Tarde,7
+4765,Manhã,13
+4766,Manhã,13
+4767,Manhã,13
+4768,Noite,12
+4769,Noite,12
+4770,Noite,12
+4771,Noite,12
+4772,Tarde,8
+4773,Tarde,8
+4774,Tarde,13
+4775,Tarde,13
+4776,Tarde,8
+4777,Tarde,8
+4778,Tarde,8
+4779,Tarde,8
+4780,Tarde,28
+4781,Tarde,8
+4782,Tarde,13
+4783,Tarde,8
+4784,Tarde,8
+4785,Manhã,16
+4786,Manhã,16
+4787,Manhã,17
+4788,Manhã,17
+4789,Manhã,17
+4790,Manhã,17
+4791,Manhã,17
+4792,Manhã,17
+4793,Manhã,17
+4794,Manhã,17
+4795,Manhã,17
+4796,Manhã,16
+4797,Manhã,16
+4798,Manhã,16
+4799,Manhã,16
+4800,Manhã,34
+4801,Manhã,34
+4802,Manhã,34
+4803,Manhã,16
+4804,Manhã,16
+4805,Manhã,16
+4806,Manhã,16
+4807,Manhã,16
+4808,Manhã,16
+4809,Manhã,16
+4810,Manhã,16
+4811,Manhã,16
+4812,Manhã,16
+4813,Manhã,16
+4814,Manhã,16
+4815,Manhã,16
+4816,Manhã,16
+4817,Manhã,16
+4818,Manhã,16
+4819,Manhã,16
+4820,Manhã,16
+4821,Manhã,16
+4822,Manhã,16
+4823,Manhã,16
+4824,Manhã,16
+4825,Manhã,16
+4826,Manhã,16
+4827,Manhã,16
+4828,Manhã,16
+4829,Manhã,16
+4830,Manhã,16
+4831,Manhã,16
+4832,Manhã,16
+4833,Manhã,16
+4834,Manhã,16
+4835,Manhã,2
+4836,Manhã,16
+4837,Manhã,16
+4838,Manhã,16
+4839,Manhã,16
+4840,Manhã,16
+4841,Manhã,16
+4842,Manhã,16
+4843,Manhã,16
+4844,Manhã,16
+4845,Manhã,16
+4846,Manhã,16
+4847,Manhã,16
+4848,Manhã,16
+4849,Manhã,16
+4850,Manhã,16
+4851,Manhã,16
+4852,Manhã,16
+4853,Manhã,16
+4854,Manhã,16
+4855,Manhã,16
+4856,Manhã,16
+4857,Manhã,34
+4858,Manhã,16
+4859,Manhã,16
+4860,Manhã,16
+4861,Manhã,16
+4862,Manhã,16
+4863,Manhã,16
+4864,Manhã,16
+4865,Manhã,16
+4866,Manhã,16
+4867,Manhã,16
+4868,Manhã,16
+4869,Manhã,16
+4870,Noite,16
+4871,Noite,16
+4872,Noite,16
+4873,Noite,16
+4874,Noite,16
+4875,Noite,16
+4876,Manhã,2
+4877,Manhã,2
+4878,Manhã,2
+4879,Manhã,2
+4880,Manhã,2
+4881,Manhã,2
+4882,Manhã,2
+4883,Manhã,2
+4884,Manhã,2
+4885,Manhã,2
+4886,Manhã,2
+4887,Manhã,2
+4888,Manhã,2
+4889,Manhã,23
+4890,Manhã,2
+4891,Manhã,2
+4892,Manhã,2
+4893,Manhã,16
+4894,Manhã,16
+4895,Tarde,2
+4896,Tarde,2
+4897,Tarde,2
+4898,Tarde,2
+4899,Tarde,2
+4900,Tarde,2
+4901,Manhã,4
+4902,Manhã,4
+4903,Manhã,4
+4904,Manhã,4
+4905,Manhã,4
+4906,Manhã,2
+4907,Manhã,2
+4908,Manhã,2
+4909,Manhã,2
+4910,Manhã,2
+4911,Manhã,4
+4912,Manhã,4
+4913,Manhã,4
+4914,Manhã,4
+4915,Manhã,4
+4916,Manhã,2
+4917,Manhã,2
+4918,Manhã,2
+4919,Manhã,2
+4920,Manhã,2
+4921,Manhã,2
+4922,Manhã,2
+4923,Manhã,2
+4924,Manhã,2
+4925,Manhã,2
+4926,Manhã,2
+4927,Manhã,2
+4928,Manhã,2
+4929,Manhã,2
+4930,Manhã,2
+4931,Tarde,2
+4932,Tarde,2
+4933,Tarde,2
+4934,Manhã,2
+4935,Manhã,2
+4936,Manhã,2
+4937,Manhã,3
+4938,Manhã,2
+4939,Manhã,2
+4940,Manhã,2
+4941,Tarde,1
+4942,Tarde,4
+4943,Tarde,3
+4944,Tarde,3
+4945,Tarde,3
+4946,Manhã,4
+4947,Manhã,4
+4948,Manhã,2
+4949,Manhã,2
+4950,Manhã,2
+4951,Manhã,2
+4952,Manhã,2
+4953,Tarde,3
+4954,Tarde,3
+4955,Manhã,4
+4956,Manhã,4
+4957,Manhã,4
+4958,Manhã,2
+4959,Manhã,2
+4960,Tarde,4
+4961,Tarde,4
+4962,Tarde,4
+4963,Tarde,4
+4964,Tarde,4
+4965,Noite,2
+4966,Noite,2
+4967,Tarde,1
+4968,Tarde,3
+4969,Tarde,3
+4970,Tarde,3
+4971,Manhã,3
+4972,Tarde,3
+4973,Noite,2
+4974,Noite,2
+4975,Noite,2
+4976,Noite,2
+4977,Noite,2
+4978,Noite,2
+4979,Noite,2
+4980,Manhã,5
+4981,Tarde,5
+4982,Tarde,5
+4983,Manhã,5
+4984,Manhã,4
+4985,Tarde,4
+4986,Tarde,4
+4987,Manhã,4
+4988,Manhã,4
+4989,Tarde,4
+4990,Manhã,4
+4991,Manhã,4
+4992,Manhã,4
+4993,Tarde,4
+4994,Manhã,4
+4995,Manhã,4
+4996,Manhã,4
+4997,Manhã,4
+4998,Manhã,4
+4999,Manhã,4
+5000,Manhã,4
+5001,Manhã,4
+5002,Manhã,4
+5003,Manhã,4
+5004,Tarde,4
+5005,Tarde,4
+5006,Tarde,4
+5007,Manhã,4
+5008,Manhã,4
+5009,Tarde,4
+5010,Tarde,4
+5011,Tarde,4
+5012,Manhã,4
+5013,Manhã,4
+5014,Manhã,4
+5015,Manhã,4
+5016,Manhã,4
+5017,Manhã,4
+5018,Manhã,4
+5019,Manhã,4
+5020,Manhã,4
+5021,Manhã,4
+5022,Tarde,4
+5023,Tarde,4
+5024,Manhã,4
+5025,Manhã,4
+5026,Manhã,4
+5027,Manhã,4
+5028,Manhã,4
+5029,Manhã,4
+5030,Manhã,4
+5031,Manhã,4
+5032,Tarde,13
+5033,Tarde,13
+5034,Manhã,14
+5035,Manhã,12
+5036,Tarde,14
+5037,Manhã,14
+5038,Tarde,14
+5039,Tarde,14
+5040,Tarde,14
+5041,Tarde,14
+5042,Manhã,15
+5043,Manhã,15
+5044,Manhã,15
+5045,Manhã,15
+5046,Manhã,15
+5047,Manhã,15
+5048,Manhã,15
+5049,Manhã,15
+5050,Manhã,15
+5051,Manhã,15
+5052,Manhã,15
+5053,Manhã,15
+5054,Manhã,15
+5055,Manhã,15
+5056,Manhã,15
+5057,Manhã,15
+5058,Manhã,15
+5059,Manhã,15
+5060,Manhã,15
+5061,Manhã,15
+5062,Manhã,15
+5063,Manhã,15
+5064,Manhã,15
+5065,Manhã,15
+5066,Manhã,15
+5067,Manhã,15
+5068,Manhã,15
+5069,Manhã,15
+5070,Manhã,15
+5071,Manhã,15
+5072,Manhã,15
+5073,Manhã,15
+5074,Manhã,15
+5075,Manhã,10
+5076,Manhã,30
+5077,Manhã,30
+5078,Manhã,30
+5079,Manhã,10
+5080,Manhã,30
+5081,Tarde,30
+5082,Tarde,30
+5083,Tarde,30
+5084,Tarde,30
+5085,Tarde,30
+5086,Tarde,30
+5087,Tarde,9
+5088,Tarde,9
+5089,Tarde,9
+5090,Tarde,9
+5091,Tarde,9
+5092,Tarde,9
+5093,Manhã,9
+5094,Manhã,9
+5095,Manhã,9
+5096,Manhã,9
+5097,Manhã,9
+5098,Manhã,9
+5099,Manhã,9
+5100,Manhã,9
+5101,Manhã,9
+5102,Tarde,9
+5103,Tarde,9
+5104,Tarde,9
+5105,Tarde,9
+5106,Tarde,9
+5107,Tarde,9
+5108,Tarde,9
+5109,Manhã,9
+5110,Manhã,9
+5111,Tarde,9
+5112,Tarde,13
+5113,Tarde,13
+5114,Tarde,9
+5115,Tarde,9
+5116,Tarde,9
+5117,Tarde,9
+5118,Tarde,9
+5119,Tarde,9
+5120,Tarde,9
+5121,Tarde,9
+5122,Tarde,9
+5123,Manhã,12
+5124,Manhã,12
+5125,Manhã,12
+5126,Manhã,12
+5127,Manhã,12
+5128,Manhã,12
+5129,Manhã,12
+5130,Manhã,12
+5131,Manhã,12
+5132,Manhã,12
+5133,Manhã,12
+5134,Manhã,12
+5135,Manhã,12
+5136,Manhã,12
+5137,Manhã,12
+5138,Manhã,12
+5139,Manhã,12
+5140,Manhã,12
+5141,Manhã,12
+5142,Manhã,12
+5143,Manhã,12
+5144,Manhã,12
+5145,Manhã,12
+5146,Manhã,12
+5147,Manhã,12
+5148,Manhã,12
+5149,Manhã,12
+5150,Manhã,12
+5151,Manhã,12
+5152,Manhã,12
+5153,Manhã,12
+5154,Manhã,12
+5155,Manhã,12
+5156,Manhã,12
+5157,Manhã,12
+5158,Manhã,12
+5159,Manhã,12
+5160,Manhã,12
+5161,Manhã,12
+5162,Manhã,12
+5163,Manhã,12
+5164,Manhã,12
+5165,Manhã,12
+5166,Manhã,12
+5167,Manhã,12
+5168,Manhã,12
+5169,Manhã,12
+5170,Manhã,12
+5171,Manhã,12
+5172,Manhã,12
+5173,Manhã,12
+5174,Manhã,12
+5175,Manhã,12
+5176,Manhã,12
+5177,Manhã,12
+5178,Tarde,13
+5179,Manhã,12
+5180,Manhã,12
+5181,Manhã,12
+5182,Manhã,12
+5183,Manhã,12
+5184,Manhã,12
+5185,Manhã,12
+5186,Manhã,12
+5187,Manhã,12
+5188,Manhã,12
+5189,Manhã,12
+5190,Manhã,12
+5191,Manhã,12
+5192,Tarde,12
+5193,Tarde,13
+5194,Tarde,13
+5195,Manhã,12
+5196,Manhã,12
+5197,Manhã,12
+5198,Manhã,12
+5199,Manhã,12
+5200,Manhã,12
+5201,Manhã,12
+5202,Manhã,12
+5203,Manhã,12
+5204,Manhã,12
+5205,Manhã,12
+5206,Manhã,12
+5207,Manhã,12
+5208,Manhã,12
+5209,Manhã,12
+5210,Manhã,12
+5211,Manhã,12
+5212,Manhã,12
+5213,Manhã,12
+5214,Manhã,12
+5215,Manhã,12
+5216,Manhã,12
+5217,Manhã,12
+5218,Manhã,12
+5219,Manhã,12
+5220,Manhã,12
+5221,Manhã,12
+5222,Manhã,12
+5223,Manhã,12
+5224,Manhã,12
+5225,Manhã,12
+5226,Manhã,12
+5227,Manhã,12
+5228,Manhã,12
+5229,Manhã,12
+5230,Manhã,12
+5231,Manhã,12
+5232,Manhã,12
+5233,Manhã,8
+5234,Manhã,25
+5235,Manhã,25
+5236,Manhã,12
+5237,Manhã,12
+5238,Manhã,12
+5239,Manhã,12
+5240,Manhã,12
+5241,Manhã,12
+5242,Manhã,12
+5243,Manhã,12
+5244,Manhã,1
+5245,Manhã,30
+5246,Manhã,20
+5247,Manhã,20
+5248,Manhã,20
+5249,Manhã,20
+5250,Manhã,20
+5251,Manhã,20
+5252,Manhã,20
+5253,Manhã,20
+5254,Manhã,20
+5255,Tarde,20
+5256,Tarde,20
+5257,Tarde,20
+5258,Tarde,20
+5259,Manhã,11
+5260,Manhã,30
+5261,Manhã,30
+5262,Manhã,10
+5263,Tarde,10
+5264,Manhã,10
+5265,Tarde,10
+5266,Tarde,10
+5267,Tarde,10
+5268,Tarde,10
+5269,Tarde,10
+5270,Tarde,30
+5271,Tarde,30
+5272,Tarde,30
+5273,Tarde,30
+5274,Tarde,30
+5275,Tarde,30
+5276,Manhã,30
+5277,Manhã,30
+5278,Manhã,30
+5279,Manhã,30
+5280,Manhã,30
+5281,Manhã,30
+5282,Manhã,10
+5283,Tarde,10
+5284,Tarde,30
+5285,Tarde,30
+5286,Tarde,30
+5287,Tarde,30
+5288,Tarde,30
+5289,Tarde,30
+5290,Tarde,10
+5291,Manhã,10
+5292,Manhã,10
+5293,Manhã,10
+5294,Manhã,10
+5295,Manhã,10
+5296,Tarde,10
+5297,Tarde,10
+5298,Tarde,10
+5299,Tarde,10
+5300,Tarde,10
+5301,Tarde,10
+5302,Tarde,10
+5303,Tarde,10
+5304,Tarde,10
+5305,Tarde,10
+5306,Manhã,10
+5307,Manhã,10
+5308,Manhã,10
+5309,Tarde,10
+5310,Tarde,10
+5311,Tarde,10
+5312,Tarde,10
+5313,Tarde,30
+5314,Tarde,30
+5315,Tarde,30
+5316,Tarde,30
+5317,Manhã,30
+5318,Manhã,30
+5319,Manhã,30
+5320,Manhã,30
+5321,Manhã,10
+5322,Manhã,10
+5323,Manhã,10
+5324,Manhã,10
+5325,Tarde,10
+5326,Tarde,10
+5327,Tarde,10
+5328,Manhã,10
+5329,Tarde,10
+5330,Tarde,30
+5331,Tarde,30
+5332,Tarde,30
+5333,Tarde,30
+5334,Tarde,30
+5335,Manhã,30
+5336,Manhã,11
+5337,Manhã,11
+5338,Tarde,14
+5339,Tarde,14
+5340,Tarde,25
+5341,Tarde,25
+5342,Tarde,25
+5343,Tarde,25
+5344,Tarde,8
+5345,Manhã,25
+5346,Manhã,22
+5347,Manhã,22
+5348,Manhã,25
+5349,Manhã,25
+5350,Noite,25
+5351,Manhã,25
+5352,Manhã,25
+5353,Manhã,25
+5354,Manhã,25
+5355,Tarde,25
+5356,Tarde,25
+5357,Tarde,25
+5358,Tarde,25
+5359,Tarde,25
+5360,Tarde,25
+5361,Tarde,25
+5362,Tarde,25
+5363,Tarde,25
+5364,Tarde,25
+5365,Tarde,25
+5366,Noite,20
+5367,Tarde,8
+5368,Manhã,13
+5369,Manhã,28
+5370,Manhã,28
+5371,Manhã,28
+5372,Manhã,28
+5373,Manhã,28
+5374,Manhã,28
+5375,Manhã,28
+5376,Manhã,28
+5377,Manhã,28
+5378,Manhã,28
+5379,Manhã,28
+5380,Manhã,28
+5381,Manhã,28
+5382,Manhã,28
+5383,Manhã,10
+5384,Manhã,10
+5385,Manhã,10
+5386,Manhã,10
+5387,Manhã,10
+5388,Manhã,10
+5389,Manhã,10
+5390,Manhã,10
+5391,Manhã,10
+5392,Manhã,10
+5393,Manhã,28
+5394,Tarde,7
+5395,Tarde,7
+5396,Tarde,7
+5397,Tarde,7
+5398,Tarde,7
+5399,Tarde,7
+5400,Manhã,12
+5401,Manhã,13
+5402,Manhã,13
+5403,Manhã,13
+5404,Manhã,13
+5405,Manhã,13
+5406,Manhã,13
+5407,Manhã,13
+5408,Manhã,13
+5409,Manhã,13
+5410,Manhã,13
+5411,Manhã,13
+5412,Manhã,13
+5413,Manhã,13
+5414,Manhã,13
+5415,Manhã,13
+5416,Manhã,13
+5417,Manhã,13
+5418,Manhã,13
+5419,Manhã,13
+5420,Manhã,13
+5421,Manhã,13
+5422,Manhã,13
+5423,Manhã,13
+5424,Manhã,13
+5425,Manhã,13
+5426,Manhã,13
+5427,Manhã,13
+5428,Tarde,13
+5429,Tarde,13
+5430,Tarde,13
+5431,Noite,12
+5432,Noite,12
+5433,Tarde,13
+5434,Tarde,8
+5435,Não se aplica,1
+5436,Não se aplica,33
+5437,Não se aplica,23
+5438,Não se aplica,2
+5439,Não se aplica,2
+5440,Não se aplica,1
+5441,Não se aplica,2
+5442,Não se aplica,19
+5443,Não se aplica,19
+5444,Não se aplica,24
+5445,Não se aplica,24
+5446,Não se aplica,2
+5447,Não se aplica,3
+5448,Não se aplica,2
+5449,Não se aplica,2
+5450,Não se aplica,2
+5451,Não se aplica,1
+5452,Não se aplica,8
+5453,Não se aplica,20
+5454,Não se aplica,18
+5455,Não se aplica,16
+5456,Não se aplica,20
+5457,Não se aplica,19
+5458,Não se aplica,1
+5459,Não se aplica,19
+5460,Não se aplica,7
+5461,Não se aplica,10
+5462,Não se aplica,1
+5463,Não se aplica,3
+5464,Não se aplica,20
+5465,Não se aplica,19
+5466,Não se aplica,2
+5467,Não se aplica,20
+5468,Não se aplica,18
+5469,Não se aplica,3
+5470,Não se aplica,19
+5471,Não se aplica,16
+5472,Não se aplica,1
+5473,Não se aplica,2
+5474,Não se aplica,3
+5475,Não se aplica,2
+5476,Não se aplica,1
+5477,Não se aplica,8
+5478,Não se aplica,13
+5479,Não se aplica,3
+5480,Não se aplica,2
+5481,Não se aplica,2
+5482,Não se aplica,23
+5483,Não se aplica,23
+5484,Não se aplica,19
+5485,Não se aplica,19
+5486,Não se aplica,18
+5487,Não se aplica,2
+5488,Não se aplica,16
+5489,Não se aplica,20
+5490,Não se aplica,16
+5491,Não se aplica,2
+5492,Não se aplica,19
+5493,Não se aplica,17
+5494,Não se aplica,3
+5495,Não se aplica,2
+5496,Não se aplica,20
+5497,Não se aplica,18
+5498,Não se aplica,16
+5499,Não se aplica,20
+5500,Não se aplica,3
+5501,Não se aplica,19
+5502,Não se aplica,3
+5503,Não se aplica,33
+5504,Não se aplica,16
+5505,Não se aplica,16
+5506,Não se aplica,1
+5507,Não se aplica,16
+5508,Não se aplica,1
+5509,Não se aplica,19
+5510,Não se aplica,16
+5511,Não se aplica,23
+5512,Não se aplica,2
+5513,Não se aplica,4
+5514,Não se aplica,2
+5515,Não se aplica,23
+5516,Não se aplica,1
+5517,Não se aplica,2
+5518,Não se aplica,2
+5519,Não se aplica,2
+5520,Não se aplica,1
+5521,Não se aplica,16
+5522,Não se aplica,19
+5523,Não se aplica,17
+5524,Não se aplica,19
+5525,Não se aplica,2
+5526,Não se aplica,24
+5527,Não se aplica,20
+5528,Não se aplica,11
+5529,Não se aplica,18
+5530,Não se aplica,19
+5531,Não se aplica,8
+5532,Não se aplica,8
+5533,Não se aplica,2
+5534,Não se aplica,8
+5535,Não se aplica,20
+5536,Não se aplica,19
+5537,Não se aplica,3
+5538,Não se aplica,23
+5539,Não se aplica,20
+5540,Não se aplica,3
+5541,Não se aplica,23
+5542,Não se aplica,16
+5543,Não se aplica,16
+5544,Não se aplica,19
+5545,Não se aplica,2
+5546,Não se aplica,1
+5547,Não se aplica,20
+5548,Não se aplica,19
+5549,Não se aplica,33
+5550,Não se aplica,19
+5551,Não se aplica,19
+5552,Não se aplica,2
+5553,Não se aplica,19
+5554,Não se aplica,19
+5555,Não se aplica,20
+5556,Não se aplica,20
+5557,Não se aplica,19
+5558,Não se aplica,19
+5559,Não se aplica,2
+5560,Não se aplica,33
+5561,Não se aplica,19
+5562,Não se aplica,1
+5563,Não se aplica,15
+5564,Não se aplica,26
+5565,Não se aplica,17
+5566,Não se aplica,23
+5567,Não se aplica,1
+5568,Não se aplica,17
+5569,Não se aplica,1
+5570,Não se aplica,20
+5571,Não se aplica,20
+5572,Não se aplica,20
+5573,Não se aplica,16
+5574,Não se aplica,2
+5575,Não se aplica,20
+5576,Não se aplica,2
+5577,Não se aplica,20
+5578,Não se aplica,20
+5579,Não se aplica,20
+5580,Não se aplica,20
+5581,Não se aplica,23
+5582,Não se aplica,19
+5583,Não se aplica,20
+5584,Não se aplica,2
+5585,Não se aplica,2
+5586,Não se aplica,19
+5587,Não se aplica,16
+5588,Não se aplica,3
+5589,Não se aplica,16
+5590,Não se aplica,23
+5591,Não se aplica,9
+5592,Não se aplica,1
+5593,Não se aplica,2
+5594,Não se aplica,20
+5595,Não se aplica,19
+5596,Não se aplica,10
+5597,Não se aplica,33
+5598,Não se aplica,24
+5599,Não se aplica,2
+5600,Não se aplica,19
+5601,Não se aplica,16
+5602,Não se aplica,24
+5603,Não se aplica,33
+5604,Não se aplica,1
+5605,Não se aplica,8
+5606,Não se aplica,16
+5607,Não se aplica,11
+5608,Não se aplica,19
+5609,Não se aplica,19
+5610,Não se aplica,19
+5611,Não se aplica,20
+5612,Não se aplica,16
+5613,Não se aplica,1
+5614,Não se aplica,18
+5615,Não se aplica,3
+5616,Não se aplica,19
+5617,Não se aplica,19
+5618,Não se aplica,7
+5619,Não se aplica,19
+5620,Não se aplica,3
+5621,Não se aplica,16
+5622,Não se aplica,17
+5623,Não se aplica,1
+5624,Não se aplica,8
+5625,Não se aplica,19
+5626,Não se aplica,1
+5627,Não se aplica,23
+5628,Não se aplica,1
+5629,Não se aplica,2
+5630,Não se aplica,20
+5631,Não se aplica,3
+5632,Não se aplica,19
+5633,Não se aplica,33
+5634,Não se aplica,10
+5635,Não se aplica,33
+5636,Não se aplica,19
+5637,Não se aplica,24
+5638,Não se aplica,3
+5639,Não se aplica,1
+5640,Não se aplica,16
+5641,Não se aplica,19
+5642,Não se aplica,3
+5643,Não se aplica,2
+5644,Não se aplica,20
+5645,Não se aplica,19
+5646,Não se aplica,19
+5647,Não se aplica,3
+5648,Não se aplica,9
+5649,Não se aplica,1
+5650,Não se aplica,19
+5651,Não se aplica,16
+5652,Não se aplica,20
+5653,Não se aplica,16
+5654,Não se aplica,33
+5655,Não se aplica,3
+5656,Não se aplica,20
+5657,Não se aplica,1
+5658,Não se aplica,3
+5659,Não se aplica,1
+5660,Não se aplica,19
+5661,Não se aplica,20
+5662,Não se aplica,20
+5663,Não se aplica,20
+5664,Não se aplica,16
+5665,Não se aplica,2
+5666,Não se aplica,3
+5667,Não se aplica,3
+5668,Não se aplica,3
+5669,Não se aplica,2
+5670,Não se aplica,19
+5671,Não se aplica,20
+5672,Não se aplica,23
+5673,Não se aplica,2
+5674,Não se aplica,19
+5675,Não se aplica,19
+5676,Não se aplica,33
+5677,Não se aplica,19
+5678,Não se aplica,3
+5679,Não se aplica,23
+5680,Não se aplica,3
+5681,Não se aplica,1
+5682,Não se aplica,2
+5683,Não se aplica,24
+5684,Não se aplica,3
+5685,Não se aplica,23
+5686,Não se aplica,19
+5687,Não se aplica,3
+5688,Não se aplica,3
+5689,Não se aplica,19
+5690,Não se aplica,18
+5691,Não se aplica,19
+5692,Não se aplica,18
+5693,Não se aplica,20
+5694,Não se aplica,1
+5695,Não se aplica,7
+5696,Não se aplica,19
+5697,Não se aplica,1
+5698,Não se aplica,3
+5699,Não se aplica,1
+5700,Não se aplica,19
+5701,Não se aplica,33
+5702,Não se aplica,1
+5703,Não se aplica,16
+5704,Não se aplica,18
+5705,Não se aplica,24
+5706,Não se aplica,2
+5707,Não se aplica,17
+5708,Não se aplica,20
+5709,Não se aplica,16
+5710,Não se aplica,19
+5711,Não se aplica,2
+5712,Não se aplica,20
+5713,Não se aplica,19
+5714,Não se aplica,20
+5715,Não se aplica,20
+5716,Não se aplica,2
+5717,Não se aplica,3
+5718,Não se aplica,8
+5719,Não se aplica,8
+5720,Não se aplica,24
+5721,Não se aplica,16
+5722,Não se aplica,16
+5723,Não se aplica,16
+5724,Não se aplica,16
+5725,Não se aplica,16
+5726,Não se aplica,3
+5727,Não se aplica,2
+5728,Não se aplica,19
+5729,Não se aplica,2
+5730,Não se aplica,20
+5731,Não se aplica,1
+5732,Não se aplica,13
+5733,Não se aplica,1
+5734,Não se aplica,2
+5735,Não se aplica,8
+5736,Não se aplica,1
+5737,Não se aplica,19
+5738,Não se aplica,7
+5739,Não se aplica,2
+5740,Não se aplica,1
+5741,Não se aplica,3
+5742,Não se aplica,13
+5743,Não se aplica,1
+5744,Não se aplica,19
+5745,Não se aplica,3
+5746,Não se aplica,19
+5747,Não se aplica,19
+5748,Não se aplica,20
+5749,Não se aplica,7
+5750,Não se aplica,2
+5751,Não se aplica,16
+5752,Não se aplica,3
+5753,Não se aplica,3
+5754,Não se aplica,18
+5755,Não se aplica,1
+5756,Não se aplica,19
+5757,Não se aplica,1
+5758,Não se aplica,23
+5759,Não se aplica,18
+5760,Não se aplica,19
+5761,Não se aplica,2
+5762,Não se aplica,20
+5763,Não se aplica,2
+5764,Não se aplica,3
+5765,Não se aplica,23
+5766,Não se aplica,19
+5767,Não se aplica,16
+5768,Não se aplica,20
+5769,Não se aplica,20
+5770,Não se aplica,20
+5771,Não se aplica,7
+5772,Não se aplica,1
+5773,Não se aplica,1
+5774,Não se aplica,2
+5775,Não se aplica,2
+5776,Não se aplica,19
+5777,Não se aplica,10
+5778,Não se aplica,3
+5779,Não se aplica,13
+5780,Não se aplica,3
+5781,Não se aplica,16
+5782,Não se aplica,1
+5783,Não se aplica,2
+5784,Não se aplica,1
+5785,Não se aplica,10
+5786,Não se aplica,33
+5787,Não se aplica,33
+5788,Não se aplica,3
+5789,Não se aplica,17
+5790,Não se aplica,16
+5791,Não se aplica,17
+5792,Não se aplica,20
+5793,Não se aplica,2
+5794,Não se aplica,19
+5795,Não se aplica,19
+5796,Não se aplica,33
+5797,Não se aplica,3
+5798,Não se aplica,8
+5799,Não se aplica,1
+5800,Não se aplica,8
+5801,Não se aplica,3
+5802,Não se aplica,20
+5803,Não se aplica,2
+5804,Não se aplica,8
+5805,Não se aplica,16
+5806,Não se aplica,18
+5807,Não se aplica,20
+5808,Não se aplica,23
+5809,Não se aplica,3
+5810,Não se aplica,8
+5811,Não se aplica,19
+5812,Não se aplica,19
+5813,Não se aplica,13
+5814,Não se aplica,1
+5815,Não se aplica,19
+5816,Não se aplica,24
+5817,Não se aplica,4
+5818,Não se aplica,4
+5819,Não se aplica,2
+5820,Não se aplica,18
+5821,Não se aplica,24
+5822,Não se aplica,19
+5823,Não se aplica,19
+5824,Não se aplica,2
+5825,Não se aplica,20
+5826,Não se aplica,3
+5827,Não se aplica,3
+5828,Não se aplica,3
+5829,Não se aplica,2
+5830,Não se aplica,3
+5831,Não se aplica,19
+5832,Não se aplica,2
+5833,Não se aplica,2
+5834,Não se aplica,1
+5835,Não se aplica,23
+5836,Não se aplica,24
+5837,Não se aplica,17
+5838,Não se aplica,20
+5839,Não se aplica,24
+5840,Não se aplica,2
+5841,Não se aplica,18
+5842,Não se aplica,20
+5843,Não se aplica,7
+5844,Não se aplica,1
+5845,Não se aplica,1
+5846,Não se aplica,2
+5847,Não se aplica,3
+5848,Não se aplica,19
+5849,Não se aplica,19
+5850,Não se aplica,33
+5851,Não se aplica,19
+5852,Não se aplica,16
+5853,Não se aplica,20
+5854,Não se aplica,16
+5855,Não se aplica,17
+5856,Não se aplica,1
+5857,Não se aplica,19
+5858,Não se aplica,2
+5859,Não se aplica,19
+5860,Não se aplica,20
+5861,Não se aplica,20
+5862,Não se aplica,2
+5863,Não se aplica,3
+5864,Não se aplica,2
+5865,Não se aplica,2
+5866,Não se aplica,8
+5867,Não se aplica,20
+5868,Não se aplica,16
+5869,Não se aplica,13
+5870,Não se aplica,7
+5871,Não se aplica,16
+5872,Não se aplica,2
+5873,Não se aplica,2
+5874,Não se aplica,2
+5875,Não se aplica,1
+5876,Não se aplica,2
+5877,Não se aplica,20
+5878,Não se aplica,19
+5879,Não se aplica,3
+5880,Não se aplica,17
+5881,Não se aplica,24
+5882,Não se aplica,1
+5883,Não se aplica,2
+5884,Não se aplica,2
+5885,Não se aplica,1
+5886,Não se aplica,19
+5887,Não se aplica,19
+5888,Não se aplica,2
+5889,Não se aplica,19
+5890,Não se aplica,19
+5891,Não se aplica,2
+5892,Não se aplica,20
+5893,Não se aplica,10
+5894,Não se aplica,19
+5895,Não se aplica,2
+5896,Não se aplica,8
+5897,Não se aplica,20
+5898,Não se aplica,1
+5899,Não se aplica,3
+5900,Não se aplica,1
+5901,Não se aplica,33
+5902,Não se aplica,16
+5903,Não se aplica,2
+5904,Não se aplica,2
+5905,Não se aplica,19
+5906,Não se aplica,33
+5907,Não se aplica,2
+5908,Não se aplica,20
+5909,Não se aplica,18
+5910,Não se aplica,8
+5911,Não se aplica,20
+5912,Não se aplica,19
+5913,Não se aplica,2
+5914,Não se aplica,1
+5915,Não se aplica,19
+5916,Não se aplica,2
+5917,Não se aplica,7
+5918,Não se aplica,1
+5919,Não se aplica,20
+5920,Não se aplica,20
+5921,Não se aplica,19
+5922,Não se aplica,24
+5923,Não se aplica,1
+5924,Não se aplica,7
+5925,Não se aplica,19
+5926,Não se aplica,1
+5927,Não se aplica,3
+5928,Não se aplica,7
+5929,Não se aplica,16
+5930,Não se aplica,17
+5931,Não se aplica,18
+5932,Não se aplica,8
+5933,Não se aplica,19
+5934,Não se aplica,20
+5935,Não se aplica,20
+5936,Não se aplica,19
+5937,Não se aplica,3
+5938,Não se aplica,16
+5939,Não se aplica,33
+5940,Não se aplica,1
+5941,Não se aplica,7
+5942,Não se aplica,23
+5943,Não se aplica,19
+5944,Não se aplica,1
+5945,Não se aplica,13
+5946,Não se aplica,3
+5947,Não se aplica,20
+5948,Não se aplica,18
+5949,Não se aplica,16
+5950,Não se aplica,1
+5951,Não se aplica,17
+5952,Não se aplica,17
+5953,Não se aplica,19
+5954,Não se aplica,19
+5955,Não se aplica,1
+5956,Não se aplica,3
+5957,Não se aplica,16
+5958,Não se aplica,3
+5959,Não se aplica,2
+5960,Não se aplica,20
+5961,Não se aplica,2
+5962,Não se aplica,24
+5963,Não se aplica,19
+5964,Não se aplica,13
+5965,Não se aplica,13
+5966,Não se aplica,20
+5967,Não se aplica,2
+5968,Não se aplica,10
+5969,Não se aplica,16
+5970,Não se aplica,18
+5971,Não se aplica,3
+5972,Não se aplica,19
+5973,Não se aplica,19
+5974,Não se aplica,19
+5975,Não se aplica,1
+5976,Não se aplica,20
+5977,Não se aplica,10
+5978,Não se aplica,10
+5979,Não se aplica,19
+5980,Não se aplica,19
+5981,Não se aplica,2
+5982,Não se aplica,23
+5983,Não se aplica,17
+5984,Não se aplica,19
+5985,Não se aplica,18
+5986,Não se aplica,19
+5987,Não se aplica,1
+5988,Não se aplica,20
+5989,Não se aplica,20
+5990,Não se aplica,19
+5991,Não se aplica,19
+5992,Não se aplica,1
+5993,Não se aplica,20
+5994,Não se aplica,7
+5995,Não se aplica,33
+5996,Não se aplica,20
+5997,Não se aplica,20
+5998,Não se aplica,3
+5999,Não se aplica,2
+6000,Não se aplica,2
+6001,Não se aplica,10
+6002,Não se aplica,33
+6003,Não se aplica,16
+6004,Não se aplica,19
+6005,Não se aplica,1
+6006,Não se aplica,1
+6007,Não se aplica,16
+6008,Não se aplica,2
+6009,Não se aplica,3
+6010,Não se aplica,2
+6011,Não se aplica,19
+6012,Não se aplica,3
+6013,Não se aplica,19
+6014,Não se aplica,2
+6015,Não se aplica,1
+6016,Não se aplica,20
+6017,Não se aplica,17
+6018,Não se aplica,16
+6019,Não se aplica,1
+6020,Não se aplica,19
+6021,Não se aplica,1
+6022,Não se aplica,2
+6023,Não se aplica,2
+6024,Não se aplica,2
+6025,Não se aplica,1
+6026,Não se aplica,3
+6027,Não se aplica,19
+6028,Não se aplica,1
+6029,Não se aplica,20
+6030,Não se aplica,1
+6031,Não se aplica,23
+6032,Não se aplica,3
+6033,Não se aplica,19
+6034,Não se aplica,2
+6035,Não se aplica,18
+6036,Não se aplica,17
+6037,Não se aplica,19
+6038,Não se aplica,19
+6039,Não se aplica,2
+6040,Não se aplica,2
+6041,Não se aplica,16
+6042,Não se aplica,18
+6043,Não se aplica,19
+6044,Não se aplica,1
+6045,Não se aplica,23
+6046,Não se aplica,19
+6047,Não se aplica,16
+6048,Não se aplica,16
+6049,Não se aplica,19
+6050,Não se aplica,7
+6051,Não se aplica,19
+6052,Não se aplica,2
+6053,Não se aplica,19
+6054,Não se aplica,1
+6055,Não se aplica,2
+6056,Não se aplica,1
+6057,Não se aplica,2
+6058,Não se aplica,20
+6059,Não se aplica,33
+6060,Não se aplica,2
+6061,Não se aplica,2
+6062,Não se aplica,19
+6063,Não se aplica,16
+6064,Não se aplica,20
+6065,Não se aplica,19
+6066,Não se aplica,7
+6067,Não se aplica,19
+6068,Não se aplica,33
+6069,Não se aplica,19
+6070,Não se aplica,2
+6071,Não se aplica,7
+6072,Não se aplica,19
+6073,Não se aplica,16
+6074,Não se aplica,2
+6075,Não se aplica,13
+6076,Não se aplica,1
+6077,Não se aplica,1
+6078,Não se aplica,1
+6079,Não se aplica,10
+6080,Não se aplica,18
+6081,Não se aplica,33
+6082,Não se aplica,19
+6083,Não se aplica,19
+6084,Não se aplica,24
+6085,Não se aplica,11
+6086,Não se aplica,2
+6087,Não se aplica,13
+6088,Não se aplica,19
+6089,Não se aplica,18
+6090,Não se aplica,20
+6091,Não se aplica,2
+6092,Não se aplica,16
+6093,Não se aplica,2
+6094,Não se aplica,1
+6095,Não se aplica,19
+6096,Não se aplica,4
+6097,Não se aplica,2
+6098,Não se aplica,23
+6099,Não se aplica,1
+6100,Não se aplica,20
+6101,Não se aplica,19
+6102,Não se aplica,2
+6103,Não se aplica,19
+6104,Não se aplica,2
+6105,Não se aplica,19
+6106,Não se aplica,1
+6107,Não se aplica,1
+6108,Não se aplica,2
+6109,Não se aplica,3
+6110,Não se aplica,1
+6111,Não se aplica,3
+6112,Não se aplica,16
+6113,Não se aplica,23
+6114,Não se aplica,2
+6115,Não se aplica,19
+6116,Não se aplica,3
+6117,Não se aplica,17
+6118,Não se aplica,20
+6119,Não se aplica,2
+6120,Não se aplica,19
+6121,Não se aplica,19
+6122,Não se aplica,1
+6123,Não se aplica,16
+6124,Não se aplica,19
+6125,Não se aplica,2
+6126,Não se aplica,19
+6127,Não se aplica,33
+6128,Não se aplica,1
+6129,Não se aplica,20
+6130,Não se aplica,23
+6131,Não se aplica,1
+6132,Não se aplica,18
+6133,Não se aplica,2
+6134,Não se aplica,23
+6135,Não se aplica,8
+6136,Não se aplica,2
+6137,Não se aplica,19
+6138,Não se aplica,19
+6139,Não se aplica,33
+6140,Não se aplica,19
+6141,Não se aplica,3
+6142,Não se aplica,16
+6143,Não se aplica,2
+6144,Não se aplica,1
+6145,Não se aplica,7
+6146,Não se aplica,19
+6147,Não se aplica,2
+6148,Não se aplica,23
+6149,Não se aplica,2
+6150,Não se aplica,20
+6151,Não se aplica,3
+6152,Não se aplica,19
+6153,Não se aplica,2
+6154,Não se aplica,1
+6155,Não se aplica,20
+6156,Não se aplica,16
+6157,Não se aplica,16
+6158,Não se aplica,13
+6159,Não se aplica,20
+6160,Não se aplica,3
+6161,Não se aplica,2
+6162,Não se aplica,24
+6163,Não se aplica,13
+6164,Não se aplica,16
+6165,Não se aplica,2
+6166,Não se aplica,2
+6167,Não se aplica,2
+6168,Não se aplica,16
+6169,Não se aplica,23
+6170,Não se aplica,19
+6171,Não se aplica,19
+6172,Não se aplica,16
+6173,Não se aplica,19
+6174,Não se aplica,19
+6175,Não se aplica,20
+6176,Não se aplica,23
+6177,Não se aplica,16
+6178,Não se aplica,23
+6179,Não se aplica,23
+6180,Não se aplica,2
+6181,Não se aplica,16
+6182,Não se aplica,1
+6183,Não se aplica,7
+6184,Não se aplica,18
+6185,Não se aplica,1
+6186,Não se aplica,19
+6187,Não se aplica,20
+6188,Não se aplica,2
+6189,Não se aplica,19
+6190,Não se aplica,20
+6191,Não se aplica,2
+6192,Não se aplica,16
+6193,Não se aplica,20
+6194,Não se aplica,17
+6195,Não se aplica,20
+6196,Não se aplica,20
+6197,Não se aplica,2
+6198,Não se aplica,16
+6199,Não se aplica,3
+6200,Não se aplica,3
+6201,Não se aplica,24
+6202,Não se aplica,3
+6203,Não se aplica,19
+6204,Não se aplica,20
+6205,Não se aplica,2
+6206,Não se aplica,8
+6207,Não se aplica,18
+6208,Não se aplica,7
+6209,Não se aplica,19
+6210,Não se aplica,1
+6211,Não se aplica,23
+6212,Não se aplica,18
+6213,Não se aplica,2
+6214,Não se aplica,19
+6215,Não se aplica,20
+6216,Não se aplica,19
+6217,Não se aplica,19
+6218,Não se aplica,17
+6219,Não se aplica,17
+6220,Não se aplica,2
+6221,Não se aplica,19
+6222,Não se aplica,19
+6223,Não se aplica,16
+6224,Não se aplica,20
+6225,Não se aplica,20
+6226,Não se aplica,1
+6227,Não se aplica,20
+6228,Não se aplica,8
+6229,Não se aplica,8
+6230,Não se aplica,8
+6231,Não se aplica,3
+6232,Não se aplica,8
+6233,Não se aplica,2
+6234,Não se aplica,20
+6235,Não se aplica,24
+6236,Não se aplica,1
+6237,Não se aplica,24
+6238,Não se aplica,19
+6239,Não se aplica,20
+6240,Não se aplica,1
+6241,Não se aplica,20
+6242,Não se aplica,2
+6243,Não se aplica,20
+6244,Não se aplica,16
+6245,Não se aplica,3
+6246,Não se aplica,16
+6247,Não se aplica,17
+6248,Não se aplica,20
+6249,Não se aplica,18
+6250,Não se aplica,33
+6251,Não se aplica,1
+6252,Não se aplica,2
+6253,Não se aplica,20
+6254,Não se aplica,20
+6255,Não se aplica,19
+6256,Não se aplica,16
+6257,Não se aplica,1
+6258,Não se aplica,20
+6259,Não se aplica,19
+6260,Não se aplica,19
+6261,Não se aplica,20
+6262,Não se aplica,2
+6263,Não se aplica,3
+6264,Não se aplica,20
+6265,Não se aplica,24
+6266,Não se aplica,8
+6267,Não se aplica,19
+6268,Não se aplica,2
+6269,Não se aplica,19
+6270,Não se aplica,24
+6271,Não se aplica,19
+6272,Não se aplica,23
+6273,Não se aplica,7
+6274,Não se aplica,1
+6275,Não se aplica,23
+6276,Não se aplica,2
+6277,Não se aplica,19
+6278,Não se aplica,19
+6279,Não se aplica,1
+6280,Não se aplica,17
+6281,Não se aplica,24
+6282,Não se aplica,18
+6283,Não se aplica,19
+6284,Não se aplica,2
+6285,Não se aplica,3
+6286,Não se aplica,16
+6287,Não se aplica,16
+6288,Não se aplica,1
+6289,Não se aplica,3
+6290,Não se aplica,17
+6291,Não se aplica,20
+6292,Não se aplica,8
+6293,Não se aplica,3
+6294,Não se aplica,2
+6295,Não se aplica,23
+6296,Não se aplica,16
+6297,Não se aplica,2
+6298,Não se aplica,2
+6299,Não se aplica,2
+6300,Não se aplica,10
+6301,Não se aplica,3
+6302,Não se aplica,33
+6303,Não se aplica,16
+6304,Não se aplica,1
+6305,Não se aplica,3
+6306,Não se aplica,19
+6307,Não se aplica,19
+6308,Não se aplica,13
+6309,Não se aplica,3
+6310,Não se aplica,19
+6311,Não se aplica,33
+6312,Não se aplica,1
+6313,Não se aplica,1
+6314,Não se aplica,23
+6315,Não se aplica,2
+6316,Não se aplica,1
+6317,Não se aplica,20
+6318,Não se aplica,20
+6319,Não se aplica,2
+6320,Não se aplica,3
+6321,Não se aplica,2
+6322,Não se aplica,20
+6323,Não se aplica,16
+6324,Não se aplica,3
+6325,Não se aplica,2
+6326,Não se aplica,24
+6327,Não se aplica,16
+6328,Não se aplica,18
+6329,Não se aplica,13
+6330,Não se aplica,20
+6331,Não se aplica,3
+6332,Não se aplica,19
+6333,Não se aplica,20
+6334,Não se aplica,19
+6335,Não se aplica,1
+6336,Não se aplica,10
+6337,Não se aplica,1
+6338,Não se aplica,33
+6339,Não se aplica,19
+6340,Não se aplica,3
+6341,Não se aplica,18
+6342,Não se aplica,19
+6343,Não se aplica,2
+6344,Não se aplica,1
+6345,Não se aplica,19
+6346,Não se aplica,1
+6347,Não se aplica,19
+6348,Não se aplica,1
+6349,Não se aplica,23
+6350,Não se aplica,2
+6351,Não se aplica,1
+6352,Não se aplica,2
+6353,Não se aplica,2
+6354,Não se aplica,7
+6355,Não se aplica,2
+6356,Não se aplica,20
+6357,Não se aplica,2
+6358,Não se aplica,1
+6359,Não se aplica,13
+6360,Não se aplica,3
+6361,Não se aplica,1
+6362,Não se aplica,18
+6363,Não se aplica,1
+6364,Não se aplica,20
+6365,Não se aplica,19
+6366,Não se aplica,3
+6367,Não se aplica,16
+6368,Não se aplica,18
+6369,Não se aplica,33
+6370,Não se aplica,20
+6371,Não se aplica,2
+6372,Não se aplica,16
+6373,Não se aplica,13
+6374,Não se aplica,33
+6375,Não se aplica,33
+6376,Não se aplica,20
+6377,Não se aplica,19
+6378,Não se aplica,3
+6379,Não se aplica,19
+6380,Não se aplica,19
+6381,Não se aplica,20
+6382,Não se aplica,1
+6383,Não se aplica,16
+6384,Não se aplica,2
+6385,Não se aplica,19
+6386,Não se aplica,16
+6387,Não se aplica,7
+6388,Não se aplica,2
+6389,Não se aplica,19
+6390,Não se aplica,3
+6391,Não se aplica,19
+6392,Não se aplica,20
+6393,Não se aplica,1
+6394,Não se aplica,26
+6395,Não se aplica,20
+6396,Não se aplica,3
+6397,Não se aplica,1
+6398,Não se aplica,1
+6399,Não se aplica,18
+6400,Não se aplica,20
+6401,Não se aplica,23
+6402,Não se aplica,19
+6403,Não se aplica,2
+6404,Não se aplica,3
+6405,Não se aplica,1
+6406,Não se aplica,3
+6407,Não se aplica,2
+6408,Não se aplica,16
+6409,Não se aplica,1
+6410,Não se aplica,17
+6411,Não se aplica,16
+6412,Não se aplica,3
+6413,Não se aplica,7
+6414,Não se aplica,16
+6415,Não se aplica,19
+6416,Não se aplica,20
+6417,Não se aplica,20
+6418,Não se aplica,8
+6419,Não se aplica,19
+6420,Não se aplica,16
+6421,Não se aplica,3
+6422,Não se aplica,3
+6423,Não se aplica,24
+6424,Não se aplica,16
+6425,Não se aplica,2
+6426,Não se aplica,1
+6427,Não se aplica,2
+6428,Não se aplica,1
+6429,Não se aplica,1
+6430,Não se aplica,19
+6431,Não se aplica,19
+6432,Não se aplica,7
+6433,Não se aplica,1
+6434,Não se aplica,18
+6435,Não se aplica,19
+6436,Não se aplica,3
+6437,Não se aplica,19
+6438,Não se aplica,19
+6439,Não se aplica,1
+6440,Não se aplica,33
+6441,Não se aplica,23
+6442,Não se aplica,20
+6443,Não se aplica,16
+6444,Não se aplica,1
+6445,Não se aplica,33
+6446,Não se aplica,3
+6447,Não se aplica,2
+6448,Não se aplica,16
+6449,Não se aplica,2
+6450,Não se aplica,19
+6451,Não se aplica,17
+6452,Não se aplica,7
+6453,Não se aplica,20
+6454,Não se aplica,16
+6455,Não se aplica,20
+6456,Não se aplica,1
+6457,Não se aplica,20
+6458,Não se aplica,20
+6459,Não se aplica,3
+6460,Não se aplica,20
+6461,Não se aplica,10
+6462,Não se aplica,1
+6463,Não se aplica,33
+6464,Não se aplica,16
+6465,Não se aplica,20
+6466,Não se aplica,20
+6467,Não se aplica,33
+6468,Não se aplica,20
+6469,Não se aplica,1
+6470,Não se aplica,2
+6471,Não se aplica,16
+6472,Não se aplica,8
+6473,Não se aplica,8
+6474,Não se aplica,17
+6475,Não se aplica,8
+6476,Não se aplica,1
+6477,Não se aplica,13
+6478,Não se aplica,20
+6479,Não se aplica,19
+6480,Não se aplica,2
+6481,Não se aplica,1
+6482,Não se aplica,16
+6483,Não se aplica,11
+6484,Não se aplica,2
+6485,Não se aplica,16
+6486,Não se aplica,1
+6487,Não se aplica,19
+6488,Não se aplica,19
+6489,Não se aplica,16
+6490,Não se aplica,13
+6491,Não se aplica,3
+6492,Não se aplica,16
+6493,Não se aplica,20
+6494,Não se aplica,16
+6495,Não se aplica,3
+6496,Não se aplica,2
+6497,Não se aplica,3
+6498,Não se aplica,2
+6499,Não se aplica,19
+6500,Não se aplica,2
+6501,Não se aplica,19
+6502,Não se aplica,18
+6503,Não se aplica,23
+6504,Não se aplica,20
+6505,Não se aplica,7
+6506,Não se aplica,3
+6507,Não se aplica,3
+6508,Não se aplica,1
+6509,Não se aplica,3
+6510,Não se aplica,19
+6511,Não se aplica,7
+6512,Não se aplica,16
+6513,Não se aplica,23
+6514,Não se aplica,20
+6515,Não se aplica,18
+6516,Não se aplica,19
+6517,Não se aplica,2
+6518,Não se aplica,20
+6519,Não se aplica,19
+6520,Não se aplica,20
+6521,Não se aplica,16
+6522,Não se aplica,19
+6523,Não se aplica,20
+6524,Não se aplica,1
+6525,Não se aplica,2
+6526,Não se aplica,1
+6527,Não se aplica,3
+6528,Não se aplica,3
+6529,Não se aplica,16
+6530,Não se aplica,13
+6531,Não se aplica,20
+6532,Não se aplica,19
+6533,Não se aplica,18
+6534,Não se aplica,3
+6535,Não se aplica,18
+6536,Não se aplica,18
+6537,Não se aplica,3
+6538,Não se aplica,3
+6539,Não se aplica,19
+6540,Não se aplica,8
+6541,Não se aplica,24
+6542,Não se aplica,1
+6543,Não se aplica,20
+6544,Não se aplica,16
+6545,Não se aplica,1
+6546,Não se aplica,2
+6547,Não se aplica,1
+6548,Não se aplica,23
+6549,Não se aplica,16
+6550,Não se aplica,2
+6551,Não se aplica,23
+6552,Não se aplica,7
+6553,Não se aplica,10
+6554,Não se aplica,19
+6555,Não se aplica,3
+6556,Não se aplica,18
+6557,Não se aplica,16
+6558,Não se aplica,2
+6559,Não se aplica,18
+6560,Não se aplica,2
+6561,Não se aplica,2
+6562,Não se aplica,1
+6563,Não se aplica,3
+6564,Não se aplica,1
+6565,Não se aplica,18
+6566,Não se aplica,20
+6567,Não se aplica,2
+6568,Não se aplica,18
+6569,Não se aplica,20
+6570,Não se aplica,20
+6571,Não se aplica,19
+6572,Não se aplica,20
+6573,Não se aplica,19
+6574,Não se aplica,16
+6575,Não se aplica,33
+6576,Não se aplica,23
+6577,Não se aplica,23
+6578,Não se aplica,1
+6579,Não se aplica,10
+6580,Não se aplica,2
+6581,Não se aplica,2
+6582,Não se aplica,2
+6583,Não se aplica,2
+6584,Não se aplica,2
+6585,Não se aplica,8
+6586,Não se aplica,2
+6587,Não se aplica,17
+6588,Não se aplica,2
+6589,Não se aplica,20
+6590,Não se aplica,19
+6591,Não se aplica,33
+6592,Não se aplica,33
+6593,Não se aplica,33
+6594,Não se aplica,17
+6595,Não se aplica,17
+6596,Não se aplica,17
+6597,Não se aplica,17
+6598,Não se aplica,17
+6599,Não se aplica,17
+6600,Não se aplica,18
+6601,Não se aplica,33
+6602,Não se aplica,33
+6603,Não se aplica,33
+6604,Não se aplica,33
+6605,Não se aplica,33
+6606,Não se aplica,17
+6607,Não se aplica,16
+6608,Não se aplica,14
+6609,Não se aplica,18
+6610,Não se aplica,18
+6611,Não se aplica,18
+6612,Não se aplica,18
+6613,Não se aplica,16
+6614,Não se aplica,16
+6615,Não se aplica,16
+6616,Não se aplica,16
+6617,Não se aplica,18
+6618,Não se aplica,19
+6619,Não se aplica,19
+6620,Não se aplica,19
+6621,Não se aplica,19
+6622,Não se aplica,19
+6623,Não se aplica,19
+6624,Não se aplica,19
+6625,Não se aplica,24
+6626,Não se aplica,19
+6627,Não se aplica,19
+6628,Não se aplica,19
+6629,Não se aplica,19
+6630,Não se aplica,19
+6631,Não se aplica,19
+6632,Não se aplica,19
+6633,Não se aplica,17
+6634,Não se aplica,19
+6635,Não se aplica,19
+6636,Não se aplica,19
+6637,Não se aplica,17
+6638,Não se aplica,3
+6639,Não se aplica,1
+6640,Não se aplica,1
+6641,Não se aplica,1
+6642,Não se aplica,1
+6643,Não se aplica,1
+6644,Não se aplica,2
+6645,Não se aplica,1
+6646,Não se aplica,1
+6647,Não se aplica,2
+6648,Não se aplica,23
+6649,Não se aplica,23
+6650,Não se aplica,23
+6651,Não se aplica,3
+6652,Não se aplica,3
+6653,Não se aplica,3
+6654,Não se aplica,3
+6655,Não se aplica,3
+6656,Não se aplica,3
+6657,Não se aplica,2
+6658,Não se aplica,2
+6659,Não se aplica,3
+6660,Não se aplica,3
+6661,Não se aplica,3
+6662,Não se aplica,7
+6663,Não se aplica,7
+6664,Não se aplica,7
+6665,Não se aplica,1
+6666,Não se aplica,19
+6667,Não se aplica,19
+6668,Não se aplica,19
+6669,Não se aplica,19
+6670,Não se aplica,19
+6671,Não se aplica,19
+6672,Não se aplica,19
+6673,Não se aplica,19
+6674,Não se aplica,19
+6675,Não se aplica,19
+6676,Não se aplica,19
+6677,Não se aplica,19
+6678,Não se aplica,19
+6679,Não se aplica,19
+6680,Não se aplica,19
+6681,Não se aplica,20
+6682,Não se aplica,20
+6683,Não se aplica,20
+6684,Não se aplica,20
+6685,Não se aplica,20
+6686,Não se aplica,20
+6687,Não se aplica,20
+6688,Não se aplica,20
+6689,Não se aplica,20
+6690,Não se aplica,20
+6691,Não se aplica,20
+6692,Não se aplica,20
+6693,Não se aplica,8
+6694,Não se aplica,8
+6695,Não se aplica,8
+6696,Não se aplica,8
+6697,Não se aplica,8
+6698,Não se aplica,8
+6699,Não se aplica,8
+6700,Não se aplica,8
+6701,Não se aplica,20
+6702,Não se aplica,2
+6703,Não se aplica,2
+6704,Não se aplica,2
+6705,Não se aplica,2
+6706,Não se aplica,2
+6707,Não se aplica,2
+6708,Não se aplica,2
+6709,Não se aplica,2
+6710,Não se aplica,2
+6711,Não se aplica,2
+6712,Não se aplica,2
+6713,Não se aplica,2
+6714,Não se aplica,2
+6715,Não se aplica,2
+6716,Não se aplica,2
+6717,Não se aplica,2
+6718,Não se aplica,2
+6719,Não se aplica,2
+6720,Não se aplica,2
+6721,Não se aplica,2
+6722,Não se aplica,2
+6723,Não se aplica,2
+6724,Não se aplica,2
+6725,Não se aplica,2
+6726,Não se aplica,2
+6727,Não se aplica,2
+6728,Não se aplica,2
+6729,Não se aplica,2
+6730,Não se aplica,2
+6731,Não se aplica,2
+6732,Não se aplica,2
+6733,Não se aplica,2
+6734,Não se aplica,2
+6735,Não se aplica,2
+6736,Não se aplica,2
+6737,Não se aplica,2
+6738,Não se aplica,2
+6739,Não se aplica,2
+6740,Não se aplica,2
+6741,Não se aplica,2
+6742,Não se aplica,2
+6743,Não se aplica,2
+6744,Não se aplica,2
+6745,Não se aplica,2
+6746,Não se aplica,2
+6747,Não se aplica,2
+6748,Não se aplica,2
+6749,Não se aplica,2
+6750,Não se aplica,2
+6751,Não se aplica,2
+6752,Não se aplica,2
+6753,Não se aplica,2
+6754,Não se aplica,2
+6755,Não se aplica,2
+6756,Não se aplica,2
+6757,Não se aplica,2
+6758,Não se aplica,2
+6759,Não se aplica,2
+6760,Não se aplica,2
+6761,Não se aplica,2
+6762,Não se aplica,2
+6763,Não se aplica,2
+6764,Não se aplica,2
+6765,Não se aplica,2
+6766,Não se aplica,2
+6767,Não se aplica,2
+6768,Não se aplica,2
+6769,Não se aplica,2
+6770,Não se aplica,2
+6771,Não se aplica,2
+6772,Não se aplica,2
+6773,Não se aplica,2
+6774,Não se aplica,2
+6775,Não se aplica,2
+6776,Não se aplica,2
+6777,Não se aplica,2
+6778,Não se aplica,2
+6779,Não se aplica,2
+6780,Não se aplica,2
+6781,Não se aplica,2
+6782,Não se aplica,2
+6783,Não se aplica,2
+6784,Não se aplica,2
+6785,Não se aplica,2
+6786,Não se aplica,2
+6787,Não se aplica,2
+6788,Não se aplica,2
+6789,Não se aplica,2
+6790,Não se aplica,2
+6791,Não se aplica,2
+6792,Não se aplica,2
+6793,Não se aplica,2
+6794,Não se aplica,2
+6795,Não se aplica,18
+6796,Não se aplica,18
+6797,Não se aplica,16
+6798,Não se aplica,16
+6799,Não se aplica,16
+6800,Não se aplica,16
+6801,Não se aplica,16
+6802,Não se aplica,20
+6803,Não se aplica,20
+6804,Não se aplica,17
+6805,Não se aplica,17
+6806,Não se aplica,17
+6807,Não se aplica,13
+6808,Não se aplica,13
+6809,Não se aplica,13
+6810,Não se aplica,13
+6811,Não se aplica,13
+6812,Não se aplica,13
+6813,Não se aplica,19
+6814,Não se aplica,19
+6815,Não se aplica,19
+6816,Não se aplica,19
+6817,Não se aplica,19
+6818,Não se aplica,19
+6819,Não se aplica,19
+6820,Não se aplica,19
+6821,Não se aplica,19
+6822,Não se aplica,19
+6823,Não se aplica,19
+6824,Não se aplica,19
+6825,Não se aplica,19
+6826,Não se aplica,19
+6827,Não se aplica,8
+6828,Não se aplica,8
+6829,Não se aplica,18
+6830,Não se aplica,18
+6831,Não se aplica,18
+6832,Não se aplica,18
+6833,Não se aplica,18
+6834,Não se aplica,18
+6835,Não se aplica,18
+6836,Não se aplica,18
+6837,Não se aplica,18
+6838,Não se aplica,18
+6839,Não se aplica,18
+6840,Não se aplica,18
+6841,Não se aplica,18
+6842,Não se aplica,18
+6843,Não se aplica,18
+6844,Não se aplica,18
+6845,Não se aplica,18
+6846,Não se aplica,13
+6847,Não se aplica,13
+6848,Não se aplica,13
+6849,Não se aplica,13
+6850,Não se aplica,13
+6851,Não se aplica,13
+6852,Não se aplica,13
+6853,Não se aplica,13
+6854,Não se aplica,13
+6855,Não se aplica,13
+6856,Não se aplica,13
+6857,Não se aplica,13
+6858,Não se aplica,13
+6859,Não se aplica,16
+6860,Não se aplica,16
+6861,Não se aplica,16
+6862,Não se aplica,16
+6863,Não se aplica,16
+6864,Não se aplica,16
+6865,Não se aplica,16
+6866,Não se aplica,16
+6867,Não se aplica,16
+6868,Não se aplica,16
+6869,Não se aplica,16
+6870,Não se aplica,16
+6871,Não se aplica,16
+6872,Não se aplica,16
+6873,Não se aplica,16
+6874,Não se aplica,16
+6875,Não se aplica,16
+6876,Não se aplica,16
+6877,Não se aplica,16
+6878,Não se aplica,16
+6879,Não se aplica,16
+6880,Não se aplica,16
+6881,Não se aplica,16
+6882,Não se aplica,16
+6883,Não se aplica,16
+6884,Não se aplica,16
+6885,Não se aplica,16
+6886,Não se aplica,16
+6887,Não se aplica,16
+6888,Não se aplica,16
+6889,Não se aplica,16
+6890,Não se aplica,16
+6891,Não se aplica,16
+6892,Não se aplica,16
+6893,Não se aplica,16
+6894,Não se aplica,16
+6895,Não se aplica,16
+6896,Não se aplica,16
+6897,Não se aplica,16
+6898,Não se aplica,16
+6899,Não se aplica,16
+6900,Não se aplica,16
+6901,Não se aplica,16
+6902,Não se aplica,18
+6903,Não se aplica,18
+6904,Não se aplica,18
+6905,Não se aplica,18
+6906,Não se aplica,18
+6907,Não se aplica,18
+6908,Não se aplica,18
+6909,Não se aplica,18
+6910,Não se aplica,18
+6911,Não se aplica,18
+6912,Não se aplica,18
+6913,Não se aplica,18
+6914,Não se aplica,18
+6915,Não se aplica,18
+6916,Não se aplica,18
+6917,Não se aplica,18
+6918,Não se aplica,18
+6919,Não se aplica,17
+6920,Não se aplica,13
+6921,Não se aplica,13
+6922,Não se aplica,13
+6923,Não se aplica,13
+6924,Não se aplica,13
+6925,Não se aplica,13
+6926,Não se aplica,13
+6927,Não se aplica,13
+6928,Não se aplica,13
+6929,Não se aplica,13
+6930,Não se aplica,13
+6931,Não se aplica,13
+6932,Não se aplica,13
+6933,Não se aplica,13
+6934,Não se aplica,13
+6935,Não se aplica,13
+6936,Não se aplica,13
+6937,Não se aplica,13
+6938,Não se aplica,13
+6939,Não se aplica,13
+6940,Não se aplica,13
+6941,Não se aplica,13
+6942,Não se aplica,13
+6943,Não se aplica,13
+6944,Não se aplica,13
+6945,Não se aplica,13
+6946,Não se aplica,13
+6947,Não se aplica,13
+6948,Não se aplica,13
+6949,Não se aplica,13
+6950,Não se aplica,13
+6951,Não se aplica,13
+6952,Não se aplica,13
+6953,Não se aplica,13
+6954,Não se aplica,13
+6955,Não se aplica,13
+6956,Não se aplica,13
+6957,Não se aplica,13
+6958,Não se aplica,13
+6959,Não se aplica,13
+6960,Não se aplica,9
+6961,Não se aplica,9
+6962,Não se aplica,9
+6963,Não se aplica,9
+6964,Não se aplica,9
+6965,Não se aplica,9
+6966,Não se aplica,9
+6967,Não se aplica,9
+6968,Não se aplica,9
+6969,Não se aplica,9
+6970,Não se aplica,9
+6971,Não se aplica,9
+6972,Não se aplica,10
+6973,Não se aplica,10
+6974,Não se aplica,10
+6975,Não se aplica,10
+6976,Não se aplica,10
+6977,Não se aplica,16
+6978,Não se aplica,16
+6979,Não se aplica,16
+6980,Não se aplica,16
+6981,Não se aplica,16
+6982,Não se aplica,16
+6983,Não se aplica,16
+6984,Não se aplica,27
+6985,Não se aplica,13
+6986,Não se aplica,10
+6987,Não se aplica,10
+6988,Não se aplica,10
+6989,Não se aplica,33
+6990,Não se aplica,33
+6991,Não se aplica,13
+6992,Não se aplica,13
+6993,Não se aplica,13
+6994,Não se aplica,16
+6995,Não se aplica,25
+6996,Não se aplica,25
+6997,Não se aplica,25
+6998,Não se aplica,17
+6999,Não se aplica,16
+7000,Não se aplica,16
+7001,Não se aplica,16
+7002,Não se aplica,16
+7003,Não se aplica,16
+7004,Não se aplica,16
+7005,Não se aplica,16
+7006,Não se aplica,13
+7007,Não se aplica,13
+7008,Não se aplica,13
+7009,Não se aplica,13
+7010,Não se aplica,13
+7011,Não se aplica,13
+7012,Não se aplica,13
+7013,Não se aplica,13
+7014,Não se aplica,13
+7015,Não se aplica,13
+7016,Não se aplica,13
+7017,Não se aplica,13
+7018,Não se aplica,13
+7019,Não se aplica,13
+7020,Não se aplica,13
+7021,Não se aplica,13
+7022,Não se aplica,13
+7023,Não se aplica,13
+7024,Não se aplica,13
+7025,Não se aplica,13
+7026,Não se aplica,13
+7027,Não se aplica,13
+7028,Não se aplica,13
+7029,Não se aplica,13
+7030,Não se aplica,13
+7031,Não se aplica,13
+7032,Não se aplica,13
+7033,Não se aplica,13
+7034,Não se aplica,13
+7035,Não se aplica,13
+7036,Não se aplica,13
+7037,Não se aplica,13
+7038,Não se aplica,13
+7039,Não se aplica,13
+7040,Não se aplica,13
+7041,Não se aplica,13
+7042,Não se aplica,13
+7043,Não se aplica,13
+7044,Não se aplica,13
+7045,Não se aplica,13
+7046,Não se aplica,13
+7047,Não se aplica,13
+7048,Não se aplica,13
+7049,Não se aplica,13
+7050,Não se aplica,13
+7051,Não se aplica,13
+7052,Não se aplica,13
+7053,Não se aplica,13
+7054,Não se aplica,13
+7055,Não se aplica,13
+7056,Não se aplica,13
+7057,Não se aplica,13
+7058,Não se aplica,13
+7059,Não se aplica,13
+7060,Não se aplica,13
+7061,Não se aplica,13
+7062,Não se aplica,13
+7063,Não se aplica,13
+7064,Não se aplica,13
+7065,Não se aplica,20
+7066,Não se aplica,13
+7067,Não se aplica,13
+7068,Não se aplica,13
+7069,Não se aplica,13
+7070,Não se aplica,13
+7071,Não se aplica,13
+7072,Não se aplica,13
+7073,Não se aplica,13
+7074,Não se aplica,13
+7075,Não se aplica,13
+7076,Não se aplica,4
+7077,Não se aplica,26
+7078,Não se aplica,17
+7079,Não se aplica,18
+7080,Não se aplica,18
+7081,Não se aplica,18
+7082,Não se aplica,18
+7083,Não se aplica,18
+7084,Não se aplica,18
+7085,Não se aplica,18
+7086,Não se aplica,18
+7087,Não se aplica,18
+7088,Não se aplica,18
+7089,Não se aplica,18
+7090,Não se aplica,18
+7091,Não se aplica,18
+7092,Não se aplica,18
+7093,Não se aplica,11
+7094,Não se aplica,11
+7095,Não se aplica,11
+7096,Não se aplica,11
+7097,Não se aplica,13
+7098,Não se aplica,13
+7099,Não se aplica,13
+7100,Não se aplica,13
+7101,Não se aplica,13
+7102,Não se aplica,18
+7103,Não se aplica,18
+7104,Não se aplica,18
+7105,Não se aplica,18
+7106,Não se aplica,18
+7107,Não se aplica,18
+7108,Não se aplica,18
+7109,Não se aplica,18
+7110,Não se aplica,18
+7111,Não se aplica,18
+7112,Não se aplica,18
+7113,Não se aplica,18
+7114,Não se aplica,18
+7115,Não se aplica,18
+7116,Não se aplica,18
+7117,Não se aplica,18
+7118,Não se aplica,18
+7119,Não se aplica,18
+7120,Não se aplica,18
+7121,Não se aplica,18
+7122,Não se aplica,18
+7123,Não se aplica,18
+7124,Não se aplica,18
+7125,Não se aplica,18
+7126,Não se aplica,18
+7127,Não se aplica,18
+7128,Não se aplica,18
+7129,Não se aplica,18
+7130,Não se aplica,18
+7131,Não se aplica,18
+7132,Não se aplica,18
+7133,Não se aplica,18
+7134,Não se aplica,18
+7135,Não se aplica,18
+7136,Não se aplica,18
+7137,Não se aplica,15
+7138,Não se aplica,15
+7139,Não se aplica,15
+7140,Não se aplica,15
+7141,Não se aplica,15
+7142,Não se aplica,15
+7143,Não se aplica,15
+7144,Não se aplica,15
+7145,Não se aplica,15
+7146,Não se aplica,15
+7147,Não se aplica,15
+7148,Não se aplica,15
+7149,Não se aplica,15
+7150,Não se aplica,15
+7151,Não se aplica,15
+7152,Não se aplica,15
+7153,Não se aplica,15
+7154,Não se aplica,15
+7155,Não se aplica,15
+7156,Não se aplica,15
+7157,Não se aplica,15
+7158,Não se aplica,15
+7159,Não se aplica,15
+7160,Não se aplica,15
+7161,Não se aplica,15
+7162,Não se aplica,15
+7163,Não se aplica,15
+7164,Não se aplica,15
+7165,Não se aplica,15
+7166,Não se aplica,15
+7167,Não se aplica,15
+7168,Não se aplica,15
+7169,Não se aplica,15
+7170,Não se aplica,15
+7171,Não se aplica,15
+7172,Não se aplica,17
+7173,Não se aplica,17
+7174,Não se aplica,17
+7175,Não se aplica,17
+7176,Não se aplica,17
+7177,Não se aplica,17
+7178,Não se aplica,17
+7179,Não se aplica,17
+7180,Não se aplica,17
+7181,Não se aplica,17
+7182,Não se aplica,17
+7183,Não se aplica,17
+7184,Não se aplica,17
+7185,Não se aplica,17
+7186,Não se aplica,17
+7187,Não se aplica,17
+7188,Não se aplica,17
+7189,Não se aplica,17
+7190,Não se aplica,17
+7191,Não se aplica,17
+7192,Não se aplica,17
+7193,Não se aplica,17
+7194,Não se aplica,17
+7195,Não se aplica,17
+7196,Não se aplica,17
+7197,Não se aplica,17
+7198,Não se aplica,17
+7199,Não se aplica,17
+7200,Não se aplica,17
+7201,Não se aplica,17
+7202,Não se aplica,17
+7203,Não se aplica,17
+7204,Não se aplica,17
+7205,Não se aplica,17
+7206,Não se aplica,17
+7207,Não se aplica,17
+7208,Não se aplica,17
+7209,Não se aplica,17
+7210,Não se aplica,17
+7211,Não se aplica,17
+7212,Não se aplica,11
+7213,Não se aplica,11
+7214,Não se aplica,11
+7215,Não se aplica,11
+7216,Não se aplica,11
+7217,Não se aplica,11
+7218,Não se aplica,11
+7219,Não se aplica,11
+7220,Não se aplica,11
+7221,Não se aplica,11
+7222,Não se aplica,11
+7223,Não se aplica,11
+7224,Não se aplica,11
+7225,Não se aplica,11
+7226,Não se aplica,11
+7227,Não se aplica,11
+7228,Não se aplica,11
+7229,Não se aplica,11
+7230,Não se aplica,11
+7231,Não se aplica,11
+7232,Não se aplica,11
+7233,Não se aplica,11
+7234,Não se aplica,11
+7235,Não se aplica,11
+7236,Não se aplica,11
+7237,Não se aplica,11
+7238,Não se aplica,11
+7239,Não se aplica,11
+7240,Não se aplica,11
+7241,Não se aplica,11
+7242,Não se aplica,11
+7243,Não se aplica,11
+7244,Não se aplica,11
+7245,Não se aplica,11
+7246,Não se aplica,11
+7247,Não se aplica,11
+7248,Não se aplica,26
+7249,Não se aplica,26
+7250,Não se aplica,26
+7251,Não se aplica,26
+7252,Não se aplica,26
+7253,Não se aplica,26
+7254,Não se aplica,26
+7255,Não se aplica,26
+7256,Não se aplica,26
+7257,Não se aplica,26
+7258,Não se aplica,26
+7259,Não se aplica,26
+7260,Não se aplica,26
+7261,Não se aplica,26
+7262,Não se aplica,26
+7263,Não se aplica,26
+7264,Não se aplica,26
+7265,Não se aplica,26
+7266,Não se aplica,26
+7267,Não se aplica,26
+7268,Não se aplica,26
+7269,Não se aplica,26
+7270,Não se aplica,26
+7271,Não se aplica,26

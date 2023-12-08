@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+{% block title %} Uso de Drogas no Rio - População de Rua Carioca {% endblock %}
+{% block content %}
+<h1>Mapa dos Entorpecentes no Rio - População de Rua Carioca</h1>
+<p>Na tabela gráfica abaixo, há os três entorpecentes mais utilizados pela população em situação de rua por bairro do Rio de Janeiro em ordem alfabética.</p>
+<p>Observa-se que o tabaco é quase sempre o mais frequente porque, geralmente, a pessoa usa tabaco E alguma outra droga.</p>
+
+  <table class="table" >
+    <thead>
+      <tr>
+        <th scope="col">Bairro</th>
+        <th scope="col">Nome da Droga</th>
+        <th scope="col">Usuários Autodeclarados</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for droga in drogas %}
+        <tr>
+          <th scope="row">{{ droga.nome_bairro | title }}</th>
+          <td>{{ droga.tipo_droga | title }}</td>
+          <td>{{ droga.quantidade_utilizacao }}</td>
+        </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+{% endblock %}
+

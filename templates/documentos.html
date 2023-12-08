@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+{% block title %}  {% endblock %}
+{% block content %}
+<h1>Registro em Documentos no Rio - População de Rua Carioca</h1>
+<p>A tabela gráfica abaixo relaciona cada um dos principais tipos de documentos brasileiros com a quantidade de pessoas em situação de rua registradas que possuem o documento. No caso, uma pessoa pode ter até todos os documentos.</p>
+
+  <table class="table" >
+    <thead>
+      <tr>
+        <th scope="col">Tipo do Documento</th>
+        <th scope="col">Quantidade de Pessoas Registradas</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for doc in documentos %}
+        <tr>
+          <th scope="row">{{ doc.tipo_documento | title }}</th>
+          <td>{{ doc.contagem_documentos_por_tipo | title }}</td>
+        </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+{% endblock %}
+
