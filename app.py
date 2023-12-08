@@ -93,38 +93,41 @@ def menu():
 def drogas():
     with connection.cursor() as cursor:
         query_args = []
-        query_extra = ""
-        if request.args.get("search"):
-            query_extra = f"""
-                WHERE LOWER(B.bairro_nome) LIKE LOWER({request.args["search"]})
-            """
-            search = "%{}%".format()
-            query_args = [search]
         sql = """
-WITH DrogaRanking AS (
+    WITH DrogaRanking AS (
+        SELECT
+            B.nome_bairro,
+            D.tipo_droga,
+            COUNT(*) AS quantidade_utilizacao,
+            ROW_NUMBER() OVER (PARTITION BY B.nome_bairro ORDER BY COUNT(*) DESC) AS ranking
+        FROM
+            Pessoa AS P
+            INNER JOIN faz_uso AS F ON P.ID = F.ID
+            INNER JOIN Drogas AS D ON D.codigo = F.codigo
+            INNER JOIN coleta AS C ON C.ID = P.ID
+            INNER JOIN bairro AS B ON B.Codigo_da_RA = C.Codigo_da_RA
+        GROUP BY
+            B.nome_bairro, D.tipo_droga
+    )
     SELECT
-        B.nome_bairro,
-        D.tipo_droga,
-        COUNT(*) AS quantidade_utilizacao,
-        ROW_NUMBER() OVER (PARTITION BY B.nome_bairro ORDER BY COUNT(*) DESC) AS ranking
+        nome_bairro,
+        tipo_droga,
+        quantidade_utilizacao
     FROM
-        Pessoa AS P
-        INNER JOIN faz_uso AS F ON P.ID = F.ID
-        INNER JOIN Drogas AS D ON D.codigo = F.codigo
-        INNER JOIN coleta AS C ON C.ID = P.ID
-        INNER JOIN bairro AS B ON B.Codigo_da_RA = C.Codigo_da_RA
-    GROUP BY
-        B.nome_bairro, D.tipo_droga
-)
-SELECT
-    nome_bairro,
-    tipo_droga,
-    quantidade_utilizacao
-FROM
-    DrogaRanking
-WHERE
-    ranking < 4;
-            """.format(query_extra)
+        DrogaRanking
+                """
+
+        if request.args.get("search"):
+            sql += """
+    WHERE
+        ranking < 4 AND LOWER(nome_bairro) LIKE LOWER(%s);
+        """
+            query_args = ["%{}%".format(request.args["search"])]
+        else:
+            sql += """
+    WHERE
+        ranking < 4;
+                """
         cursor.execute(sql, query_args)
         result = cursor.fetchall()
     return render_template("drogas.html", drogas=result, search=request.args.get("search"))
@@ -133,14 +136,6 @@ WHERE
 def localizacoes():
     with connection.cursor() as cursor:
         query_args = []
-        query_extra = ""
-        if request.args.get("search"):
-            query_extra = f"""
-                WHERE LOWER(b.nome_bairro) LIKE LOWER(%s)
-            """
-            search = "%{}%".format(request.args["search"])
-            query_args = [search]
-            query_args = [f"%{request.args['search']}%"]
         sql = """
             SELECT
                 b.nome_bairro,
@@ -154,8 +149,17 @@ def localizacoes():
                 ) AS Quantidade_Pessoas
             FROM
                 bairro b
+            """
+        if request.args.get("search"):
+            sql += f"""
+            WHERE LOWER(b.nome_bairro) LIKE LOWER(%s)
             ORDER BY Quantidade_Pessoas DESC;
-            """.format(query_extra)
+            """
+            query_args = ["%{}%".format(request.args["search"])]
+        else:
+            sql += f"""
+            ORDER BY Quantidade_Pessoas DESC;
+            """
         cursor.execute(sql, query_args)
         result = cursor.fetchall()
     return render_template("localizacoes.html", localizacoes=result, search=request.args.get("search"))
@@ -164,14 +168,6 @@ def localizacoes():
 def motivos():
     with connection.cursor() as cursor:
         query_args = []
-        query_extra = ""
-        if request.args.get("search"):
-            query_extra = f"""
-                WHERE LOWER(b.nome_bairro) LIKE LOWER(%s)
-            """
-            search = "%{}%".format(request.args["search"])
-            query_args = [search]
-            query_args = [f"%{request.args['search']}%"]
         sql = """
             SELECT
                 B.nome_bairro,
@@ -186,13 +182,29 @@ def motivos():
             JOIN
                 bairro as B ON
                 B.Codigo_da_Ra = C.Codigo_da_Ra
+            """
+        if request.args.get("search"):
+            sql += f"""
+            WHERE LOWER(`nome_bairro`) LIKE LOWER(%s)
             GROUP BY
                 B.nome_bairro,
                 SR.Motivo_dormir_rua
             ORDER BY
                 B.nome_bairro ASC,
                 numero_ocorrencias DESC;
-            """.format(query_extra)
+            """
+            search = "%{}%".format(request.args["search"])
+            query_args = [search]
+            query_args = [f"%{request.args['search']}%"]
+        else:
+            sql += f"""
+            GROUP BY
+                B.nome_bairro,
+                SR.Motivo_dormir_rua
+            ORDER BY
+                B.nome_bairro ASC,
+                numero_ocorrencias DESC;
+            """
         cursor.execute(sql, query_args)
         result = cursor.fetchall()
     return render_template("motivos.html", motivos=result, search=request.args.get("search"))
@@ -201,14 +213,6 @@ def motivos():
 def doencas():
     with connection.cursor() as cursor:
         query_args = []
-        query_extra = ""
-        if request.args.get("search"):
-            query_extra = f"""
-                WHERE LOWER(b.nome_bairro) LIKE LOWER(%s)
-            """
-            search = "%{}%".format(request.args["search"])
-            query_args = [search]
-            query_args = [f"%{request.args['search']}%"]
         sql = """
 WITH CondicaoRanking AS (
     SELECT
@@ -232,9 +236,18 @@ SELECT
     quantidade_repeticoes
 FROM
     CondicaoRanking
-WHERE
-    ranking <= 2;
-            """.format(query_extra)
+            """
+        if request.args.get("search"):
+            sql += f"""
+                WHERE ranking <= 2 AND LOWER(nome_bairro) LIKE LOWER(%s);
+            """
+            search = "%{}%".format(request.args["search"])
+            query_args = [search]
+            query_args = [f"%{request.args['search']}%"]
+        else:
+            sql += f"""
+                WHERE ranking <= 2;
+            """
         cursor.execute(sql, query_args)
         result = cursor.fetchall()
     return render_template("doencas.html", doencas=result, search=request.args.get("search"))
@@ -243,14 +256,6 @@ WHERE
 def documentos():
     with connection.cursor() as cursor:
         query_args = []
-        query_extra = ""
-        if request.args.get("search"):
-            query_extra = f"""
-                WHERE LOWER(b.nome_bairro) LIKE LOWER(%s)
-            """
-            search = "%{}%".format(request.args["search"])
-            query_args = [search]
-            query_args = [f"%{request.args['search']}%"]
         sql = """
 SELECT
     tipo_documento,
@@ -264,8 +269,19 @@ FROM (
     JOIN Documentos AS D ON PO.codigo = D.codigo
     GROUP BY P.ID, D.tipo_documento
 ) AS subconsulta
-GROUP BY tipo_documento;
-            """.format(query_extra)
+            """
+        if request.args.get("search"):
+            sql += f"""
+            WHERE LOWER(tipo_documento) LIKE LOWER(%s)
+            GROUP BY tipo_documento;
+            """
+            search = "%{}%".format(request.args["search"])
+            query_args = [search]
+            query_args = [f"%{request.args['search']}%"]
+        else:
+            sql += f"""
+            GROUP BY tipo_documento;
+            """
         cursor.execute(sql, query_args)
         result = cursor.fetchall()
     return render_template("documentos.html", documentos=result, search=request.args.get("search"))
